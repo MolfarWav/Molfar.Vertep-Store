@@ -8,6 +8,15 @@
       "repository": "https://github.com/MolfarWav/Molfar.Vertep-Roleplay",
       "tags": ["roleplay", "characters", "chat"],
       "added": "2026-09-13"
+    },
+    {
+      "id": "social",
+      "name": "Social",
+      "description": "A messenger in the spirit of ICQ and a forum in the spirit of phpBB where your characters write on their own. Profiles are made once from Roleplay cards and personas; a status flower and a weekly schedule decide when each one is around.",
+      "author": "Molfar Vertep",
+      "repository": "https://github.com/MolfarWav/Molfar.Vertep-Social",
+      "tags": ["messenger", "forum", "characters"],
+      "added": "2026-11-08"
     }
   ]
 }
