@@ -1,0 +1,1390 @@
+{
+  "format": 1,
+  "id": "molfar/names-invented",
+  "name": "Invented names",
+  "author": "Molfar",
+  "license": "CC0-1.0",
+  "description": "Made-up fantasy names that sound like no real culture, for worlds of your own.",
+  "version": 1,
+  "entries": [
+    {
+      "id": "aldessa",
+      "kind": "name",
+      "name": "Aldessa",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "brevaine",
+      "kind": "name",
+      "name": "Brevaine",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "caldessa",
+      "kind": "name",
+      "name": "Caldessa",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dorivane",
+      "kind": "name",
+      "name": "Dorivane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "esmiri",
+      "kind": "name",
+      "name": "Esmiri",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "fenowyn",
+      "kind": "name",
+      "name": "Fenowyn",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "gisarel",
+      "kind": "name",
+      "name": "Gisarel",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "halvessa",
+      "kind": "name",
+      "name": "Halvessa",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ilsoreth",
+      "kind": "name",
+      "name": "Ilsoreth",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "jorvaine",
+      "kind": "name",
+      "name": "Jorvaine",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kirenne",
+      "kind": "name",
+      "name": "Kirenne",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lunessa",
+      "kind": "name",
+      "name": "Lunessa",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mirevane",
+      "kind": "name",
+      "name": "Mirevane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nolveth",
+      "kind": "name",
+      "name": "Nolveth",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "oristane",
+      "kind": "name",
+      "name": "Oristane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "pellara",
+      "kind": "name",
+      "name": "Pellara",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "quennith",
+      "kind": "name",
+      "name": "Quennith",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "rasalune",
+      "kind": "name",
+      "name": "Rasalune",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sarelle",
+      "kind": "name",
+      "name": "Sarelle",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "talvessa",
+      "kind": "name",
+      "name": "Talvessa",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ulmaine",
+      "kind": "name",
+      "name": "Ulmaine",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "veshari",
+      "kind": "name",
+      "name": "Veshari",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "wynserra",
+      "kind": "name",
+      "name": "Wynserra",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "xandrelle",
+      "kind": "name",
+      "name": "Xandrelle",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yvolenne",
+      "kind": "name",
+      "name": "Yvolenne",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zephanne",
+      "kind": "name",
+      "name": "Zephanne",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "aurevane",
+      "kind": "name",
+      "name": "Aurevane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "belmira",
+      "kind": "name",
+      "name": "Belmira",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "corvessa",
+      "kind": "name",
+      "name": "Corvessa",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dunerith",
+      "kind": "name",
+      "name": "Dunerith",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "elvithra",
+      "kind": "name",
+      "name": "Elvithra",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "faelune",
+      "kind": "name",
+      "name": "Faelune",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "garenne",
+      "kind": "name",
+      "name": "Garenne",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "hestrelle",
+      "kind": "name",
+      "name": "Hestrelle",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ivoren",
+      "kind": "name",
+      "name": "Ivoren",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "jethrane",
+      "kind": "name",
+      "name": "Jethrane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kelmora",
+      "kind": "name",
+      "name": "Kelmora",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lissavane",
+      "kind": "name",
+      "name": "Lissavane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "merenthe",
+      "kind": "name",
+      "name": "Merenthe",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "narvessa",
+      "kind": "name",
+      "name": "Narvessa",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "orsabel",
+      "kind": "name",
+      "name": "Orsabel",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "prythe",
+      "kind": "name",
+      "name": "Prythe",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "quillane",
+      "kind": "name",
+      "name": "Quillane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "rovenne",
+      "kind": "name",
+      "name": "Rovenne",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "selvarine",
+      "kind": "name",
+      "name": "Selvarine",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tamsorel",
+      "kind": "name",
+      "name": "Tamsorel",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "undrelle",
+      "kind": "name",
+      "name": "Undrelle",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vaelith",
+      "kind": "name",
+      "name": "Vaelith",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "wrenmara",
+      "kind": "name",
+      "name": "Wrenmara",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "xerith",
+      "kind": "name",
+      "name": "Xerith",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ysmeine",
+      "kind": "name",
+      "name": "Ysmeine",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zolvane",
+      "kind": "name",
+      "name": "Zolvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "arvenelle",
+      "kind": "name",
+      "name": "Arvenelle",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "brisavel",
+      "kind": "name",
+      "name": "Brisavel",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "calmessa",
+      "kind": "name",
+      "name": "Calmessa",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dessarune",
+      "kind": "name",
+      "name": "Dessarune",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "eluvane",
+      "kind": "name",
+      "name": "Eluvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "fyrelle",
+      "kind": "name",
+      "name": "Fyrelle",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "grisenne",
+      "kind": "name",
+      "name": "Grisenne",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "halmira",
+      "kind": "name",
+      "name": "Halmira",
+      "culture": "invented",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "aldrevan",
+      "kind": "name",
+      "name": "Aldrevan",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "brekor",
+      "kind": "name",
+      "name": "Brekor",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "caldrin",
+      "kind": "name",
+      "name": "Caldrin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dorvek",
+      "kind": "name",
+      "name": "Dorvek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "elmaran",
+      "kind": "name",
+      "name": "Elmaran",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "fendrel",
+      "kind": "name",
+      "name": "Fendrel",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "garvethan",
+      "kind": "name",
+      "name": "Garvethan",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "haldrek",
+      "kind": "name",
+      "name": "Haldrek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "irovan",
+      "kind": "name",
+      "name": "Irovan",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "jorrek",
+      "kind": "name",
+      "name": "Jorrek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kelvarin",
+      "kind": "name",
+      "name": "Kelvarin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lorvane",
+      "kind": "name",
+      "name": "Lorvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "maldrevo",
+      "kind": "name",
+      "name": "Maldrevo",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "norvek",
+      "kind": "name",
+      "name": "Norvek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "orvane",
+      "kind": "name",
+      "name": "Orvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "perrovan",
+      "kind": "name",
+      "name": "Perrovan",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "quorlan",
+      "kind": "name",
+      "name": "Quorlan",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rovadin",
+      "kind": "name",
+      "name": "Rovadin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "selmaric",
+      "kind": "name",
+      "name": "Selmaric",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tarvek",
+      "kind": "name",
+      "name": "Tarvek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ulvane",
+      "kind": "name",
+      "name": "Ulvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "veldrin",
+      "kind": "name",
+      "name": "Veldrin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "wyrevan",
+      "kind": "name",
+      "name": "Wyrevan",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "xandrek",
+      "kind": "name",
+      "name": "Xandrek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yorvan",
+      "kind": "name",
+      "name": "Yorvan",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "zeldric",
+      "kind": "name",
+      "name": "Zeldric",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "andervane",
+      "kind": "name",
+      "name": "Andervane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "brevok",
+      "kind": "name",
+      "name": "Brevok",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "corvane",
+      "kind": "name",
+      "name": "Corvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dalmerith",
+      "kind": "name",
+      "name": "Dalmerith",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "eskarran",
+      "kind": "name",
+      "name": "Eskarran",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "falderin",
+      "kind": "name",
+      "name": "Falderin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gorvane",
+      "kind": "name",
+      "name": "Gorvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "harvelun",
+      "kind": "name",
+      "name": "Harvelun",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ismaran",
+      "kind": "name",
+      "name": "Ismaran",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "jenvarek",
+      "kind": "name",
+      "name": "Jenvarek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kaldoran",
+      "kind": "name",
+      "name": "Kaldoran",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "leskarin",
+      "kind": "name",
+      "name": "Leskarin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "morvane",
+      "kind": "name",
+      "name": "Morvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "nydrek",
+      "kind": "name",
+      "name": "Nydrek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "olvarin",
+      "kind": "name",
+      "name": "Olvarin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "pelmarek",
+      "kind": "name",
+      "name": "Pelmarek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "quendrel",
+      "kind": "name",
+      "name": "Quendrel",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rhosvane",
+      "kind": "name",
+      "name": "Rhosvane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sorvelan",
+      "kind": "name",
+      "name": "Sorvelan",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tolmaric",
+      "kind": "name",
+      "name": "Tolmaric",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "urdane",
+      "kind": "name",
+      "name": "Urdane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vessarin",
+      "kind": "name",
+      "name": "Vessarin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "wolvaren",
+      "kind": "name",
+      "name": "Wolvaren",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yelmoran",
+      "kind": "name",
+      "name": "Yelmoran",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "zandrevo",
+      "kind": "name",
+      "name": "Zandrevo",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "arlenvar",
+      "kind": "name",
+      "name": "Arlenvar",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bryndok",
+      "kind": "name",
+      "name": "Bryndok",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "calvoran",
+      "kind": "name",
+      "name": "Calvoran",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dremarin",
+      "kind": "name",
+      "name": "Dremarin",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "edrevane",
+      "kind": "name",
+      "name": "Edrevane",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "fosvarek",
+      "kind": "name",
+      "name": "Fosvarek",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gelmaran",
+      "kind": "name",
+      "name": "Gelmaran",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hovrenic",
+      "kind": "name",
+      "name": "Hovrenic",
+      "culture": "invented",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vaelmoor",
+      "kind": "name",
+      "name": "Vaelmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "dunhavel",
+      "kind": "name",
+      "name": "Dunhavel",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "korvenhal",
+      "kind": "name",
+      "name": "Korvenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "ostrimar",
+      "kind": "name",
+      "name": "Ostrimar",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "lethvane",
+      "kind": "name",
+      "name": "Lethvane",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "marrowick",
+      "kind": "name",
+      "name": "Marrowick",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "ovrenhal",
+      "kind": "name",
+      "name": "Ovrenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "dunmarrow",
+      "kind": "name",
+      "name": "Dunmarrow",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "kelvenmoor",
+      "kind": "name",
+      "name": "Kelvenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "thessenvar",
+      "kind": "name",
+      "name": "Thessenvar",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "vorlanth",
+      "kind": "name",
+      "name": "Vorlanth",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "halvenmoor",
+      "kind": "name",
+      "name": "Halvenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "brisenhal",
+      "kind": "name",
+      "name": "Brisenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "corvaleth",
+      "kind": "name",
+      "name": "Corvaleth",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "dravenmoor",
+      "kind": "name",
+      "name": "Dravenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "elmaravel",
+      "kind": "name",
+      "name": "Elmaravel",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "fenhallow",
+      "kind": "name",
+      "name": "Fenhallow",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "garrenmoor",
+      "kind": "name",
+      "name": "Garrenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "holvaneth",
+      "kind": "name",
+      "name": "Holvaneth",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "iskerhal",
+      "kind": "name",
+      "name": "Iskerhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "jorvenhal",
+      "kind": "name",
+      "name": "Jorvenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "kaldenmere",
+      "kind": "name",
+      "name": "Kaldenmere",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "lornavel",
+      "kind": "name",
+      "name": "Lornavel",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "marenhal",
+      "kind": "name",
+      "name": "Marenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "norvanmoor",
+      "kind": "name",
+      "name": "Norvanmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "ostervane",
+      "kind": "name",
+      "name": "Ostervane",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "pellenmoor",
+      "kind": "name",
+      "name": "Pellenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "quorvale",
+      "kind": "name",
+      "name": "Quorvale",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "ravelhalt",
+      "kind": "name",
+      "name": "Ravelhalt",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "sundrevane",
+      "kind": "name",
+      "name": "Sundrevane",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "tolvenmoor",
+      "kind": "name",
+      "name": "Tolvenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "ulvenhal",
+      "kind": "name",
+      "name": "Ulvenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "verrenmoor",
+      "kind": "name",
+      "name": "Verrenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "wyrnhalt",
+      "kind": "name",
+      "name": "Wyrnhalt",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "yorvenhal",
+      "kind": "name",
+      "name": "Yorvenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "zelvamoor",
+      "kind": "name",
+      "name": "Zelvamoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "ardovane",
+      "kind": "name",
+      "name": "Ardovane",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "brelhaven",
+      "kind": "name",
+      "name": "Brelhaven",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "caldomere",
+      "kind": "name",
+      "name": "Caldomere",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "drevanholt",
+      "kind": "name",
+      "name": "Drevanholt",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "eskerval",
+      "kind": "name",
+      "name": "Eskerval",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "falmarrow",
+      "kind": "name",
+      "name": "Falmarrow",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "gorvenhal",
+      "kind": "name",
+      "name": "Gorvenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "hesterveld",
+      "kind": "name",
+      "name": "Hesterveld",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "ilmaren",
+      "kind": "name",
+      "name": "Ilmaren",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "jandrevale",
+      "kind": "name",
+      "name": "Jandrevale",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "korthalune",
+      "kind": "name",
+      "name": "Korthalune",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "lysmarrow",
+      "kind": "name",
+      "name": "Lysmarrow",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "mendavane",
+      "kind": "name",
+      "name": "Mendavane",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "nethervale",
+      "kind": "name",
+      "name": "Nethervale",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "orlenmoor",
+      "kind": "name",
+      "name": "Orlenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "pyrenhal",
+      "kind": "name",
+      "name": "Pyrenhal",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "quendarow",
+      "kind": "name",
+      "name": "Quendarow",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "rhovenmere",
+      "kind": "name",
+      "name": "Rhovenmere",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "sarmovane",
+      "kind": "name",
+      "name": "Sarmovane",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "tessarun",
+      "kind": "name",
+      "name": "Tessarun",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "uldrenmoor",
+      "kind": "name",
+      "name": "Uldrenmoor",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "velmarrow",
+      "kind": "name",
+      "name": "Velmarrow",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "wendrathe",
+      "kind": "name",
+      "name": "Wendrathe",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "xorvaleth",
+      "kind": "name",
+      "name": "Xorvaleth",
+      "culture": "invented",
+      "part": "family"
+    },
+    {
+      "id": "zandremoor",
+      "kind": "name",
+      "name": "Zandremoor",
+      "culture": "invented",
+      "part": "family"
+    }
+  ]
+}

@@ -1,0 +1,1429 @@
+{
+  "format": 1,
+  "id": "molfar/names-spanish",
+  "name": "Spanish names",
+  "author": "Molfar",
+  "license": "CC0-1.0",
+  "description": "Spanish given names and family names for stories set in Spain and the Spanish-speaking world.",
+  "version": 1,
+  "entries": [
+    {
+      "id": "maria",
+      "kind": "name",
+      "name": "María",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "carmen",
+      "kind": "name",
+      "name": "Carmen",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "isabel",
+      "kind": "name",
+      "name": "Isabel",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lucia",
+      "kind": "name",
+      "name": "Lucía",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sofia",
+      "kind": "name",
+      "name": "Sofía",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "elena",
+      "kind": "name",
+      "name": "Elena",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "teresa",
+      "kind": "name",
+      "name": "Teresa",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "pilar",
+      "kind": "name",
+      "name": "Pilar",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "rosa",
+      "kind": "name",
+      "name": "Rosa",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dolores",
+      "kind": "name",
+      "name": "Dolores",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ines",
+      "kind": "name",
+      "name": "Inés",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "marta",
+      "kind": "name",
+      "name": "Marta",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "paula",
+      "kind": "name",
+      "name": "Paula",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "alba",
+      "kind": "name",
+      "name": "Alba",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "beatriz",
+      "kind": "name",
+      "name": "Beatriz",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "catalina",
+      "kind": "name",
+      "name": "Catalina",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "cristina",
+      "kind": "name",
+      "name": "Cristina",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "daniela",
+      "kind": "name",
+      "name": "Daniela",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "eva",
+      "kind": "name",
+      "name": "Eva",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "esperanza",
+      "kind": "name",
+      "name": "Esperanza",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "fernanda",
+      "kind": "name",
+      "name": "Fernanda",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "gabriela",
+      "kind": "name",
+      "name": "Gabriela",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "imelda",
+      "kind": "name",
+      "name": "Imelda",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "irene",
+      "kind": "name",
+      "name": "Irene",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "josefina",
+      "kind": "name",
+      "name": "Josefina",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "julia",
+      "kind": "name",
+      "name": "Julia",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "leonor",
+      "kind": "name",
+      "name": "Leonor",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "luisa",
+      "kind": "name",
+      "name": "Luisa",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "macarena",
+      "kind": "name",
+      "name": "Macarena",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mercedes",
+      "kind": "name",
+      "name": "Mercedes",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "milagros",
+      "kind": "name",
+      "name": "Milagros",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "monica",
+      "kind": "name",
+      "name": "Mónica",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "natalia",
+      "kind": "name",
+      "name": "Natalia",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nuria",
+      "kind": "name",
+      "name": "Nuria",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "olalla",
+      "kind": "name",
+      "name": "Olalla",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "paloma",
+      "kind": "name",
+      "name": "Paloma",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "raquel",
+      "kind": "name",
+      "name": "Raquel",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "reyes",
+      "kind": "name",
+      "name": "Reyes",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "rocio",
+      "kind": "name",
+      "name": "Rocío",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sara",
+      "kind": "name",
+      "name": "Sara",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "soledad",
+      "kind": "name",
+      "name": "Soledad",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "valentina",
+      "kind": "name",
+      "name": "Valentina",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "valeria",
+      "kind": "name",
+      "name": "Valeria",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "veronica",
+      "kind": "name",
+      "name": "Verónica",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ximena",
+      "kind": "name",
+      "name": "Ximena",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yolanda",
+      "kind": "name",
+      "name": "Yolanda",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "amparo",
+      "kind": "name",
+      "name": "Amparo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "angela",
+      "kind": "name",
+      "name": "Ángela",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "araceli",
+      "kind": "name",
+      "name": "Araceli",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "blanca",
+      "kind": "name",
+      "name": "Blanca",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "candela",
+      "kind": "name",
+      "name": "Candela",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "consuelo",
+      "kind": "name",
+      "name": "Consuelo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "encarnacion",
+      "kind": "name",
+      "name": "Encarnación",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "guadalupe",
+      "kind": "name",
+      "name": "Guadalupe",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "jimena",
+      "kind": "name",
+      "name": "Jimena",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lola",
+      "kind": "name",
+      "name": "Lola",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "marisol",
+      "kind": "name",
+      "name": "Marisol",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "noelia",
+      "kind": "name",
+      "name": "Noelia",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "remedios",
+      "kind": "name",
+      "name": "Remedios",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sol",
+      "kind": "name",
+      "name": "Sol",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "alejandro",
+      "kind": "name",
+      "name": "Alejandro",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "antonio",
+      "kind": "name",
+      "name": "Antonio",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "carlos",
+      "kind": "name",
+      "name": "Carlos",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "diego",
+      "kind": "name",
+      "name": "Diego",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "eduardo",
+      "kind": "name",
+      "name": "Eduardo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "emilio",
+      "kind": "name",
+      "name": "Emilio",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "fernando",
+      "kind": "name",
+      "name": "Fernando",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "francisco",
+      "kind": "name",
+      "name": "Francisco",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gabriel",
+      "kind": "name",
+      "name": "Gabriel",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gonzalo",
+      "kind": "name",
+      "name": "Gonzalo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "guillermo",
+      "kind": "name",
+      "name": "Guillermo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hector",
+      "kind": "name",
+      "name": "Héctor",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ignacio",
+      "kind": "name",
+      "name": "Ignacio",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "javier",
+      "kind": "name",
+      "name": "Javier",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "joaquin",
+      "kind": "name",
+      "name": "Joaquín",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "jorge",
+      "kind": "name",
+      "name": "Jorge",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "jose",
+      "kind": "name",
+      "name": "José",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "juan",
+      "kind": "name",
+      "name": "Juan",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "julian",
+      "kind": "name",
+      "name": "Julián",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "leandro",
+      "kind": "name",
+      "name": "Leandro",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lorenzo",
+      "kind": "name",
+      "name": "Lorenzo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "luis",
+      "kind": "name",
+      "name": "Luis",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "manuel",
+      "kind": "name",
+      "name": "Manuel",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "marcos",
+      "kind": "name",
+      "name": "Marcos",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "mateo",
+      "kind": "name",
+      "name": "Mateo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "miguel",
+      "kind": "name",
+      "name": "Miguel",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "nicolas",
+      "kind": "name",
+      "name": "Nicolás",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "pablo",
+      "kind": "name",
+      "name": "Pablo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "pedro",
+      "kind": "name",
+      "name": "Pedro",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rafael",
+      "kind": "name",
+      "name": "Rafael",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ramon",
+      "kind": "name",
+      "name": "Ramón",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "raul",
+      "kind": "name",
+      "name": "Raúl",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ricardo",
+      "kind": "name",
+      "name": "Ricardo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "roberto",
+      "kind": "name",
+      "name": "Roberto",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rodrigo",
+      "kind": "name",
+      "name": "Rodrigo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "salvador",
+      "kind": "name",
+      "name": "Salvador",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "santiago",
+      "kind": "name",
+      "name": "Santiago",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sergio",
+      "kind": "name",
+      "name": "Sergio",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tomas",
+      "kind": "name",
+      "name": "Tomás",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "valentin",
+      "kind": "name",
+      "name": "Valentín",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vicente",
+      "kind": "name",
+      "name": "Vicente",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "andres",
+      "kind": "name",
+      "name": "Andrés",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "alvaro",
+      "kind": "name",
+      "name": "Álvaro",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "arturo",
+      "kind": "name",
+      "name": "Arturo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "cristobal",
+      "kind": "name",
+      "name": "Cristóbal",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dario",
+      "kind": "name",
+      "name": "Darío",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "enrique",
+      "kind": "name",
+      "name": "Enrique",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "esteban",
+      "kind": "name",
+      "name": "Esteban",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "felipe",
+      "kind": "name",
+      "name": "Felipe",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gustavo",
+      "kind": "name",
+      "name": "Gustavo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hugo",
+      "kind": "name",
+      "name": "Hugo",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ivan",
+      "kind": "name",
+      "name": "Iván",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "jaime",
+      "kind": "name",
+      "name": "Jaime",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lazaro",
+      "kind": "name",
+      "name": "Lázaro",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "octavio",
+      "kind": "name",
+      "name": "Octavio",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "oscar",
+      "kind": "name",
+      "name": "Óscar",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "pascual",
+      "kind": "name",
+      "name": "Pascual",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ruben",
+      "kind": "name",
+      "name": "Rubén",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sancho",
+      "kind": "name",
+      "name": "Sancho",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "teodoro",
+      "kind": "name",
+      "name": "Teodoro",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "xavier",
+      "kind": "name",
+      "name": "Xavier",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "alonso",
+      "kind": "name",
+      "name": "Alonso",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "fermin",
+      "kind": "name",
+      "name": "Fermín",
+      "culture": "spanish",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "garcia",
+      "kind": "name",
+      "name": "García",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "fernandez",
+      "kind": "name",
+      "name": "Fernández",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "gonzalez",
+      "kind": "name",
+      "name": "González",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "rodriguez",
+      "kind": "name",
+      "name": "Rodríguez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "lopez",
+      "kind": "name",
+      "name": "López",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "martinez",
+      "kind": "name",
+      "name": "Martínez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "sanchez",
+      "kind": "name",
+      "name": "Sánchez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "perez",
+      "kind": "name",
+      "name": "Pérez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "gomez",
+      "kind": "name",
+      "name": "Gómez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "martin",
+      "kind": "name",
+      "name": "Martín",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "jimenez",
+      "kind": "name",
+      "name": "Jiménez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "ruiz",
+      "kind": "name",
+      "name": "Ruiz",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "hernandez",
+      "kind": "name",
+      "name": "Hernández",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "diaz",
+      "kind": "name",
+      "name": "Díaz",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "moreno",
+      "kind": "name",
+      "name": "Moreno",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "alvarez",
+      "kind": "name",
+      "name": "Álvarez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "romero",
+      "kind": "name",
+      "name": "Romero",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "alonso-fam",
+      "kind": "name",
+      "name": "Alonso",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "gutierrez",
+      "kind": "name",
+      "name": "Gutiérrez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "navarro",
+      "kind": "name",
+      "name": "Navarro",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "torres",
+      "kind": "name",
+      "name": "Torres",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "dominguez",
+      "kind": "name",
+      "name": "Domínguez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "vazquez",
+      "kind": "name",
+      "name": "Vázquez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "ramos",
+      "kind": "name",
+      "name": "Ramos",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "gil",
+      "kind": "name",
+      "name": "Gil",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "serrano",
+      "kind": "name",
+      "name": "Serrano",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "blanco",
+      "kind": "name",
+      "name": "Blanco",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "molina",
+      "kind": "name",
+      "name": "Molina",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "morales",
+      "kind": "name",
+      "name": "Morales",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "suarez",
+      "kind": "name",
+      "name": "Suárez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "ortega",
+      "kind": "name",
+      "name": "Ortega",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "delgado",
+      "kind": "name",
+      "name": "Delgado",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "castro",
+      "kind": "name",
+      "name": "Castro",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "ortiz",
+      "kind": "name",
+      "name": "Ortiz",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "rubio",
+      "kind": "name",
+      "name": "Rubio",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "marin",
+      "kind": "name",
+      "name": "Marín",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "sanz",
+      "kind": "name",
+      "name": "Sanz",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "iglesias",
+      "kind": "name",
+      "name": "Iglesias",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "medina",
+      "kind": "name",
+      "name": "Medina",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "garrido",
+      "kind": "name",
+      "name": "Garrido",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "cortes",
+      "kind": "name",
+      "name": "Cortés",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "castillo",
+      "kind": "name",
+      "name": "Castillo",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "santos",
+      "kind": "name",
+      "name": "Santos",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "lozano",
+      "kind": "name",
+      "name": "Lozano",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "guerrero",
+      "kind": "name",
+      "name": "Guerrero",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "cano",
+      "kind": "name",
+      "name": "Cano",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "prieto",
+      "kind": "name",
+      "name": "Prieto",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "mendez",
+      "kind": "name",
+      "name": "Méndez",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "cruz",
+      "kind": "name",
+      "name": "Cruz",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "calvo",
+      "kind": "name",
+      "name": "Calvo",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "gallego",
+      "kind": "name",
+      "name": "Gallego",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "vidal",
+      "kind": "name",
+      "name": "Vidal",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "leon",
+      "kind": "name",
+      "name": "León",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "herrera",
+      "kind": "name",
+      "name": "Herrera",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "pena",
+      "kind": "name",
+      "name": "Peña",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "flores",
+      "kind": "name",
+      "name": "Flores",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "cabrera",
+      "kind": "name",
+      "name": "Cabrera",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "campos",
+      "kind": "name",
+      "name": "Campos",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "fuentes",
+      "kind": "name",
+      "name": "Fuentes",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "carrasco",
+      "kind": "name",
+      "name": "Carrasco",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "nieto",
+      "kind": "name",
+      "name": "Nieto",
+      "culture": "spanish",
+      "part": "family"
+    },
+    {
+      "id": "aguilar",
+      "kind": "name",
+      "name": "Aguilar",
+      "culture": "spanish",
+      "part": "family"
+    }
+  ]
+}

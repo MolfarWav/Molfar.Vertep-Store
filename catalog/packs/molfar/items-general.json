@@ -1,0 +1,1631 @@
+{
+ "format": 1,
+ "id": "molfar/items-general",
+ "name": "Items (general)",
+ "author": "Molfar",
+ "license": "CC0-1.0",
+ "description": "Distinctive relics, tools, gadgets, curios and keepsakes with a story hook.",
+ "version": 1,
+ "entries": [
+  {
+   "id": "compass-of-second-thoughts",
+   "kind": "item",
+   "name": "Compass of Second Thoughts",
+   "desc": "A brass compass whose needle points to whatever the holder will regret leaving behind.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "teacup-of-honest-steam",
+   "kind": "item",
+   "name": "Teacup of Honest Steam",
+   "desc": "A chipped porcelain cup that releases steam shaped like the truth when filled with tea.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "spindle-of-borrowed-hours",
+   "kind": "item",
+   "name": "Spindle of Borrowed Hours",
+   "desc": "A wooden spindle that spins thread from lost time. Each skein buys the wearer a short extension of the day.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "gloamglass-lens",
+   "kind": "item",
+   "name": "Gloamglass Lens",
+   "desc": "A monocle that shows what a room looked like an hour earlier. Wearing it too long dims the eye.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "lantern-of-small-mercies",
+   "kind": "item",
+   "name": "Lantern of Small Mercies",
+   "desc": "A tin lantern that lights only for travelers who are lost and not by choice.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "the-patient-key",
+   "kind": "item",
+   "name": "The Patient Key",
+   "desc": "A bronze key that opens any door, but only after being asked three times.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "thimble-of-the-seventh-stitch",
+   "kind": "item",
+   "name": "Thimble of the Seventh Stitch",
+   "desc": "A silver thimble that lets its wearer sew a wound closed with ordinary thread.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "bell-that-rings-once",
+   "kind": "item",
+   "name": "Bell That Rings Once",
+   "desc": "A hand bell that sounds a single time in a lifetime, for whatever matters most to the holder.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "moth-wing-cloak",
+   "kind": "item",
+   "name": "Moth-Wing Cloak",
+   "desc": "A pale cloak that makes the wearer easy to overlook in lamplight and impossible to overlook in the dark.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "cartographers-ink",
+   "kind": "item",
+   "name": "Cartographer's Ink",
+   "desc": "A bottle of ink that draws maps of places the writer is about to arrive at.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "quill-of-last-words",
+   "kind": "item",
+   "name": "Quill of Last Words",
+   "desc": "A feather pen that writes a person's final letter correctly, whether or not they know it will be the last.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "tankard-of-plenty-ish",
+   "kind": "item",
+   "name": "Tankard of Plenty-ish",
+   "desc": "A battered mug that fills with something drinkable, if rarely the drink you wanted.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "brass-bee",
+   "kind": "item",
+   "name": "Brass Bee",
+   "desc": "A mechanical bee that carries messages between hives and, sometimes, between worlds.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "the-unspilled-cup",
+   "kind": "item",
+   "name": "The Unspilled Cup",
+   "desc": "A goblet whose contents never spill, even if dropped. Its previous owner is unknown and apparently thirsty.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "fogbound-compass",
+   "kind": "item",
+   "name": "Fogbound Compass",
+   "desc": "A strange compass that points to the next place the fog will lift.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "loom-of-quiet-hours",
+   "kind": "item",
+   "name": "Loom of Quiet Hours",
+   "desc": "A small tabletop loom that weaves silence into a shawl, muffling every sound beneath it.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "ring-of-gentle-hands",
+   "kind": "item",
+   "name": "Ring of Gentle Hands",
+   "desc": "A plain ring that prevents the wearer from striking in anger, to their frequent irritation.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "boots-of-the-long-way",
+   "kind": "item",
+   "name": "Boots of the Long Way",
+   "desc": "Worn boots that always find the scenic route, whether you want it or not.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "bottled-dawn",
+   "kind": "item",
+   "name": "Bottled Dawn",
+   "desc": "A glass flask holding a single sunrise. Uncork it in a dark place and the light lasts a minute.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "candle-of-remembered-faces",
+   "kind": "item",
+   "name": "Candle of Remembered Faces",
+   "desc": "A candle that shows the face of the last person who thought of you.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "rune-stitched-satchel",
+   "kind": "item",
+   "name": "Rune-Stitched Satchel",
+   "desc": "A leather bag with more inside than outside, and a talent for hiding the item you need.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "pocket-orchard",
+   "kind": "item",
+   "name": "Pocket Orchard",
+   "desc": "A small pouch holding a living apple tree that bears one fruit a day, each a different taste.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "amber-hourglass",
+   "kind": "item",
+   "name": "Amber Hourglass",
+   "desc": "An hourglass filled with resin that slows time around whoever turns it.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "staff-of-the-third-branch",
+   "kind": "item",
+   "name": "Staff of the Third Branch",
+   "desc": "A walking staff that grows leaves when the wielder tells a lie.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "nesting-dolls-of-the-wren-court",
+   "kind": "item",
+   "name": "Nesting Dolls of the Wren Court",
+   "desc": "A set of wooden dolls that each hold a smaller secret than the last.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "salt-crowned-mask",
+   "kind": "item",
+   "name": "Salt-Crowned Mask",
+   "desc": "A mask of dried salt that grants the wearer a sea-sailor's luck and a sailor's thirst.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "the-whistling-stone",
+   "kind": "item",
+   "name": "The Whistling Stone",
+   "desc": "A smooth stone that whistles a tune when someone nearby is hiding something.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "wax-seal-of-the-silent-king",
+   "kind": "item",
+   "name": "Wax Seal of the Silent King",
+   "desc": "A signet that closes a letter so tightly only the intended reader may open it.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "lace-of-ninefold-veils",
+   "kind": "item",
+   "name": "Lace of Ninefold Veils",
+   "desc": "A shawl of fine lace that hides the wearer from a single named person.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "hearthstone-pendant",
+   "kind": "item",
+   "name": "Hearthstone Pendant",
+   "desc": "A small warm stone worn at the neck that guides its wearer home, however long the road.",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "rosary-of-hanging-beads",
+   "kind": "item",
+   "name": "Rosary of Hanging Beads",
+   "desc": "A rosary made of small knuckle bones. Every bead whispers the name of someone who prayed with it.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "the-hollow-crown",
+   "kind": "item",
+   "name": "The Hollow Crown",
+   "desc": "A rusted crown whose wearer hears the voices of every ruler who wore it before.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "knife-of-unfinished-business",
+   "kind": "item",
+   "name": "Knife of Unfinished Business",
+   "desc": "A short blade that never rusts and cannot be sheathed until its owner finishes what they began.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "veil-of-the-weeping-widow",
+   "kind": "item",
+   "name": "Veil of the Weeping Widow",
+   "desc": "A black veil that shows the wearer how each person near them will die.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "cup-of-sour-wine",
+   "kind": "item",
+   "name": "Cup of Sour Wine",
+   "desc": "A battered chalice whose wine tastes of the drinker's worst regret. Priests say it purifies.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "mourners-lantern",
+   "kind": "item",
+   "name": "Mourner's Lantern",
+   "desc": "A lantern whose light is cold and blue. Those who walk by it grieve without knowing why.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "bone-dice",
+   "kind": "item",
+   "name": "Bone Dice",
+   "desc": "Six carved dice that always roll the number of years the player has left to live.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "the-pale-ledger",
+   "kind": "item",
+   "name": "The Pale Ledger",
+   "desc": "A cracked ledger recording debts owed to the dead, in ink that smells of earth.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "skinbound-prayer-book",
+   "kind": "item",
+   "name": "Skinbound Prayer Book",
+   "desc": "A prayer book bound in a stranger's skin. It opens to the prayer the reader most needs and least wants.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "tallow-hand",
+   "kind": "item",
+   "name": "Tallow Hand",
+   "desc": "A hand of candle wax that burns with a flame only the dying can see.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "gravediggers-spade",
+   "kind": "item",
+   "name": "Gravedigger's Spade",
+   "desc": "A heavy spade that digs any grave in a single stroke. It will not bury anyone still breathing.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "rooks-tithe-purse",
+   "kind": "item",
+   "name": "Rook's Tithe Purse",
+   "desc": "A black purse that fills with coins each dusk, taking one memory in exchange for every coin.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "the-last-rites-kit",
+   "kind": "item",
+   "name": "The Last Rites Kit",
+   "desc": "A leather case of oils and a bell, used by a priest who has lost count of the dead.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "iron-collar-of-the-pious",
+   "kind": "item",
+   "name": "Iron Collar of the Pious",
+   "desc": "A heavy collar that makes the wearer honest and in constant pain.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "thorned-gauntlet",
+   "kind": "item",
+   "name": "Thorned Gauntlet",
+   "desc": "A glove of steel thorns that bleeds its owner to pay for its strength.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "moonless-mirror",
+   "kind": "item",
+   "name": "Moonless Mirror",
+   "desc": "A tarnished mirror that shows the viewer without their shadow, and sometimes with someone else's.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "hunger-loaf",
+   "kind": "item",
+   "name": "Hunger Loaf",
+   "desc": "A black loaf that feeds anyone but leaves the eater hungrier than before.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "bell-of-the-drowned",
+   "kind": "item",
+   "name": "Bell of the Drowned",
+   "desc": "A rusted ship's bell that rings, when struck, from beneath the water in the distance.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "cinder-locket",
+   "kind": "item",
+   "name": "Cinder Locket",
+   "desc": "A locket holding ashes that whisper requests to the one who wears it.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "plague-mask-of-sweet-herbs",
+   "kind": "item",
+   "name": "Plague Mask of Sweet Herbs",
+   "desc": "A beaked mask stuffed with herbs, said to ward off sickness and the sight of the sick.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "scarecrows-heart",
+   "kind": "item",
+   "name": "Scarecrow's Heart",
+   "desc": "A knot of straw and twine that beats faintly when a lie is told within earshot.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "gallows-rope",
+   "kind": "item",
+   "name": "Gallows Rope",
+   "desc": "A frayed rope that tightens by itself around the guilty.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "lantern-of-the-last-mile",
+   "kind": "item",
+   "name": "Lantern of the Last Mile",
+   "desc": "A lantern carried by the condemned that burns brighter as dawn approaches.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "witchs-cradle",
+   "kind": "item",
+   "name": "Witch's Cradle",
+   "desc": "A small wooden cradle that rocks itself near anyone with an unborn curse.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "the-rotted-scepter",
+   "kind": "item",
+   "name": "The Rotted Scepter",
+   "desc": "A scepter of black wood that crumbles when its bearer speaks a true promise.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "sallow-candle",
+   "kind": "item",
+   "name": "Sallow Candle",
+   "desc": "A yellow candle that burns away fever from the room but not from the sick.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "ossuary-key",
+   "kind": "item",
+   "name": "Ossuary Key",
+   "desc": "A key made of a finger bone, opening any tomb and tarnishing the one who uses it.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "hollow-saint-medal",
+   "kind": "item",
+   "name": "Hollow Saint Medal",
+   "desc": "A medal showing a saint with no face. Pilgrims swear it listens.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "wretchs-coin",
+   "kind": "item",
+   "name": "Wretch's Coin",
+   "desc": "A coin that cannot be spent. It only seeks a new owner who needs it more.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "mantle-of-ash-wool",
+   "kind": "item",
+   "name": "Mantle of Ash Wool",
+   "desc": "A gray mantle that makes the wearer immune to cold and to joy.",
+   "tags": [
+    "dark_fantasy"
+   ]
+  },
+  {
+   "id": "pocket-orrery",
+   "kind": "item",
+   "name": "Pocket Orrery",
+   "desc": "A palm-sized orrery that shows the exact current positions of every ship in range.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "cold-sleep-locket",
+   "kind": "item",
+   "name": "Cold Sleep Locket",
+   "desc": "A locket containing a single frozen heartbeat, recorded the day its owner went into cryosleep.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "quantum-coin",
+   "kind": "item",
+   "name": "Quantum Coin",
+   "desc": "A coin that lands as tails when observed by its owner and heads for everyone else.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "black-box-cookbook",
+   "kind": "item",
+   "name": "Black Box Cookbook",
+   "desc": "A cookbook assembled from recipes recovered from shipwreck logs, each with a note from the cook.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "salvage-kings-wrench",
+   "kind": "item",
+   "name": "Salvage King's Wrench",
+   "desc": "A worn wrench said to fit every bolt in the galaxy. Its original owner left no name.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "the-quiet-radio",
+   "kind": "item",
+   "name": "The Quiet Radio",
+   "desc": "A shortwave radio that receives only transmissions from stations that stopped broadcasting long ago.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "gravity-marbles",
+   "kind": "item",
+   "name": "Gravity Marbles",
+   "desc": "A set of glass marbles that each fall in a different direction.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "neutrino-teacup",
+   "kind": "item",
+   "name": "Neutrino Teacup",
+   "desc": "A teacup that cools tea instantly and delivers it as a faint blue glow.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "stationmasters-pocket-watch",
+   "kind": "item",
+   "name": "Stationmaster's Pocket Watch",
+   "desc": "A watch set to three different times, used for ancient schedules.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "meridian-visor",
+   "kind": "item",
+   "name": "Meridian Visor",
+   "desc": "A pair of glasses that show the terraforming history of any surface.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "the-backup-cat",
+   "kind": "item",
+   "name": "The Backup Cat",
+   "desc": "A small robot pet that stores the owner's memories and will not stop purring.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "vacuum-seed-pod",
+   "kind": "item",
+   "name": "Vacuum Seed Pod",
+   "desc": "A seed capsule that sprouts in zero gravity into a sprawling, ornamental vine.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "escape-pod-sketchbook",
+   "kind": "item",
+   "name": "Escape Pod Sketchbook",
+   "desc": "A sketchbook found in a sealed pod, filled with drawings of landscapes no one has found.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "hyperlane-dowsing-rod",
+   "kind": "item",
+   "name": "Hyperlane Dowsing Rod",
+   "desc": "A metal rod that twitches near stable jump points and stays stubbornly still near dead ends.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "dreamlink-headband",
+   "kind": "item",
+   "name": "Dreamlink Headband",
+   "desc": "A band that records dreams. The recordings are said to include more than the wearer saw.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "ration-brick-of-many-flavors",
+   "kind": "item",
+   "name": "Ration Brick of Many Flavors",
+   "desc": "A tough ration brick that changes flavor with the hunger of whoever eats it.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "the-lost-log",
+   "kind": "item",
+   "name": "The Lost Log",
+   "desc": "A ship log that rewrites itself each time it is opened, always with a new omitted detail.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "pulsar-tuning-fork",
+   "kind": "item",
+   "name": "Pulsar Tuning Fork",
+   "desc": "A tuning fork that hums in time with the nearest neutron star.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "shipwrights-slate",
+   "kind": "item",
+   "name": "Shipwright's Slate",
+   "desc": "A scratched tablet containing the blueprints for a ship that nobody has been able to build.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "starlight-jar",
+   "kind": "item",
+   "name": "Starlight Jar",
+   "desc": "A jar of glittering dust said to be the last light from a dead star.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "mirrored-helmet",
+   "kind": "item",
+   "name": "Mirrored Helmet",
+   "desc": "A battered helmet whose visor shows the wearer's reflection a moment late.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "the-patient-drone",
+   "kind": "item",
+   "name": "The Patient Drone",
+   "desc": "A small drone that will wait at any location for any length of time, then deliver its message to whoever is there.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "redshift-ring",
+   "kind": "item",
+   "name": "Redshift Ring",
+   "desc": "A ring that shifts color when the wearer is moving fast. The color is never the same twice.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "biolume-lamp",
+   "kind": "item",
+   "name": "Biolume Lamp",
+   "desc": "A glass jar of glowing algae that dims when someone nearby is lying.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "glass-needle",
+   "kind": "item",
+   "name": "Glass Needle",
+   "desc": "A fine needle that can sew a hull breach shut with a thread of molten glass.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "compass-of-home",
+   "kind": "item",
+   "name": "Compass of Home",
+   "desc": "A magnetic compass that points to the world its owner was born on, wherever that might be.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "hollow-moon-violin",
+   "kind": "item",
+   "name": "Hollow Moon Violin",
+   "desc": "A violin carved from fossilized coral that plays sweeter in low gravity.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "bucket-of-fresh-air",
+   "kind": "item",
+   "name": "Bucket of Fresh Air",
+   "desc": "A battered bucket holding a few liters of breathable atmosphere from a world that no longer exists.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "time-lag-letter",
+   "kind": "item",
+   "name": "Time Lag Letter",
+   "desc": "A paper letter written to be opened in a year, with the postage already paid in advance.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "zero-g-chess-set",
+   "kind": "item",
+   "name": "Zero-G Chess Set",
+   "desc": "A magnetic chess set with pieces that float and a board that spins slowly.",
+   "tags": [
+    "science_fiction"
+   ]
+  },
+  {
+   "id": "sticky-notes-of-doom",
+   "kind": "item",
+   "name": "Sticky Notes of Doom",
+   "desc": "A pad of yellow notes found in an office drawer. Each one lists a task that someone eventually does.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "grandfathers-thermos",
+   "kind": "item",
+   "name": "Grandfather's Thermos",
+   "desc": "A dented steel thermos that keeps coffee hot for hours. It still smells faintly of a stranger's pipe.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "lost-and-found-umbrella",
+   "kind": "item",
+   "name": "Lost and Found Umbrella",
+   "desc": "A black umbrella that always seems to belong to someone else, but always finds its way back.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "the-last-cassette",
+   "kind": "item",
+   "name": "The Last Cassette",
+   "desc": "A cassette tape labeled in a stranger's handwriting. Nobody can say who recorded the voice or why.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "handwritten-recipe-card",
+   "kind": "item",
+   "name": "Handwritten Recipe Card",
+   "desc": "A stained index card that no one can quite reproduce, no matter how carefully they follow it.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "bus-pass-of-many-routes",
+   "kind": "item",
+   "name": "Bus Pass of Many Routes",
+   "desc": "A transit card that always seems to carry a few more rides than it should.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "wallet-with-two-photos",
+   "kind": "item",
+   "name": "Wallet with Two Photos",
+   "desc": "A scuffed leather wallet containing two photographs of the same stranger, years apart.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "dial-tone-phone",
+   "kind": "item",
+   "name": "Dial-Tone Phone",
+   "desc": "A rotary phone that connects to numbers nobody has listed. Sometimes someone answers.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "pocket-notebook-of-strangers",
+   "kind": "item",
+   "name": "Pocket Notebook of Strangers",
+   "desc": "A notebook where the owner has logged every unusual person they have met, with annotations.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "mixtape-for-a-rainy-day",
+   "kind": "item",
+   "name": "Mixtape for a Rainy Day",
+   "desc": "A hand-labeled mixtape that always seems to end with the exact right song.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "antique-typewriter",
+   "kind": "item",
+   "name": "Antique Typewriter",
+   "desc": "A heavy typewriter whose keys occasionally type words the writer never intended.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "the-spare-key",
+   "kind": "item",
+   "name": "The Spare Key",
+   "desc": "A key hidden under a flowerpot that opens a door the owner has never seen.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "receipt-from-a-closed-shop",
+   "kind": "item",
+   "name": "Receipt from a Closed Shop",
+   "desc": "A crumpled receipt that lists items nobody remembers buying, from a store that closed years ago.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "birthday-candle-collection",
+   "kind": "item",
+   "name": "Birthday Candle Collection",
+   "desc": "A shoebox of used candles, each labeled with a year and a wish.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "library-book-overdue",
+   "kind": "item",
+   "name": "Library Book Overdue",
+   "desc": "A library book with a thirty-year late fee and a pressed flower marking page two hundred and four.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "neighbors-casserole-dish",
+   "kind": "item",
+   "name": "Neighbor's Casserole Dish",
+   "desc": "A glass dish passed between neighbors for years, always returned with something new inside.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "digital-photo-frame",
+   "kind": "item",
+   "name": "Digital Photo Frame",
+   "desc": "A battered photo frame that cycles through images no one remembers uploading.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "the-last-voicemail",
+   "kind": "item",
+   "name": "The Last Voicemail",
+   "desc": "A phone message that keeps replaying at the wrong moment, in a voice the listener does not know.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "train-ticket-to-nowhere",
+   "kind": "item",
+   "name": "Train Ticket to Nowhere",
+   "desc": "A paper ticket with a destination that is not on any timetable.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "wristwatch-that-runs-slow",
+   "kind": "item",
+   "name": "Wristwatch That Runs Slow",
+   "desc": "A watch that runs four minutes late every day, giving its wearer a curious advantage.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "old-library-card",
+   "kind": "item",
+   "name": "Old Library Card",
+   "desc": "A card with a long borrowing history, signed by someone who shares a name with the current owner.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "pocket-mirror-from-the-lost-property-off",
+   "kind": "item",
+   "name": "Pocket Mirror from the Lost Property Office",
+   "desc": "A cheap mirror that sometimes shows the previous owner's face instead of yours.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "mix-bowl-of-many-hands",
+   "kind": "item",
+   "name": "Mix Bowl of Many Hands",
+   "desc": "A battered ceramic bowl passed through four generations of cooks and still used for Sunday dough.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "late-night-radio",
+   "kind": "item",
+   "name": "Late Night Radio",
+   "desc": "A bedside radio that plays a show from a station nobody can trace.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "pawn-ticket-4471",
+   "kind": "item",
+   "name": "Pawn Ticket 4471",
+   "desc": "A pawn ticket for an item that was never retrieved. The shop no longer remembers the pledge.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "the-cracked-phone",
+   "kind": "item",
+   "name": "The Cracked Phone",
+   "desc": "A smartphone with a spiderweb screen and messages from a number that is no longer in service.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "fold-up-chessboard",
+   "kind": "item",
+   "name": "Fold-Up Chessboard",
+   "desc": "A travel chess set whose pieces have been replaced with bottle caps and buttons over the years.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "shared-umbrella-stand",
+   "kind": "item",
+   "name": "Shared Umbrella Stand",
+   "desc": "A hallway stand where every guest leaves an umbrella and finds a different one later.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "tin-of-buttons",
+   "kind": "item",
+   "name": "Tin of Buttons",
+   "desc": "A biscuit tin of mismatched buttons, each tied to a family story.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "subway-map-with-extra-line",
+   "kind": "item",
+   "name": "Subway Map with Extra Line",
+   "desc": "A transit map with a line drawn in pen, leading somewhere that does not exist.",
+   "tags": [
+    "modern"
+   ]
+  },
+  {
+   "id": "ghostwire-jack",
+   "kind": "item",
+   "name": "Ghostwire Jack",
+   "desc": "A cracked data jack that connects to a network no one admits exists.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "chrome-rosary",
+   "kind": "item",
+   "name": "Chrome Rosary",
+   "desc": "A strand of metallic beads that counts the user's remaining battery cycles.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "the-patient-fixers-toolkit",
+   "kind": "item",
+   "name": "The Patient Fixer's Toolkit",
+   "desc": "A battered case of specialized tools favored by fixers, with a hidden drawer for illegal parts.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "neon-tattoo-ink",
+   "kind": "item",
+   "name": "Neon Tattoo Ink",
+   "desc": "Ink that glows in shifting colors according to the wearer's heart rate.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "burnout-stim-pack",
+   "kind": "item",
+   "name": "Burnout Stim Pack",
+   "desc": "A jury-rigged injector kit that gives a night of brilliance and a week of regret.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "hollow-drive",
+   "kind": "item",
+   "name": "Hollow Drive",
+   "desc": "A data drive with no visible contents, rumored to hold something a corporation will kill for.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "the-couriers-coat",
+   "kind": "item",
+   "name": "The Courier's Coat",
+   "desc": "A reinforced coat with hidden pockets, stained with rain and a faint scent of ozone.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "memory-chip-of-the-dead",
+   "kind": "item",
+   "name": "Memory Chip of the Dead",
+   "desc": "A chip holding a stranger's last memories, played back by anyone with the right socket.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "static-umbrella",
+   "kind": "item",
+   "name": "Static Umbrella",
+   "desc": "An umbrella that blocks rain and surveillance drones in equal measure.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "shock-noodle-cup",
+   "kind": "item",
+   "name": "Shock Noodle Cup",
+   "desc": "A self-heating ramen cup that doubles as a mild taser. Popular with students.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "the-last-analog-watch",
+   "kind": "item",
+   "name": "The Last Analog Watch",
+   "desc": "A wind-up watch beloved by those who distrust synchronized time.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "glass-eye-camera",
+   "kind": "item",
+   "name": "Glass Eye Camera",
+   "desc": "A prosthetic eye with a built-in recorder. Its previous owner left some footage unerased.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "backalley-surgeons-chair",
+   "kind": "item",
+   "name": "Backalley Surgeon's Chair",
+   "desc": "A scarred chair with leather straps, a cracked lamp and an air of silent apology.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "mirror-shades",
+   "kind": "item",
+   "name": "Mirror Shades",
+   "desc": "A set of lenses that makes the wearer's face unrecognizable to any camera.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "the-bootleg-soul",
+   "kind": "item",
+   "name": "The Bootleg Soul",
+   "desc": "A cheap digital copy of a famous musician's mind, sold in street markets with many glitches.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "neural-lace-glove",
+   "kind": "item",
+   "name": "Neural Lace Glove",
+   "desc": "A glove that translates hand gestures into code, favored by hackers and street magicians.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "datashard-necklace",
+   "kind": "item",
+   "name": "Datashard Necklace",
+   "desc": "A necklace of chipped crystal that stores one secret per bead.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "rain-slick-boots",
+   "kind": "item",
+   "name": "Rain Slick Boots",
+   "desc": "Waterproof boots that grip any wet surface and leave no footprints.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "noise-pill",
+   "kind": "item",
+   "name": "Noise Pill",
+   "desc": "A capsule that fills the user's skull with white noise for an hour, defeating mind-reading scans.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "vending-machine-key",
+   "kind": "item",
+   "name": "Vending Machine Key",
+   "desc": "A magnetic key that opens any street vending machine, taking only one item per use.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "wire-tongue",
+   "kind": "item",
+   "name": "Wire Tongue",
+   "desc": "A small implant that lets the user taste digital signals as flavors.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "holo-locket",
+   "kind": "item",
+   "name": "Holo Locket",
+   "desc": "A locket that projects a single memory, always a rainy city street, always at night.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "rooftop-antenna-charm",
+   "kind": "item",
+   "name": "Rooftop Antenna Charm",
+   "desc": "A good luck charm made of salvaged antenna, said to catch signals from before the crash.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "reverse-wallet",
+   "kind": "item",
+   "name": "Reverse Wallet",
+   "desc": "A leather wallet that feeds fake IDs to anyone who tries to scan it.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "pawnbrokers-scale",
+   "kind": "item",
+   "name": "Pawnbroker's Scale",
+   "desc": "A scale that weighs the value of a memory, a favor or an organ, and is never wrong.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "glitch-cat",
+   "kind": "item",
+   "name": "Glitch Cat",
+   "desc": "A stray cat with a faintly cybernetic eye. It appears wherever the net drops out.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "battery-heart",
+   "kind": "item",
+   "name": "Battery Heart",
+   "desc": "A portable battery shaped like an organ, favored by those who prefer their power to be warm.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "ticket-to-the-upper-levels",
+   "kind": "item",
+   "name": "Ticket to the Upper Levels",
+   "desc": "A transit pass that lets its holder ride up one time. The previous owner is not mentioned.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "bleach-soda",
+   "kind": "item",
+   "name": "Bleach Soda",
+   "desc": "A neon-blue drink that wipes recent memories. The brand is banned, the bottle is not.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "phantom-courier-pager",
+   "kind": "item",
+   "name": "Phantom Courier Pager",
+   "desc": "A pager that rings with jobs from clients who do not exist yet.",
+   "tags": [
+    "cyberpunk"
+   ]
+  },
+  {
+   "id": "canteen-of-the-last-spring",
+   "kind": "item",
+   "name": "Canteen of the Last Spring",
+   "desc": "A dented canteen that always holds a swallow of clean water, from a spring that has long dried up.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "scavengers-atlas",
+   "kind": "item",
+   "name": "Scavenger's Atlas",
+   "desc": "A water-stained road atlas annotated with notes about safe wells, raiders and good tea.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "the-seed-tin",
+   "kind": "item",
+   "name": "The Seed Tin",
+   "desc": "A sealed tin of heirloom seeds, guarded by generations.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "rust-compass",
+   "kind": "item",
+   "name": "Rust Compass",
+   "desc": "A compass whose needle points toward the nearest working machine.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "ration-card-no-17",
+   "kind": "item",
+   "name": "Ration Card No. 17",
+   "desc": "A faded ration card that is no longer honored, but still carries enormous sentimental value.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "lantern-of-burnt-oil",
+   "kind": "item",
+   "name": "Lantern of Burnt Oil",
+   "desc": "A battered oil lamp that has led three caravans through storms. Its glass is smoked black.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "the-last-battery",
+   "kind": "item",
+   "name": "The Last Battery",
+   "desc": "A fresh battery wrapped in cloth and traded between families for years.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "wind-up-radio",
+   "kind": "item",
+   "name": "Wind-Up Radio",
+   "desc": "A hand-cranked radio that picks up a single station reading names of the missing.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "gasmask-charm",
+   "kind": "item",
+   "name": "Gasmask Charm",
+   "desc": "A cracked mask hung with beads and trinkets, said to ward off bad air and bad luck.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "tin-can-phone",
+   "kind": "item",
+   "name": "Tin Can Phone",
+   "desc": "A string-and-can pair that somehow carries the voice of whoever is on the other end across the ruins.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "the-menders-kit",
+   "kind": "item",
+   "name": "The Mender's Kit",
+   "desc": "A roll of needles, wire and patches that can fix clothing, skin and radios alike.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "bottle-of-clean-air",
+   "kind": "item",
+   "name": "Bottle of Clean Air",
+   "desc": "A sealed jar of pre-collapse air, used in a ceremony at weddings.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "scrapwrights-hammer",
+   "kind": "item",
+   "name": "Scrapwright's Hammer",
+   "desc": "A rough hammer made from a car axle, used to repair every settlement it passes.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "dust-cloak",
+   "kind": "item",
+   "name": "Dust Cloak",
+   "desc": "A sand-colored coat patched from tents and seat covers. It hides its wearer from storms and sentries.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "water-divining-rod",
+   "kind": "item",
+   "name": "Water Divining Rod",
+   "desc": "A twisted copper rod that bends toward hidden springs and, occasionally, trouble.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "the-old-map-of-roads",
+   "kind": "item",
+   "name": "The Old Map of Roads",
+   "desc": "A paper map of roads that no longer exist, still used to plan travel by stubborn guides.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "chain-of-keys",
+   "kind": "item",
+   "name": "Chain of Keys",
+   "desc": "A necklace of keys from locked doors now buried, kept as a memorial.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "last-orange",
+   "kind": "item",
+   "name": "Last Orange",
+   "desc": "A preserved orange in a jar, a symbol of the old world. It has never been eaten.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "caravan-bell",
+   "kind": "item",
+   "name": "Caravan Bell",
+   "desc": "A bell that is rung at dusk when a caravan finds a safe camp. Silence means danger.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "the-compass-rose-patch",
+   "kind": "item",
+   "name": "The Compass Rose Patch",
+   "desc": "A cloth patch worn by guides, stitched with directions from every journey.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "ash-jar",
+   "kind": "item",
+   "name": "Ash Jar",
+   "desc": "A jar of gray dust collected from a city that burned. Visitors rub it on their hands before entering.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "the-quiet-crank",
+   "kind": "item",
+   "name": "The Quiet Crank",
+   "desc": "A hand-cranked generator that makes no noise and little power.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "hubcap-shield",
+   "kind": "item",
+   "name": "Hubcap Shield",
+   "desc": "A makeshift shield formed from a car hubcap, cheap and surprisingly sturdy.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "dog-eared-songbook",
+   "kind": "item",
+   "name": "Dog-Eared Songbook",
+   "desc": "A battered songbook of old lyrics sung around fires, with margins full of family names.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "wire-frog",
+   "kind": "item",
+   "name": "Wire Frog",
+   "desc": "A twisted wire toy kept by a child through three settlements and one flood.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "pump-handle",
+   "kind": "item",
+   "name": "Pump Handle",
+   "desc": "A single worn pump handle, carried from a destroyed well, said to bring luck to any new settlement.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "sandglass-of-the-wastes",
+   "kind": "item",
+   "name": "Sandglass of the Wastes",
+   "desc": "An hourglass filled with desert sand, used by guides to time crossings.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "water-purifier-straw",
+   "kind": "item",
+   "name": "Water Purifier Straw",
+   "desc": "A plastic straw that filters foul water. Its owner guards it with their life.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "scribbled-trade-ledger",
+   "kind": "item",
+   "name": "Scribbled Trade Ledger",
+   "desc": "A water-stained ledger recording every barter in the settlement, still used as law.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  },
+  {
+   "id": "matchbox-of-seven",
+   "kind": "item",
+   "name": "Matchbox of Seven",
+   "desc": "A matchbox holding exactly seven matches, carried by a wanderer who refuses to use the last.",
+   "tags": [
+    "post_apocalyptic"
+   ]
+  }
+ ]
+}

@@ -40,3 +40,37 @@ entry can make an app official.
    - `added`: the day you add it, `YYYY-MM-DD`.
 3. Run `bun scripts/validate.ts --clone` (it checks every entry and that each repository has a
    `manifest.json`), then open a pull request.
+
+## The shared catalog
+
+[`catalog/`](catalog) holds a shared base of standard things for stories and worlds: **names** (given and
+family, by culture), **places**, **organizations** and **items**, each with a short description and tags for a
+direction or style (`fantasy`, `cyberpunk`, ...). Apps use it to look a thing up before they invent it, and to
+offer names that are not the model's usual ones. Nothing in it is tied to a named world. Design and
+decisions: [Molfar.Vertep#373](https://github.com/MolfarWav/Molfar.Vertep/issues/373).
+
+- `catalog/tags.json`: the fixed tag vocabulary. Need a new tag? Ask for it in your pull request.
+- `catalog/packs/<author>/<pack>.json`: a pack. The path is its namespace, so an entry's full id is
+  `<author>/<pack>:<id>`.
+- `catalog/index.json`: the list of packs with a content hash. **Never edit it by hand**: a check on `main`
+  rewrites it (`bun scripts/catalog.ts --write`).
+
+### Donate a pack
+
+1. Write a pack file (the app's "Donate" flow will make one from your lorebook or world; until then by hand).
+   Content licence **CC0-1.0** or **CC-BY-4.0** (your name is shown). No names, places or items from published
+   works, games, films or franchises, no real people, brands or towns, nothing tied to a named world, nothing
+   adult.
+2. Put it at `catalog/packs/<your-nick>/<pack>.json` and run `bun scripts/catalog.ts`. It checks the shape,
+   the tags and the limits (a pack: at most 200 KB and 500 entries; a description at most 200 characters), and
+   that nothing is already in the catalog under the same name.
+3. Open a pull request. The check runs again; the owner reads one clean diff and merges. No GitHub account?
+   Send the file to the owner and he adds it.
+
+An entry:
+
+```json
+{ "id": "ash-gate", "kind": "place", "name": "Ash Gate", "desc": "A burnt-out city gate where smugglers meet.",
+  "aliases": { "uk": ["Попелясті ворота"] }, "tags": ["dark_fantasy", "medieval"] }
+{ "id": "olena", "kind": "name", "name": "Олена", "culture": "ukrainian", "part": "given", "gender": "f" }
+```

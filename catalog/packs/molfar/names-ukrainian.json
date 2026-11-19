@@ -1,0 +1,2342 @@
+{
+  "format": 1,
+  "id": "molfar/names-ukrainian",
+  "name": "Ukrainian names",
+  "author": "Molfar",
+  "license": "CC0-1.0",
+  "description": "Common Ukrainian given names and family names for modern and historical stories.",
+  "version": 1,
+  "entries": [
+    {
+      "id": "olena",
+      "kind": "name",
+      "name": "Олена",
+      "aliases": {
+        "en": [
+          "Olena"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mariya",
+      "kind": "name",
+      "name": "Марія",
+      "aliases": {
+        "en": [
+          "Mariya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "oksana",
+      "kind": "name",
+      "name": "Оксана",
+      "aliases": {
+        "en": [
+          "Oksana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nataliya",
+      "kind": "name",
+      "name": "Наталія",
+      "aliases": {
+        "en": [
+          "Nataliya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "iryna",
+      "kind": "name",
+      "name": "Ірина",
+      "aliases": {
+        "en": [
+          "Iryna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kateryna",
+      "kind": "name",
+      "name": "Катерина",
+      "aliases": {
+        "en": [
+          "Kateryna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tetyana",
+      "kind": "name",
+      "name": "Тетяна",
+      "aliases": {
+        "en": [
+          "Tetyana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yuliya",
+      "kind": "name",
+      "name": "Юлія",
+      "aliases": {
+        "en": [
+          "Yuliya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "anastasiya",
+      "kind": "name",
+      "name": "Анастасія",
+      "aliases": {
+        "en": [
+          "Anastasiya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sofiya",
+      "kind": "name",
+      "name": "Софія",
+      "aliases": {
+        "en": [
+          "Sofiya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "olha",
+      "kind": "name",
+      "name": "Ольга",
+      "aliases": {
+        "en": [
+          "Olha"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lyudmyla",
+      "kind": "name",
+      "name": "Людмила",
+      "aliases": {
+        "en": [
+          "Lyudmyla"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "halyna",
+      "kind": "name",
+      "name": "Галина",
+      "aliases": {
+        "en": [
+          "Halyna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "oleksandra",
+      "kind": "name",
+      "name": "Олександра",
+      "aliases": {
+        "en": [
+          "Oleksandra"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "viktoriya",
+      "kind": "name",
+      "name": "Вікторія",
+      "aliases": {
+        "en": [
+          "Viktoriya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "khrystyna",
+      "kind": "name",
+      "name": "Христина",
+      "aliases": {
+        "en": [
+          "Khrystyna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "solomiya",
+      "kind": "name",
+      "name": "Соломія",
+      "aliases": {
+        "en": [
+          "Solomiya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "daryna",
+      "kind": "name",
+      "name": "Дарина",
+      "aliases": {
+        "en": [
+          "Daryna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yaryna",
+      "kind": "name",
+      "name": "Ярина",
+      "aliases": {
+        "en": [
+          "Yaryna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lesya",
+      "kind": "name",
+      "name": "Леся",
+      "aliases": {
+        "en": [
+          "Lesya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "maryana",
+      "kind": "name",
+      "name": "Мар'яна",
+      "aliases": {
+        "en": [
+          "Maryana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "bohdana",
+      "kind": "name",
+      "name": "Богдана",
+      "aliases": {
+        "en": [
+          "Bohdana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "orysya",
+      "kind": "name",
+      "name": "Орися",
+      "aliases": {
+        "en": [
+          "Orysya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zoryana",
+      "kind": "name",
+      "name": "Зоряна",
+      "aliases": {
+        "en": [
+          "Zoryana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nadiya",
+      "kind": "name",
+      "name": "Надія",
+      "aliases": {
+        "en": [
+          "Nadiya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ulyana",
+      "kind": "name",
+      "name": "Уляна",
+      "aliases": {
+        "en": [
+          "Ulyana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ustyna",
+      "kind": "name",
+      "name": "Устина",
+      "aliases": {
+        "en": [
+          "Ustyna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "myroslava",
+      "kind": "name",
+      "name": "Мирослава",
+      "aliases": {
+        "en": [
+          "Myroslava"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lyubov",
+      "kind": "name",
+      "name": "Любов",
+      "aliases": {
+        "en": [
+          "Lyubov"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vira",
+      "kind": "name",
+      "name": "Віра",
+      "aliases": {
+        "en": [
+          "Vira"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "inna",
+      "kind": "name",
+      "name": "Інна",
+      "aliases": {
+        "en": [
+          "Inna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "larysa",
+      "kind": "name",
+      "name": "Лариса",
+      "aliases": {
+        "en": [
+          "Larysa"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "valentyna",
+      "kind": "name",
+      "name": "Валентина",
+      "aliases": {
+        "en": [
+          "Valentyna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "svitlana",
+      "kind": "name",
+      "name": "Світлана",
+      "aliases": {
+        "en": [
+          "Svitlana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "anna",
+      "kind": "name",
+      "name": "Анна",
+      "aliases": {
+        "en": [
+          "Anna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "hanna",
+      "kind": "name",
+      "name": "Ганна",
+      "aliases": {
+        "en": [
+          "Hanna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "paraska",
+      "kind": "name",
+      "name": "Параска",
+      "aliases": {
+        "en": [
+          "Paraska"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "motrya",
+      "kind": "name",
+      "name": "Мотря",
+      "aliases": {
+        "en": [
+          "Motrya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "melaniya",
+      "kind": "name",
+      "name": "Меланія",
+      "aliases": {
+        "en": [
+          "Melaniya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kylyna",
+      "kind": "name",
+      "name": "Килина",
+      "aliases": {
+        "en": [
+          "Kylyna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yivha",
+      "kind": "name",
+      "name": "Ївга",
+      "aliases": {
+        "en": [
+          "Yivha"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "odarka",
+      "kind": "name",
+      "name": "Одарка",
+      "aliases": {
+        "en": [
+          "Odarka"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "domna",
+      "kind": "name",
+      "name": "Домна",
+      "aliases": {
+        "en": [
+          "Domna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "horpyna",
+      "kind": "name",
+      "name": "Горпина",
+      "aliases": {
+        "en": [
+          "Horpyna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mariyka",
+      "kind": "name",
+      "name": "Марійка",
+      "aliases": {
+        "en": [
+          "Mariyka"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vasylyna",
+      "kind": "name",
+      "name": "Василина",
+      "aliases": {
+        "en": [
+          "Vasylyna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "emiliya",
+      "kind": "name",
+      "name": "Емілія",
+      "aliases": {
+        "en": [
+          "Emiliya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zlata",
+      "kind": "name",
+      "name": "Злата",
+      "aliases": {
+        "en": [
+          "Zlata"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "liliya",
+      "kind": "name",
+      "name": "Лілія",
+      "aliases": {
+        "en": [
+          "Liliya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tamara",
+      "kind": "name",
+      "name": "Тамара",
+      "aliases": {
+        "en": [
+          "Tamara"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yana",
+      "kind": "name",
+      "name": "Яна",
+      "aliases": {
+        "en": [
+          "Yana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yeva",
+      "kind": "name",
+      "name": "Єва",
+      "aliases": {
+        "en": [
+          "Yeva"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "alina",
+      "kind": "name",
+      "name": "Аліна",
+      "aliases": {
+        "en": [
+          "Alina"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yelyzaveta",
+      "kind": "name",
+      "name": "Єлизавета",
+      "aliases": {
+        "en": [
+          "Yelyzaveta"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "polina",
+      "kind": "name",
+      "name": "Поліна",
+      "aliases": {
+        "en": [
+          "Polina"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "violeta",
+      "kind": "name",
+      "name": "Віолета",
+      "aliases": {
+        "en": [
+          "Violeta"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kseniya",
+      "kind": "name",
+      "name": "Ксенія",
+      "aliases": {
+        "en": [
+          "Kseniya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zinayida",
+      "kind": "name",
+      "name": "Зінаїда",
+      "aliases": {
+        "en": [
+          "Zinayida"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "rayisa",
+      "kind": "name",
+      "name": "Раїса",
+      "aliases": {
+        "en": [
+          "Rayisa"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ivanna",
+      "kind": "name",
+      "name": "Іванна",
+      "aliases": {
+        "en": [
+          "Ivanna"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dana",
+      "kind": "name",
+      "name": "Дана",
+      "aliases": {
+        "en": [
+          "Dana"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "oleksandr",
+      "kind": "name",
+      "name": "Олександр",
+      "aliases": {
+        "en": [
+          "Oleksandr"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "andriy",
+      "kind": "name",
+      "name": "Андрій",
+      "aliases": {
+        "en": [
+          "Andriy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bohdan",
+      "kind": "name",
+      "name": "Богдан",
+      "aliases": {
+        "en": [
+          "Bohdan"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "taras",
+      "kind": "name",
+      "name": "Тарас",
+      "aliases": {
+        "en": [
+          "Taras"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ivan",
+      "kind": "name",
+      "name": "Іван",
+      "aliases": {
+        "en": [
+          "Ivan"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "petro",
+      "kind": "name",
+      "name": "Петро",
+      "aliases": {
+        "en": [
+          "Petro"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vasyl",
+      "kind": "name",
+      "name": "Василь",
+      "aliases": {
+        "en": [
+          "Vasyl"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "mykola",
+      "kind": "name",
+      "name": "Микола",
+      "aliases": {
+        "en": [
+          "Mykola"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "oleh",
+      "kind": "name",
+      "name": "Олег",
+      "aliases": {
+        "en": [
+          "Oleh"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "serhiy",
+      "kind": "name",
+      "name": "Сергій",
+      "aliases": {
+        "en": [
+          "Serhiy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dmytro",
+      "kind": "name",
+      "name": "Дмитро",
+      "aliases": {
+        "en": [
+          "Dmytro"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "maksym",
+      "kind": "name",
+      "name": "Максим",
+      "aliases": {
+        "en": [
+          "Maksym"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "nazar",
+      "kind": "name",
+      "name": "Назар",
+      "aliases": {
+        "en": [
+          "Nazar"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "roman",
+      "kind": "name",
+      "name": "Роман",
+      "aliases": {
+        "en": [
+          "Roman"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yuriy",
+      "kind": "name",
+      "name": "Юрій",
+      "aliases": {
+        "en": [
+          "Yuriy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "mykhaylo",
+      "kind": "name",
+      "name": "Михайло",
+      "aliases": {
+        "en": [
+          "Mykhaylo"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "stepan",
+      "kind": "name",
+      "name": "Степан",
+      "aliases": {
+        "en": [
+          "Stepan"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ostap",
+      "kind": "name",
+      "name": "Остап",
+      "aliases": {
+        "en": [
+          "Ostap"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "levko",
+      "kind": "name",
+      "name": "Левко",
+      "aliases": {
+        "en": [
+          "Levko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yarema",
+      "kind": "name",
+      "name": "Ярема",
+      "aliases": {
+        "en": [
+          "Yarema"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "danylo",
+      "kind": "name",
+      "name": "Данило",
+      "aliases": {
+        "en": [
+          "Danylo"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "orest",
+      "kind": "name",
+      "name": "Орест",
+      "aliases": {
+        "en": [
+          "Orest"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tymofiy",
+      "kind": "name",
+      "name": "Тимофій",
+      "aliases": {
+        "en": [
+          "Tymofiy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "zakhar",
+      "kind": "name",
+      "name": "Захар",
+      "aliases": {
+        "en": [
+          "Zakhar"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "nestor",
+      "kind": "name",
+      "name": "Нестор",
+      "aliases": {
+        "en": [
+          "Nestor"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hnat",
+      "kind": "name",
+      "name": "Гнат",
+      "aliases": {
+        "en": [
+          "Hnat"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yevhen",
+      "kind": "name",
+      "name": "Євген",
+      "aliases": {
+        "en": [
+          "Yevhen"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "viktor",
+      "kind": "name",
+      "name": "Віктор",
+      "aliases": {
+        "en": [
+          "Viktor"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "volodymyr",
+      "kind": "name",
+      "name": "Володимир",
+      "aliases": {
+        "en": [
+          "Volodymyr"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ihor",
+      "kind": "name",
+      "name": "Ігор",
+      "aliases": {
+        "en": [
+          "Ihor"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rostyslav",
+      "kind": "name",
+      "name": "Ростислав",
+      "aliases": {
+        "en": [
+          "Rostyslav"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "svyatoslav",
+      "kind": "name",
+      "name": "Святослав",
+      "aliases": {
+        "en": [
+          "Svyatoslav"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "myron",
+      "kind": "name",
+      "name": "Мирон",
+      "aliases": {
+        "en": [
+          "Myron"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lukyan",
+      "kind": "name",
+      "name": "Лук'ян",
+      "aliases": {
+        "en": [
+          "Lukyan"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "panas",
+      "kind": "name",
+      "name": "Панас",
+      "aliases": {
+        "en": [
+          "Panas"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "opanas",
+      "kind": "name",
+      "name": "Опанас",
+      "aliases": {
+        "en": [
+          "Opanas"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kyrylo",
+      "kind": "name",
+      "name": "Кирило",
+      "aliases": {
+        "en": [
+          "Kyrylo"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "artem",
+      "kind": "name",
+      "name": "Артем",
+      "aliases": {
+        "en": [
+          "Artem"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "nazariy",
+      "kind": "name",
+      "name": "Назарій",
+      "aliases": {
+        "en": [
+          "Nazariy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "oleksiy",
+      "kind": "name",
+      "name": "Олексій",
+      "aliases": {
+        "en": [
+          "Oleksiy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "pavlo",
+      "kind": "name",
+      "name": "Павло",
+      "aliases": {
+        "en": [
+          "Pavlo"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "matviy",
+      "kind": "name",
+      "name": "Матвій",
+      "aliases": {
+        "en": [
+          "Matviy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hryhoriy",
+      "kind": "name",
+      "name": "Григорій",
+      "aliases": {
+        "en": [
+          "Hryhoriy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "illya",
+      "kind": "name",
+      "name": "Ілля",
+      "aliases": {
+        "en": [
+          "Illya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "denys",
+      "kind": "name",
+      "name": "Денис",
+      "aliases": {
+        "en": [
+          "Denys"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lyubomyr",
+      "kind": "name",
+      "name": "Любомир",
+      "aliases": {
+        "en": [
+          "Lyubomyr"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "maryan",
+      "kind": "name",
+      "name": "Мар'ян",
+      "aliases": {
+        "en": [
+          "Maryan"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tymish",
+      "kind": "name",
+      "name": "Тиміш",
+      "aliases": {
+        "en": [
+          "Tymish"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "zinoviy",
+      "kind": "name",
+      "name": "Зіновій",
+      "aliases": {
+        "en": [
+          "Zinoviy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ustym",
+      "kind": "name",
+      "name": "Устим",
+      "aliases": {
+        "en": [
+          "Ustym"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "okhrim",
+      "kind": "name",
+      "name": "Охрім",
+      "aliases": {
+        "en": [
+          "Okhrim"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yavtukh",
+      "kind": "name",
+      "name": "Явтух",
+      "aliases": {
+        "en": [
+          "Yavtukh"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hordiy",
+      "kind": "name",
+      "name": "Гордій",
+      "aliases": {
+        "en": [
+          "Hordiy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yurko",
+      "kind": "name",
+      "name": "Юрко",
+      "aliases": {
+        "en": [
+          "Yurko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yaroslav",
+      "kind": "name",
+      "name": "Ярослав",
+      "aliases": {
+        "en": [
+          "Yaroslav"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "martyn",
+      "kind": "name",
+      "name": "Мартин",
+      "aliases": {
+        "en": [
+          "Martyn"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "leonid",
+      "kind": "name",
+      "name": "Леонід",
+      "aliases": {
+        "en": [
+          "Leonid"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "anatoliy",
+      "kind": "name",
+      "name": "Анатолій",
+      "aliases": {
+        "en": [
+          "Anatoliy"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bohuslav",
+      "kind": "name",
+      "name": "Богуслав",
+      "aliases": {
+        "en": [
+          "Bohuslav"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yeremiya",
+      "kind": "name",
+      "name": "Єремія",
+      "aliases": {
+        "en": [
+          "Yeremiya"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "semen",
+      "kind": "name",
+      "name": "Семен",
+      "aliases": {
+        "en": [
+          "Semen"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "prokhor",
+      "kind": "name",
+      "name": "Прохор",
+      "aliases": {
+        "en": [
+          "Prokhor"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kovalenko",
+      "kind": "name",
+      "name": "Коваленко",
+      "aliases": {
+        "en": [
+          "Kovalenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "shevchenko",
+      "kind": "name",
+      "name": "Шевченко",
+      "aliases": {
+        "en": [
+          "Shevchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "bondarenko",
+      "kind": "name",
+      "name": "Бондаренко",
+      "aliases": {
+        "en": [
+          "Bondarenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "tkachenko",
+      "kind": "name",
+      "name": "Ткаченко",
+      "aliases": {
+        "en": [
+          "Tkachenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "kravchenko",
+      "kind": "name",
+      "name": "Кравченко",
+      "aliases": {
+        "en": [
+          "Kravchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "melnyk",
+      "kind": "name",
+      "name": "Мельник",
+      "aliases": {
+        "en": [
+          "Melnyk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "moroz",
+      "kind": "name",
+      "name": "Мороз",
+      "aliases": {
+        "en": [
+          "Moroz"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "savchenko",
+      "kind": "name",
+      "name": "Савченко",
+      "aliases": {
+        "en": [
+          "Savchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "lysenko",
+      "kind": "name",
+      "name": "Лисенко",
+      "aliases": {
+        "en": [
+          "Lysenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "petrenko",
+      "kind": "name",
+      "name": "Петренко",
+      "aliases": {
+        "en": [
+          "Petrenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "rudenko",
+      "kind": "name",
+      "name": "Руденко",
+      "aliases": {
+        "en": [
+          "Rudenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "marchenko",
+      "kind": "name",
+      "name": "Марченко",
+      "aliases": {
+        "en": [
+          "Marchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "honchar",
+      "kind": "name",
+      "name": "Гончар",
+      "aliases": {
+        "en": [
+          "Honchar"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "kushnir",
+      "kind": "name",
+      "name": "Кушнір",
+      "aliases": {
+        "en": [
+          "Kushnir"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "boyko",
+      "kind": "name",
+      "name": "Бойко",
+      "aliases": {
+        "en": [
+          "Boyko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "mazur",
+      "kind": "name",
+      "name": "Мазур",
+      "aliases": {
+        "en": [
+          "Mazur"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "klymenko",
+      "kind": "name",
+      "name": "Клименко",
+      "aliases": {
+        "en": [
+          "Klymenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "oliynyk",
+      "kind": "name",
+      "name": "Олійник",
+      "aliases": {
+        "en": [
+          "Oliynyk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "shapoval",
+      "kind": "name",
+      "name": "Шаповал",
+      "aliases": {
+        "en": [
+          "Shapoval"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "polishchuk",
+      "kind": "name",
+      "name": "Поліщук",
+      "aliases": {
+        "en": [
+          "Polishchuk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "kovalchuk",
+      "kind": "name",
+      "name": "Ковальчук",
+      "aliases": {
+        "en": [
+          "Kovalchuk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "martynyuk",
+      "kind": "name",
+      "name": "Мартинюк",
+      "aliases": {
+        "en": [
+          "Martynyuk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "savchuk",
+      "kind": "name",
+      "name": "Савчук",
+      "aliases": {
+        "en": [
+          "Savchuk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "hrytsenko",
+      "kind": "name",
+      "name": "Гриценко",
+      "aliases": {
+        "en": [
+          "Hrytsenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "ostapenko",
+      "kind": "name",
+      "name": "Остапенко",
+      "aliases": {
+        "en": [
+          "Ostapenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "levchenko",
+      "kind": "name",
+      "name": "Левченко",
+      "aliases": {
+        "en": [
+          "Levchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "hnatyuk",
+      "kind": "name",
+      "name": "Гнатюк",
+      "aliases": {
+        "en": [
+          "Hnatyuk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "romanyuk",
+      "kind": "name",
+      "name": "Романюк",
+      "aliases": {
+        "en": [
+          "Romanyuk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "pavlyuk",
+      "kind": "name",
+      "name": "Павлюк",
+      "aliases": {
+        "en": [
+          "Pavlyuk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "panchenko",
+      "kind": "name",
+      "name": "Панченко",
+      "aliases": {
+        "en": [
+          "Panchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "babenko",
+      "kind": "name",
+      "name": "Бабенко",
+      "aliases": {
+        "en": [
+          "Babenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "ivanenko",
+      "kind": "name",
+      "name": "Іваненко",
+      "aliases": {
+        "en": [
+          "Ivanenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "yaremenko",
+      "kind": "name",
+      "name": "Яременко",
+      "aliases": {
+        "en": [
+          "Yaremenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "kharchenko",
+      "kind": "name",
+      "name": "Харченко",
+      "aliases": {
+        "en": [
+          "Kharchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "voloshyn",
+      "kind": "name",
+      "name": "Волошин",
+      "aliases": {
+        "en": [
+          "Voloshyn"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "hryshchenko",
+      "kind": "name",
+      "name": "Грищенко",
+      "aliases": {
+        "en": [
+          "Hryshchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "dzyuba",
+      "kind": "name",
+      "name": "Дзюба",
+      "aliases": {
+        "en": [
+          "Dzyuba"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "stelmakh",
+      "kind": "name",
+      "name": "Стельмах",
+      "aliases": {
+        "en": [
+          "Stelmakh"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "lukyanenko",
+      "kind": "name",
+      "name": "Лук'яненко",
+      "aliases": {
+        "en": [
+          "Lukyanenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "lytvyn",
+      "kind": "name",
+      "name": "Литвин",
+      "aliases": {
+        "en": [
+          "Lytvyn"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "kozak",
+      "kind": "name",
+      "name": "Козак",
+      "aliases": {
+        "en": [
+          "Kozak"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "hayduk",
+      "kind": "name",
+      "name": "Гайдук",
+      "aliases": {
+        "en": [
+          "Hayduk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "nechyporenko",
+      "kind": "name",
+      "name": "Нечипоренко",
+      "aliases": {
+        "en": [
+          "Nechyporenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "pylypenko",
+      "kind": "name",
+      "name": "Пилипенко",
+      "aliases": {
+        "en": [
+          "Pylypenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "lytvynenko",
+      "kind": "name",
+      "name": "Литвиненко",
+      "aliases": {
+        "en": [
+          "Lytvynenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "myroshnychenko",
+      "kind": "name",
+      "name": "Мирошниченко",
+      "aliases": {
+        "en": [
+          "Myroshnychenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "kokhan",
+      "kind": "name",
+      "name": "Кохан",
+      "aliases": {
+        "en": [
+          "Kokhan"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "rybak",
+      "kind": "name",
+      "name": "Рибак",
+      "aliases": {
+        "en": [
+          "Rybak"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "prykhodko",
+      "kind": "name",
+      "name": "Приходько",
+      "aliases": {
+        "en": [
+          "Prykhodko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "khomenko",
+      "kind": "name",
+      "name": "Хоменко",
+      "aliases": {
+        "en": [
+          "Khomenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "demchenko",
+      "kind": "name",
+      "name": "Демченко",
+      "aliases": {
+        "en": [
+          "Demchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "tymoshenko",
+      "kind": "name",
+      "name": "Тимошенко",
+      "aliases": {
+        "en": [
+          "Tymoshenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "sydorenko",
+      "kind": "name",
+      "name": "Сидоренко",
+      "aliases": {
+        "en": [
+          "Sydorenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "danylchenko",
+      "kind": "name",
+      "name": "Данильченко",
+      "aliases": {
+        "en": [
+          "Danylchenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "veres",
+      "kind": "name",
+      "name": "Верес",
+      "aliases": {
+        "en": [
+          "Veres"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "sulyma",
+      "kind": "name",
+      "name": "Сулима",
+      "aliases": {
+        "en": [
+          "Sulyma"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "havrylyuk",
+      "kind": "name",
+      "name": "Гаврилюк",
+      "aliases": {
+        "en": [
+          "Havrylyuk"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "tarasenko",
+      "kind": "name",
+      "name": "Тарасенко",
+      "aliases": {
+        "en": [
+          "Tarasenko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "mazepa",
+      "kind": "name",
+      "name": "Мазепа",
+      "aliases": {
+        "en": [
+          "Mazepa"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "sinko",
+      "kind": "name",
+      "name": "Сінько",
+      "aliases": {
+        "en": [
+          "Sinko"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    },
+    {
+      "id": "chumak",
+      "kind": "name",
+      "name": "Чумак",
+      "aliases": {
+        "en": [
+          "Chumak"
+        ]
+      },
+      "culture": "ukrainian",
+      "part": "family"
+    }
+  ]
+}

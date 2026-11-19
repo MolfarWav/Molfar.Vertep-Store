@@ -1,0 +1,2171 @@
+{
+  "format": 1,
+  "id": "molfar/organizations-general",
+  "name": "Organizations (general)",
+  "author": "Molfar",
+  "license": "CC0-1.0",
+  "description": "Guilds, orders, companies, gangs, agencies, cults and clans for stories across many genres.",
+  "version": 1,
+  "entries": [
+    {
+      "id": "guild-of-patient-locksmiths",
+      "kind": "organization",
+      "name": "Guild of Patient Locksmiths",
+      "desc": "A guild of locksmiths who never pick a lock without being asked three times. Their keys are said to open doors in dreams.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-honeyed-ledger",
+      "kind": "organization",
+      "name": "The Honeyed Ledger",
+      "desc": "A merchant house that deals only in sweets, spices and promises. Its books are bound in beeswax.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "sisters-of-the-lamp-oil",
+      "kind": "organization",
+      "name": "Sisters of the Lamp-Oil",
+      "desc": "A small order of lamp-keepers who walk the roads at night refilling roadside lanterns and trading news.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "brindle-and-daughters",
+      "kind": "organization",
+      "name": "Brindle & Daughters",
+      "desc": "A family company of cartographers who sell maps of places that do not exist yet.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "wardens-of-the-hollow-oak",
+      "kind": "organization",
+      "name": "Wardens of the Hollow Oak",
+      "desc": "A circle of foresters who protect a single ancient oak and the secret room inside it.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-court-of-small-favors",
+      "kind": "organization",
+      "name": "The Court of Small Favors",
+      "desc": "A loose guild of neighbors who trade minor magic favors under a strict ledger of debts and thanks.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "tideglass-collegium",
+      "kind": "organization",
+      "name": "Tideglass Collegium",
+      "desc": "A school of sailors-turned-scholars who study the moods of the sea and write tide-songs.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "house-marrowbright",
+      "kind": "organization",
+      "name": "House Marrowbright",
+      "desc": "A noble house famed for its glassblowers, who fashion drinking cups that warn of poison.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-wandering-bellwrights",
+      "kind": "organization",
+      "name": "The Wandering Bellwrights",
+      "desc": "A caravan guild that forges and installs bells for villages, each tuned to the village's voice.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "order-of-the-open-hand",
+      "kind": "organization",
+      "name": "Order of the Open Hand",
+      "desc": "An order of healers who take vows to never refuse treatment, and keep a very long waiting list.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "thimbletongue-troupe",
+      "kind": "organization",
+      "name": "Thimbletongue Troupe",
+      "desc": "A band of traveling players whose plays are rumored to alter the weather.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-sentinel-cobblers",
+      "kind": "organization",
+      "name": "The Sentinel Cobblers",
+      "desc": "A guild of shoemakers who guard border roads, believing every road should be walked in good boots.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "candlemakers-of-the-north-fork",
+      "kind": "organization",
+      "name": "Candlemakers of the North Fork",
+      "desc": "A clan of chandlers who make candles that burn only for the truthful.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-pale-quill",
+      "kind": "organization",
+      "name": "The Pale Quill",
+      "desc": "A society of scribes who write letters for the dead to the living, for a modest donation.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "hearthwatch-company",
+      "kind": "organization",
+      "name": "Hearthwatch Company",
+      "desc": "Hired guardians of inns and taverns, trained to break up brawls without breaking furniture.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-moss-syndicate",
+      "kind": "organization",
+      "name": "The Moss Syndicate",
+      "desc": "A band of herbalists and smugglers who move rare plants across borders.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "stonesinger-fellowship",
+      "kind": "organization",
+      "name": "Stonesinger Fellowship",
+      "desc": "Masons who coax stone into shape with chants. Their cathedrals hum when touched.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "cloudreeve-bureau",
+      "kind": "organization",
+      "name": "Cloudreeve Bureau",
+      "desc": "A bureaucratic office that classifies, names and taxes cloud formations.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-barnacle-lodge",
+      "kind": "organization",
+      "name": "The Barnacle Lodge",
+      "desc": "An old fraternity of ship's carpenters who meet in a beached hull and keep their rites underwater.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "saltwife-confederacy",
+      "kind": "organization",
+      "name": "Saltwife Confederacy",
+      "desc": "A matriarchal league of salt traders who set the price of preserved goods across three kingdoms.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "brother-tansys-almoners",
+      "kind": "organization",
+      "name": "Brother Tansy's Almoners",
+      "desc": "A mendicant order that carries food to the stranded and keeps a record of every name they feed.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-gilded-thimble",
+      "kind": "organization",
+      "name": "The Gilded Thimble",
+      "desc": "A tailors' guild known for cloaks that make the wearer unnoticed in crowds.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "greenwatch-rangers",
+      "kind": "organization",
+      "name": "Greenwatch Rangers",
+      "desc": "A volunteer band who protect hedgerows and wild paths from developers and wolves.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-weathervane-society",
+      "kind": "organization",
+      "name": "The Weathervane Society",
+      "desc": "Scholars who read wind patterns and sell forecasts to farmers and kings.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "kindle-and-ash",
+      "kind": "organization",
+      "name": "Kindle & Ash",
+      "desc": "A pair of rival apothecary houses who feud by quietly curing each other's patients.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-silverwing-post",
+      "kind": "organization",
+      "name": "The Silverwing Post",
+      "desc": "A courier company that delivers messages by trained birds, bats and the odd patient owl.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "order-of-stilled-waters",
+      "kind": "organization",
+      "name": "Order of Stilled Waters",
+      "desc": "Contemplatives who guard sacred pools and decide which questions may be asked of them.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-tinkers-parliament",
+      "kind": "organization",
+      "name": "The Tinker's Parliament",
+      "desc": "A fractious assembly of traveling repairers who vote by lifting their hammers.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "hallowmere-bakers",
+      "kind": "organization",
+      "name": "Hallowmere Bakers",
+      "desc": "A bakers' guild whose loaves are blessed for travelers and said to feed twice as many as they should.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-orchard-compact",
+      "kind": "organization",
+      "name": "The Orchard Compact",
+      "desc": "An alliance of fruit growers who set harvest dates and punish thieves with polite shame.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-ashen-tithe",
+      "kind": "organization",
+      "name": "The Ashen Tithe",
+      "desc": "A church tax collective that takes a portion of every harvest and a measure of every sorrow.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "brotherhood-of-the-last-candle",
+      "kind": "organization",
+      "name": "Brotherhood of the Last Candle",
+      "desc": "A monastic order that keeps vigil over dying villages and records their final hours.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-gravewrights",
+      "kind": "organization",
+      "name": "The Gravewrights",
+      "desc": "A guild of coffin makers and tomb-builders who bargain with the dead for their trade secrets.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "hollowmen-of-the-fen",
+      "kind": "organization",
+      "name": "Hollowmen of the Fen",
+      "desc": "A secretive society of bog-dwelling exiles who cut peat and bury what they find in it.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-veiled-court",
+      "kind": "organization",
+      "name": "The Veiled Court",
+      "desc": "A shadow tribunal that judges the living by the testimony of ghosts.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "order-of-the-hanged-saint",
+      "kind": "organization",
+      "name": "Order of the Hanged Saint",
+      "desc": "An order of flagellants who wear nooses as rosaries and walk from town to town.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-bone-auction-house",
+      "kind": "organization",
+      "name": "The Bone Auction House",
+      "desc": "A trader of relics and remains with a long history of both piety and fraud.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-thornwood-covenant",
+      "kind": "organization",
+      "name": "The Thornwood Covenant",
+      "desc": "A circle of hedge-witches who bind their members through shared wounds.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "sallow-brotherhood",
+      "kind": "organization",
+      "name": "Sallow Brotherhood",
+      "desc": "A cult of the plague-struck who believe sickness is a form of grace.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-quiet-surgeons",
+      "kind": "organization",
+      "name": "The Quiet Surgeons",
+      "desc": "A secret guild of surgeons who operate on the doomed and do not talk about the results.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "hollow-crown-cabal",
+      "kind": "organization",
+      "name": "Hollow Crown Cabal",
+      "desc": "Nobles who rule through a puppet king and have long forgotten whose face is under the mask.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-salt-and-iron-watch",
+      "kind": "organization",
+      "name": "The Salt-and-Iron Watch",
+      "desc": "Mercenary guards hired to protect towns from what walks at night. They are paid in coin and prayers.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "maidens-hand-sisterhood",
+      "kind": "organization",
+      "name": "Maiden's Hand Sisterhood",
+      "desc": "A convent of knife-wielding nuns who dispatch the unfaithful with a prayer.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-marrow-merchants",
+      "kind": "organization",
+      "name": "The Marrow Merchants",
+      "desc": "Dealers in bone-powder and grave-dust, supplying alchemists and the curious.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "harrow-company",
+      "kind": "organization",
+      "name": "Harrow Company",
+      "desc": "A band of sellswords who hire out to besieged cities, collecting final payment in whatever the survivors own.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-candled-choir",
+      "kind": "organization",
+      "name": "The Candled Choir",
+      "desc": "A choir of blind monks whose chants are said to hold back the dark.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-rooks-parliament",
+      "kind": "organization",
+      "name": "The Rooks' Parliament",
+      "desc": "A council of cloaked scavengers who trade intelligence for carrion.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "cairnwatch-wardens",
+      "kind": "organization",
+      "name": "Cairnwatch Wardens",
+      "desc": "Guards of the borderlands who build memorial cairns for those they fail to save.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-woeful-hunt",
+      "kind": "organization",
+      "name": "The Woeful Hunt",
+      "desc": "A band of hunters pursuing a monster that has already killed their founders.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "lazarine-order",
+      "kind": "organization",
+      "name": "Lazarine Order",
+      "desc": "Monks who attempt to revive the dead and keep the results behind locked doors.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-ember-lantern",
+      "kind": "organization",
+      "name": "The Ember Lantern",
+      "desc": "A smugglers' ring that guides fugitives across haunted borders with enchanted lamps.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "sunless-almsmen",
+      "kind": "organization",
+      "name": "Sunless Almsmen",
+      "desc": "Beggars who sit before shrines and carry curses for hire.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-hollow-inquest",
+      "kind": "organization",
+      "name": "The Hollow Inquest",
+      "desc": "Inquisitors who question corpses and often disagree with the verdict.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-skein-of-pale-hands",
+      "kind": "organization",
+      "name": "The Skein of Pale Hands",
+      "desc": "A cult of weavers who spin burial cloth from the hair of the departed.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-barrow-kings",
+      "kind": "organization",
+      "name": "The Barrow Kings",
+      "desc": "Grave-robbers who have organized into a mock-nobility with ranks and titles.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "tallow-and-tears",
+      "kind": "organization",
+      "name": "Tallow & Tears",
+      "desc": "A funeral company that supplies professional mourners and fine hearses to the wealthy.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "order-of-the-cold-furnace",
+      "kind": "organization",
+      "name": "Order of the Cold Furnace",
+      "desc": "Smiths who forge blades from relics and nightmares.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-dust-prelates",
+      "kind": "organization",
+      "name": "The Dust Prelates",
+      "desc": "Clergy in a ruined cathedral who preach to empty pews and the occasional listener.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-briarwives",
+      "kind": "organization",
+      "name": "The Briarwives",
+      "desc": "Village women who protect their homes with thorn charms and old grudges.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "wake-of-the-drowned",
+      "kind": "organization",
+      "name": "Wake of the Drowned",
+      "desc": "A fisherman's guild whose members have all been briefly dead. They speak in sea-lore.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "halcyon-freight-union",
+      "kind": "organization",
+      "name": "Halcyon Freight Union",
+      "desc": "A union of long-haul pilots who bargain collectively over rest hours, hazard pay and the right to unscheduled stops.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-orbital-cartographic-survey",
+      "kind": "organization",
+      "name": "The Orbital Cartographic Survey",
+      "desc": "A planetary survey agency that maps new worlds and keeps its findings sealed for a generation.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "quill-and-servo",
+      "kind": "organization",
+      "name": "Quill & Servo",
+      "desc": "A publishing house run by android editors who refuse to print anything that was machine-written.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "deepwell-salvage-collective",
+      "kind": "organization",
+      "name": "Deepwell Salvage Collective",
+      "desc": "A cooperative of salvagers who dismantle wrecked starships and share the proceeds by lottery.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-lantern-fleet",
+      "kind": "organization",
+      "name": "The Lantern Fleet",
+      "desc": "A convoy of refugee ships that travels between stars under a single elected captain.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "parallax-dynamics",
+      "kind": "organization",
+      "name": "Parallax Dynamics",
+      "desc": "A corporation that builds precise instruments, famed for its stubborn customer service.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-dome-council",
+      "kind": "organization",
+      "name": "The Dome Council",
+      "desc": "A council of colony delegates who govern a small domed settlement by consensus, unanimity and long meetings.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "meridian-biologics",
+      "kind": "organization",
+      "name": "Meridian Biologics",
+      "desc": "A genetics firm that designs hardy crops and the occasional unlicensed pet.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "thistle-relay-authority",
+      "kind": "organization",
+      "name": "Thistle Relay Authority",
+      "desc": "A commission that regulates interstellar mail and has grown eccentric from boredom.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-cold-sleep-society",
+      "kind": "organization",
+      "name": "The Cold Sleep Society",
+      "desc": "A club of long-sleepers who agree to wake in sequence and pass notes to the future.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "stationmasters-guild",
+      "kind": "organization",
+      "name": "Stationmasters' Guild",
+      "desc": "Managers of space stations who share hard-won advice about leaks, pests and angry guests.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-gradient-institute",
+      "kind": "organization",
+      "name": "The Gradient Institute",
+      "desc": "A research center studying gravity wells, famed for its cheerful maintenance staff and its strange sabbaticals.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "brass-pilgrims",
+      "kind": "organization",
+      "name": "Brass Pilgrims",
+      "desc": "A religious order of engineers who treat starships as sacred and travel from port to port blessing engines.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-void-choir",
+      "kind": "organization",
+      "name": "The Void Choir",
+      "desc": "A touring orchestra that performs in zero gravity, selling recordings of silence between movements.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "ironwood-colonial-charter",
+      "kind": "organization",
+      "name": "Ironwood Colonial Charter",
+      "desc": "A settlement company that offers land on cold worlds to anyone who will sign a thick contract.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "ember-reach-cooperative",
+      "kind": "organization",
+      "name": "Ember Reach Cooperative",
+      "desc": "A mining cooperative on a lava moon, governed by shifts and a rotating chair.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-seed-archive-trust",
+      "kind": "organization",
+      "name": "The Seed Archive Trust",
+      "desc": "Keepers of genetic vaults who lend out samples to fledgling colonies.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "pale-ledger-bank",
+      "kind": "organization",
+      "name": "Pale Ledger Bank",
+      "desc": "A bank that accepts reputation as collateral, with an auditing division of unsettling accuracy.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-hollow-ship-syndicate",
+      "kind": "organization",
+      "name": "The Hollow Ship Syndicate",
+      "desc": "Smugglers who hide cargo inside decommissioned hulls and file them as scrap.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "orrery-academy",
+      "kind": "organization",
+      "name": "Orrery Academy",
+      "desc": "A school of navigators trained to plot courses by memory when instruments fail.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "sable-dock-brotherhood",
+      "kind": "organization",
+      "name": "Sable Dock Brotherhood",
+      "desc": "A dockworkers' mutual aid society that runs strikes, funerals and an excellent soup kitchen.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-long-count-observers",
+      "kind": "organization",
+      "name": "The Long Count Observers",
+      "desc": "Watchers who record rare cosmic events and keep a poker game going between them.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "tinwhistle-courier-service",
+      "kind": "organization",
+      "name": "Tinwhistle Courier Service",
+      "desc": "A discreet delivery service that carries sensitive packages and no questions.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-quiet-registry",
+      "kind": "organization",
+      "name": "The Quiet Registry",
+      "desc": "An agency that records every artificial mind and tracks their retirements and unexpected grudges.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "cradle-station-midwives",
+      "kind": "organization",
+      "name": "Cradle Station Midwives",
+      "desc": "A medical order specializing in birth and early life in low gravity.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-spinward-compact",
+      "kind": "organization",
+      "name": "The Spinward Compact",
+      "desc": "A trade alliance of independent stations with a shared currency and a shared dislike of tariffs.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "reclamation-bureau-12",
+      "kind": "organization",
+      "name": "Reclamation Bureau 12",
+      "desc": "A government unit that restores abandoned colonies and often finds why they were abandoned.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "mirror-fleet-inc",
+      "kind": "organization",
+      "name": "Mirror Fleet Inc.",
+      "desc": "A corporation selling reflective solar sails and a stubbornly optimistic brochure.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "cartridge-monks",
+      "kind": "organization",
+      "name": "Cartridge Monks",
+      "desc": "A scholar order that preserves old data formats and reads forgotten files for fees.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-weathered-hands",
+      "kind": "organization",
+      "name": "The Weathered Hands",
+      "desc": "A guild of hull repairers who work outside in suits, famous for their quiet superstition.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "dunmore-and-pike-removals",
+      "kind": "organization",
+      "name": "Dunmore & Pike Removals",
+      "desc": "A family moving company whose drivers know every back road and every secret in town.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-tuesday-night-quizzers",
+      "kind": "organization",
+      "name": "The Tuesday Night Quizzers",
+      "desc": "A pub quiz team with a decades-old rivalry and an unexpected network of favors.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "greywater-tenants-union",
+      "kind": "organization",
+      "name": "Greywater Tenants' Union",
+      "desc": "A residents' association that fights landlords with petitions, potluck dinners and a very large spreadsheet.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "harbor-street-mutual",
+      "kind": "organization",
+      "name": "Harbor Street Mutual",
+      "desc": "A small credit union with a long memory and a suspicious loan officer.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "night-owl-courier-co-op",
+      "kind": "organization",
+      "name": "Night Owl Courier Co-op",
+      "desc": "A bike courier collective that works after midnight and knows every shortcut.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-allotment-society",
+      "kind": "organization",
+      "name": "The Allotment Society",
+      "desc": "A committee of garden plot holders whose disputes rival parliamentary debates.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "fourth-bell-volunteer-fire-brigade",
+      "kind": "organization",
+      "name": "Fourth Bell Volunteer Fire Brigade",
+      "desc": "A volunteer fire crew that doubles as the town's social club.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "plum-and-sons-locksmiths",
+      "kind": "organization",
+      "name": "Plum & Sons Locksmiths",
+      "desc": "A shop that opens doors for any reason and writes down nobody's name.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "redwater-community-radio",
+      "kind": "organization",
+      "name": "Redwater Community Radio",
+      "desc": "A volunteer radio station with a loyal audience and a feud over the playlist.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-quiet-hour-book-club",
+      "kind": "organization",
+      "name": "The Quiet Hour Book Club",
+      "desc": "A secretive book club that reads banned novels and trades them in plain brown covers.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "pennant-street-football-supporters",
+      "kind": "organization",
+      "name": "Pennant Street Football Supporters",
+      "desc": "A fan group whose chants have gained local fame and whose scarves have been sewn for three generations.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "lowland-insurance-group",
+      "kind": "organization",
+      "name": "Lowland Insurance Group",
+      "desc": "A mid-sized insurer, notorious for its fine print and its warm holiday cards.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-basement-press",
+      "kind": "organization",
+      "name": "The Basement Press",
+      "desc": "A small independent publisher run from a cellar by three stubborn editors.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "cleanslate-cleaners",
+      "kind": "organization",
+      "name": "Cleanslate Cleaners",
+      "desc": "A cleaning crew that finds more than dust in the buildings they clear, and keeps a locked drawer of it.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "blue-door-counseling",
+      "kind": "organization",
+      "name": "Blue Door Counseling",
+      "desc": "A small clinic whose waiting room is known for its overgrown plant and unexpected friendships.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-corner-shop-alliance",
+      "kind": "organization",
+      "name": "The Corner Shop Alliance",
+      "desc": "A group of local grocers who share stock, gossip and a strict boycott list.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "kestrel-taxi-company",
+      "kind": "organization",
+      "name": "Kestrel Taxi Company",
+      "desc": "A small taxi firm whose drivers keep their own rules and their own radio language.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "marlow-park-running-club",
+      "kind": "organization",
+      "name": "Marlow Park Running Club",
+      "desc": "A jogging club that meets at dawn and settles every dispute with a lap.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "spindle-lane-seamstress-collective",
+      "kind": "organization",
+      "name": "Spindle Lane Seamstress Collective",
+      "desc": "Alteration experts who repair clothes, dignity and the occasional rumor.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "granary-row-temp-agency",
+      "kind": "organization",
+      "name": "Granary Row Temp Agency",
+      "desc": "A staffing agency that places workers in odd roles and has a surprisingly thick file on everyone.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-evening-edition",
+      "kind": "organization",
+      "name": "The Evening Edition",
+      "desc": "A local newspaper with a small staff, a great archive and a long list of stories it should not run.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "sunday-market-traders",
+      "kind": "organization",
+      "name": "Sunday Market Traders",
+      "desc": "A weekend market association whose stall licenses are inherited like titles.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "old-bridge-rowing-club",
+      "kind": "organization",
+      "name": "Old Bridge Rowing Club",
+      "desc": "A rowing club on a river, proud of its trophies and its feud with the club across the water.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "station-road-pawnbrokers",
+      "kind": "organization",
+      "name": "Station Road Pawnbrokers",
+      "desc": "A pawnshop with an honest reputation and a back room of curious deposits.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "marrow-pike-associates",
+      "kind": "organization",
+      "name": "Marrow & Pike Associates",
+      "desc": "A mid-tier law practice that has defended almost everyone in town at least once.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "neighborhood-watch-group-14",
+      "kind": "organization",
+      "name": "Neighborhood Watch Group 14",
+      "desc": "A volunteer watch that is better at gossip than at patrol.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-last-orders-choir",
+      "kind": "organization",
+      "name": "The Last Orders Choir",
+      "desc": "A pub choir that sings on closing night and refuses to take requests.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "lamplight-legal-aid",
+      "kind": "organization",
+      "name": "Lamplight Legal Aid",
+      "desc": "A free legal clinic run by retired attorneys and strong tea.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "canal-boat-residents-association",
+      "kind": "organization",
+      "name": "Canal Boat Residents' Association",
+      "desc": "Live-aboard boaters who keep a rota for locks, mooring and mischief.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "quill-street-tutors",
+      "kind": "organization",
+      "name": "Quill Street Tutors",
+      "desc": "A tutoring agency that has quietly raised half the town's university students.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "kuroshio-ripperdocs-co-op",
+      "kind": "organization",
+      "name": "Kuroshio Ripperdocs Co-op",
+      "desc": "A cooperative of back-alley surgeons who share clients, tools and a pooled legal fund.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "glassbreak-runners",
+      "kind": "organization",
+      "name": "Glassbreak Runners",
+      "desc": "A crew of data thieves who specialize in corporate towers and always leave a signature.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "lowvolt-collective",
+      "kind": "organization",
+      "name": "Lowvolt Collective",
+      "desc": "A guild of electricians who keep the slums powered and refuse to answer to any corporation.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-sixth-district-rats",
+      "kind": "organization",
+      "name": "The Sixth District Rats",
+      "desc": "A street gang of tunnel kids who own the abandoned subway and trade in scavenged parts.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "tern-hollow-mutual",
+      "kind": "organization",
+      "name": "Tern Hollow Mutual",
+      "desc": "An insurance megacorp that prices lives in real time and sends polite drones to collect.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "chromium-saints",
+      "kind": "organization",
+      "name": "Chromium Saints",
+      "desc": "A gang of augmented bikers who ride in formation and give out free repairs on Sundays.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "redline-couriers",
+      "kind": "organization",
+      "name": "Redline Couriers",
+      "desc": "A courier agency whose riders carry stolen files and have a rating system by blood type.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-pale-server-church",
+      "kind": "organization",
+      "name": "The Pale Server Church",
+      "desc": "A cult that worships a dormant AI and pays dues in processing time.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "quillfern-biolabs",
+      "kind": "organization",
+      "name": "Quillfern Biolabs",
+      "desc": "A pharmaceutical firm that sells designer cravings with a lifetime subscription.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "gutterlight-press",
+      "kind": "organization",
+      "name": "Gutterlight Press",
+      "desc": "An underground press that prints truth on stolen billboards.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "fixers-row-syndicate",
+      "kind": "organization",
+      "name": "Fixer's Row Syndicate",
+      "desc": "A union of fixers who broker jobs and keep a communal blacklist.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "tin-heart-gang",
+      "kind": "organization",
+      "name": "Tin Heart Gang",
+      "desc": "A gang of androids who escaped a factory and now guard their old assembly line from its owners.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "mirrorwall-security",
+      "kind": "organization",
+      "name": "Mirrorwall Security",
+      "desc": "A corporate security contractor with a slogan about peace of mind and a policy of shoot first.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "meridian-quay-smuggling-family",
+      "kind": "organization",
+      "name": "Meridian Quay Smuggling Family",
+      "desc": "A smuggling family that moves cargo by cargo drone.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-static-choir",
+      "kind": "organization",
+      "name": "The Static Choir",
+      "desc": "A hacker collective that hijacks billboards to broadcast hymns.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "neon-tide-aid",
+      "kind": "organization",
+      "name": "Neon Tide Aid",
+      "desc": "A street clinic that treats drug addicts and glitching cyborgs with equal care and no paperwork.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "slate-harbour-arms",
+      "kind": "organization",
+      "name": "Slate Harbour Arms",
+      "desc": "A weapons maker that sells to every side, and has a fashion line.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-eyeless",
+      "kind": "organization",
+      "name": "The Eyeless",
+      "desc": "A gang that tore out their own cameras and implants to hide from surveillance.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "vermilion-logistics",
+      "kind": "organization",
+      "name": "Vermilion Logistics",
+      "desc": "A shipping firm with an armed drone escort and a very odd definition of damage.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-wirebound",
+      "kind": "organization",
+      "name": "The Wirebound",
+      "desc": "A subculture of hackers who permanently jack in, speaking in nested slang.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "backstreet-pharmacy-network",
+      "kind": "organization",
+      "name": "Backstreet Pharmacy Network",
+      "desc": "A string of unlicensed pharmacies that move stock between homes by courier.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-dust-council",
+      "kind": "organization",
+      "name": "The Dust Council",
+      "desc": "A council of scavengers who run the garbage district with a rule of rotating chairs.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "sable-wire-detective-agency",
+      "kind": "organization",
+      "name": "Sable Wire Detective Agency",
+      "desc": "Private investigators who specialize in finding stolen memories and missing identities.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "chrome-parish",
+      "kind": "organization",
+      "name": "Chrome Parish",
+      "desc": "A congregation that venerates machines and blesses cyberware at its altar.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "kestrel-bioworks",
+      "kind": "organization",
+      "name": "Kestrel Bioworks",
+      "desc": "A biotech company that sells custom organs and a cheerful warranty.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-overpass-union",
+      "kind": "organization",
+      "name": "The Overpass Union",
+      "desc": "Workers who live under elevated highways and strike against corporate rents.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "glow-alley-kitchen-collective",
+      "kind": "organization",
+      "name": "Glow Alley Kitchen Collective",
+      "desc": "A group of street cooks who share recipes, licenses and a legendary hot sauce.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "mirage-media",
+      "kind": "organization",
+      "name": "Mirage Media",
+      "desc": "A propaganda studio that produces custom realities for whoever pays.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-last-terminal",
+      "kind": "organization",
+      "name": "The Last Terminal",
+      "desc": "A hacker bar that doubles as an arbitration court for disputes over code.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "neonbridge-taxi-alliance",
+      "kind": "organization",
+      "name": "Neonbridge Taxi Alliance",
+      "desc": "Cab drivers who run illegal shortcuts and unlicensed tours.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "caravan-wardens",
+      "kind": "organization",
+      "name": "Caravan Wardens",
+      "desc": "A guild of armed guards for desert caravans, paid in water and trust.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-rust-harvest-co-op",
+      "kind": "organization",
+      "name": "The Rust Harvest Co-op",
+      "desc": "Scavengers who farm old machines for parts and sell what they cannot use.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "cistern-keepers",
+      "kind": "organization",
+      "name": "Cistern Keepers",
+      "desc": "A faction that controls the last clean water tanks and rations by lottery.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-lantern-road-fellowship",
+      "kind": "organization",
+      "name": "The Lantern Road Fellowship",
+      "desc": "A pilgrim band that lights roadside lamps and gives shelter to travelers.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "gearhead-gleaners",
+      "kind": "organization",
+      "name": "Gearhead Gleaners",
+      "desc": "Mechanics who roam in a convoy of patched trucks, repairing whatever breaks.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-greenhouse-circle",
+      "kind": "organization",
+      "name": "The Greenhouse Circle",
+      "desc": "A cooperative that grows food in sealed greenhouses and trades seeds for protection.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "hollow-gate-militia",
+      "kind": "organization",
+      "name": "Hollow Gate Militia",
+      "desc": "A volunteer defense force guarding a fortified settlement and its mildly unhelpful mayor.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "ember-court",
+      "kind": "organization",
+      "name": "Ember Court",
+      "desc": "A tribunal of elders who settle disputes with coin tosses and long memory.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-scrapwright-kin",
+      "kind": "organization",
+      "name": "The Scrapwright Kin",
+      "desc": "A clan of tinkers who build machines from garbage and their own stubborn pride.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-last-library-order",
+      "kind": "organization",
+      "name": "The Last Library Order",
+      "desc": "Librarians who protect surviving books and trade reading time for food.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "dustwalkers",
+      "kind": "organization",
+      "name": "Dustwalkers",
+      "desc": "Nomadic scouts who guide travelers across the wastes and charge by the mile.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-brine-merchants",
+      "kind": "organization",
+      "name": "The Brine Merchants",
+      "desc": "Salt traders who run a caravan network and keep a steady neutrality.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "seedkeepers-of-the-cold-vault",
+      "kind": "organization",
+      "name": "Seedkeepers of the Cold Vault",
+      "desc": "Guardians of a deep-frozen seed bank, protected by a rotating watch and an unruly dog.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "pump-station-seven",
+      "kind": "organization",
+      "name": "Pump Station Seven",
+      "desc": "A fortified well-house with an elected council and a strict one-cup rule.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "moth-eaters",
+      "kind": "organization",
+      "name": "Moth Eaters",
+      "desc": "A raider gang that dresses in cloaks made from old curtains and travels at night.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-chime-tribe",
+      "kind": "organization",
+      "name": "The Chime Tribe",
+      "desc": "A nomadic group that signals with wind chimes and cans.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-concrete-sisters",
+      "kind": "organization",
+      "name": "The Concrete Sisters",
+      "desc": "A women's militia who hold a collapsed overpass settlement.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "axle-and-ash-haulers",
+      "kind": "organization",
+      "name": "Axle & Ash Haulers",
+      "desc": "Truckers who run supply routes across ruined highways, armored in scrap.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "oilcan-lodge",
+      "kind": "organization",
+      "name": "Oilcan Lodge",
+      "desc": "A fraternity of mechanics with a creed of repair-before-reprisal.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-clean-water-compact",
+      "kind": "organization",
+      "name": "The Clean Water Compact",
+      "desc": "A treaty alliance among settlements to share filtered water and deter poisoners.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "raftmen-of-the-flooded-city",
+      "kind": "organization",
+      "name": "Raftmen of the Flooded City",
+      "desc": "Boat-folk who ferry goods through the drowned streets of a ruined metropolis.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "bunker-eleven-council",
+      "kind": "organization",
+      "name": "Bunker Eleven Council",
+      "desc": "The ruling committee of an underground shelter with strict ration records.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-mender-guild",
+      "kind": "organization",
+      "name": "The Mender Guild",
+      "desc": "Tailors and medics who patch wounds and clothes alike, bound by a creed against vengeance.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "reapers-of-the-last-field",
+      "kind": "organization",
+      "name": "Reapers of the Last Field",
+      "desc": "Harvesters who guard the last wheat field with scythes and a stern code.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "gaslight-traders",
+      "kind": "organization",
+      "name": "Gaslight Traders",
+      "desc": "A merchant convoy that sells batteries, bulbs and rumors.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-ash-wardens",
+      "kind": "organization",
+      "name": "The Ash Wardens",
+      "desc": "A band that polices a burned forest and enforces the only law there is.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "tin-can-telegraph",
+      "kind": "organization",
+      "name": "Tin Can Telegraph",
+      "desc": "A network of wire-and-can messengers who relay news across the ruins.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "windmill-kin",
+      "kind": "organization",
+      "name": "Windmill Kin",
+      "desc": "A family-run consortium who control the last turbines and distribute power by schedule.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-quiet-scavengers",
+      "kind": "organization",
+      "name": "The Quiet Scavengers",
+      "desc": "Salvagers who work in silence, communicating by hand signs, rarely seen.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-greyhound-riders",
+      "kind": "organization",
+      "name": "The Greyhound Riders",
+      "desc": "A pack of motorcycle couriers who carry news and medicine across the wasteland.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "honourable-company-of-rope-makers",
+      "kind": "organization",
+      "name": "Honourable Company of Rope Makers",
+      "desc": "A craft guild regulating hemp and cord, with feasts, apprentices and a very long charter.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "house-of-quill-and-seal",
+      "kind": "organization",
+      "name": "House of Quill & Seal",
+      "desc": "A family of notaries who register contracts for merchants and keep every secret in sealed boxes.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-mercers-hall",
+      "kind": "organization",
+      "name": "The Mercers' Hall",
+      "desc": "A guild of cloth dealers who control the market, set fair prices and settle their quarrels in court.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "brothers-of-the-open-road",
+      "kind": "organization",
+      "name": "Brothers of the Open Road",
+      "desc": "A religious order whose monks guide pilgrims and maintain hostels along the pilgrim roads.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-tollkeepers-league",
+      "kind": "organization",
+      "name": "The Tollkeepers' League",
+      "desc": "Bridge and gate officials who collect dues and keep a roll of every traveler.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "salt-road-caravan-company",
+      "kind": "organization",
+      "name": "Salt Road Caravan Company",
+      "desc": "A trading company that runs mule trains across mountain passes with fierce discipline.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-chandlers-fraternity",
+      "kind": "organization",
+      "name": "The Chandlers' Fraternity",
+      "desc": "Candle makers who guard their recipes and meet at the sign of the white wick.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-harbor-pilots-guild",
+      "kind": "organization",
+      "name": "The Harbor Pilots' Guild",
+      "desc": "River and harbor pilots who steer ships safely through sandbanks, for a fee and a bit of pride.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "fenland-drainers-syndicate",
+      "kind": "organization",
+      "name": "Fenland Drainers' Syndicate",
+      "desc": "A company of engineers who reclaim wetland and are loved or hated according to the harvest.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-wardens-of-the-beacon",
+      "kind": "organization",
+      "name": "The Wardens of the Beacon",
+      "desc": "A band of watchers who maintain hilltop signal fires and are paid in grain.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "sisters-of-the-almshouse",
+      "kind": "organization",
+      "name": "Sisters of the Almshouse",
+      "desc": "A women's charity order that runs a house for the elderly poor.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-silkroad-brokers",
+      "kind": "organization",
+      "name": "The Silkroad Brokers",
+      "desc": "A merchant bunch who arrange trade between eastern and western markets, taking a share of every deal.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-armorers-court",
+      "kind": "organization",
+      "name": "The Armorers' Court",
+      "desc": "A body of smiths who test, stamp and certify armor, and fine anyone who fakes the mark.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-pewter-guild",
+      "kind": "organization",
+      "name": "The Pewter Guild",
+      "desc": "Casters of pewter ware who maintain strict standards and public marks.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-brewers-brotherhood",
+      "kind": "organization",
+      "name": "The Brewers' Brotherhood",
+      "desc": "A guild of ale makers with ancient rights to specific wells and a drinking song.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "company-of-drovers",
+      "kind": "organization",
+      "name": "Company of Drovers",
+      "desc": "Cattle herders who guide herds along old droving roads to distant markets.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-lamplighters-company",
+      "kind": "organization",
+      "name": "The Lamplighters' Company",
+      "desc": "Street lamplighters who work in a tight rota and swap news at dusk.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-bargemens-fellowship",
+      "kind": "organization",
+      "name": "The Bargemen's Fellowship",
+      "desc": "Canal boatmen who share locks, news and a pooled fund for widows.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-royal-lockmakers",
+      "kind": "organization",
+      "name": "The Royal Lockmakers",
+      "desc": "A workshop that designs locks for palaces and prisons, famed for its secretive apprenticeships.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "scriveners-guild",
+      "kind": "organization",
+      "name": "Scriveners' Guild",
+      "desc": "Public writers and copyists, whose regulated fees are posted on the guildhall door.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "order-of-the-silent-bell",
+      "kind": "organization",
+      "name": "Order of the Silent Bell",
+      "desc": "A monastic order that sounds a bell at dusk and follows a vow of quiet.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-tanners-society",
+      "kind": "organization",
+      "name": "The Tanners' Society",
+      "desc": "Leather workers whose guild sits downwind, rich and unloved.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "wool-staplers-company",
+      "kind": "organization",
+      "name": "Wool Staplers' Company",
+      "desc": "Merchants who weigh and grade wool for export, and sit on their own court.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-watch-of-the-narrow-gate",
+      "kind": "organization",
+      "name": "The Watch of the Narrow Gate",
+      "desc": "Town guards who patrol the walls and keep a ledger of every visitor.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-corn-exchange-society",
+      "kind": "organization",
+      "name": "The Corn Exchange Society",
+      "desc": "Grain dealers who set the market price and gossip about the harvest.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-bellfounders-brotherhood",
+      "kind": "organization",
+      "name": "The Bellfounders' Brotherhood",
+      "desc": "Bronze casters who cast church bells and keep their alloys secret.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "society-of-apothecaries-and-spice-dealer",
+      "kind": "organization",
+      "name": "Society of Apothecaries and Spice Dealers",
+      "desc": "A trading body of herbalists and spice merchants regulating drugs and flavors.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-ferrymens-guild",
+      "kind": "organization",
+      "name": "The Ferrymen's Guild",
+      "desc": "River ferrymen who hold exclusive crossing rights and bar newcomers by custom.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "quarantine-board",
+      "kind": "organization",
+      "name": "Quarantine Board",
+      "desc": "An official body that inspects ships and decides which may land and which must wait.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-hiring-fair-marshals",
+      "kind": "organization",
+      "name": "The Hiring Fair Marshals",
+      "desc": "Officials who oversee servant and laborer hiring fairs and settle contract disputes.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-society-of-the-unlit-window",
+      "kind": "organization",
+      "name": "The Society of the Unlit Window",
+      "desc": "A club of collectors who gather stories about houses with a single dark window, and visit them.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "ward-eleven-staff",
+      "kind": "organization",
+      "name": "Ward Eleven Staff",
+      "desc": "Night nurses at a ward that no longer appears on the hospital map.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-quiet-parishioners",
+      "kind": "organization",
+      "name": "The Quiet Parishioners",
+      "desc": "A congregation that sits in total silence and watches anyone who enters.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "blackwater-ferry-company",
+      "kind": "organization",
+      "name": "Blackwater Ferry Company",
+      "desc": "A boat firm that runs one route at night and never seems to carry anyone back.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-lamplighters-brotherhood",
+      "kind": "organization",
+      "name": "The Lamplighter's Brotherhood",
+      "desc": "Lamplighters who keep the lights burning to ward away what waits behind the dark.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "pale-hours-funeral-collective",
+      "kind": "organization",
+      "name": "Pale Hours Funeral Collective",
+      "desc": "Undertakers who work at night and speak to the departed in low voices.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-fourth-floor-tenants",
+      "kind": "organization",
+      "name": "The Fourth Floor Tenants",
+      "desc": "Residents of a building whose fourth floor does not exist, but still sends rent notices.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-candlewick-seance-club",
+      "kind": "organization",
+      "name": "The Candlewick Seance Club",
+      "desc": "A hobby circle that holds weekly seances, and has begun to receive replies.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-last-bus-riders",
+      "kind": "organization",
+      "name": "The Last Bus Riders",
+      "desc": "A group of strangers who always ride the same late bus and avoid looking at the driver.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "cellar-door-society",
+      "kind": "organization",
+      "name": "Cellar Door Society",
+      "desc": "A club that explores unlisted basements, keeping a dwindling roster.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-wake-keepers",
+      "kind": "organization",
+      "name": "The Wake Keepers",
+      "desc": "Mourners paid to sit up with the dead, who have begun to answer when addressed.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "hollow-doll-makers-guild",
+      "kind": "organization",
+      "name": "Hollow Doll Maker's Guild",
+      "desc": "Toy makers whose creations are said to move when no one is looking.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-closed-casket-club",
+      "kind": "organization",
+      "name": "The Closed Casket Club",
+      "desc": "A fraternity of people who all attended the same funeral and agree never to discuss it.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "order-of-the-held-breath",
+      "kind": "organization",
+      "name": "Order of the Held Breath",
+      "desc": "A cult that practices long silence and long dives, believing the deep listens.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-night-shift-cleaners",
+      "kind": "organization",
+      "name": "The Night Shift Cleaners",
+      "desc": "Cleaners at an old school who stay after hours and do not discuss what they mop.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "mourners-mutual",
+      "kind": "organization",
+      "name": "Mourner's Mutual",
+      "desc": "A burial society that guarantees a funeral to every member, whatever the cost.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "candle-and-key-sisterhood",
+      "kind": "organization",
+      "name": "Candle & Key Sisterhood",
+      "desc": "Nuns who guard a locked room in their convent and rotate their watch every night.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-hollow-orchestra",
+      "kind": "organization",
+      "name": "The Hollow Orchestra",
+      "desc": "Musicians who play in an abandoned hall and cannot be heard by the living.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-moth-choir",
+      "kind": "organization",
+      "name": "The Moth Choir",
+      "desc": "A choral group that rehearses in empty churches and attracts moths in huge numbers.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-gravel-pit-search-party",
+      "kind": "organization",
+      "name": "The Gravel Pit Search Party",
+      "desc": "Volunteers who comb a flooded quarry every year, never finding the same body twice.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-pale-gardeners",
+      "kind": "organization",
+      "name": "The Pale Gardeners",
+      "desc": "Caretakers of a cemetery garden whose roses bloom at the wrong season.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "lanterns-of-the-lost",
+      "kind": "organization",
+      "name": "Lanterns of the Lost",
+      "desc": "A charity that leaves lit lanterns on roads where travelers have vanished.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-mirror-watchers",
+      "kind": "organization",
+      "name": "The Mirror Watchers",
+      "desc": "A fellowship who guard antique mirrors and know which ones to cover.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "parish-of-unspoken-names",
+      "kind": "organization",
+      "name": "Parish of Unspoken Names",
+      "desc": "A congregation forbidden to say the name of their patron saint.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-hollow-carnival-players",
+      "kind": "organization",
+      "name": "The Hollow Carnival Players",
+      "desc": "A traveling troupe whose act is the same every night, and every audience has forgotten before dawn.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-long-table-society",
+      "kind": "organization",
+      "name": "The Long Table Society",
+      "desc": "Dinner guests invited each year to a feast whose host never appears.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-attic-archivists",
+      "kind": "organization",
+      "name": "The Attic Archivists",
+      "desc": "Archivists in a mansion attic cataloging objects that have started to appear by themselves.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "sleepwalkers-aid-society",
+      "kind": "organization",
+      "name": "Sleepwalkers' Aid Society",
+      "desc": "A volunteer group that follows sleepwalkers to prevent harm, and has begun to notice where they go.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-understairs-congregation",
+      "kind": "organization",
+      "name": "The Understairs Congregation",
+      "desc": "A hidden cult that worships what lives beneath the stairs and leaves offerings of milk.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-final-edition",
+      "kind": "organization",
+      "name": "The Final Edition",
+      "desc": "A newspaper that publishes tomorrow's obituaries, delivered through the mail slot.",
+      "tags": [
+        "horror"
+      ]
+    }
+  ]
+}

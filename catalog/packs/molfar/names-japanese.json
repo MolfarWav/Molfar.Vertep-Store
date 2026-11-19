@@ -1,0 +1,1391 @@
+{
+  "format": 1,
+  "id": "molfar/names-japanese",
+  "name": "Japanese names",
+  "author": "Molfar",
+  "license": "CC0-1.0",
+  "description": "Japanese given names and family names in romaji, given name first.",
+  "version": 1,
+  "entries": [
+    {
+      "id": "sakura",
+      "kind": "name",
+      "name": "Sakura",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yuki",
+      "kind": "name",
+      "name": "Yuki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "haruka",
+      "kind": "name",
+      "name": "Haruka",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "aiko",
+      "kind": "name",
+      "name": "Aiko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "akemi",
+      "kind": "name",
+      "name": "Akemi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ayame",
+      "kind": "name",
+      "name": "Ayame",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "chiyo",
+      "kind": "name",
+      "name": "Chiyo",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "emi",
+      "kind": "name",
+      "name": "Emi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "fumiko",
+      "kind": "name",
+      "name": "Fumiko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "hana",
+      "kind": "name",
+      "name": "Hana",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "hanako",
+      "kind": "name",
+      "name": "Hanako",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "harumi",
+      "kind": "name",
+      "name": "Harumi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "hikari",
+      "kind": "name",
+      "name": "Hikari",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "hiroko",
+      "kind": "name",
+      "name": "Hiroko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ichika",
+      "kind": "name",
+      "name": "Ichika",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kaede",
+      "kind": "name",
+      "name": "Kaede",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kaori",
+      "kind": "name",
+      "name": "Kaori",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "keiko",
+      "kind": "name",
+      "name": "Keiko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kiyoko",
+      "kind": "name",
+      "name": "Kiyoko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kyoko",
+      "kind": "name",
+      "name": "Kyoko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mai",
+      "kind": "name",
+      "name": "Mai",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mariko",
+      "kind": "name",
+      "name": "Mariko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "masako",
+      "kind": "name",
+      "name": "Masako",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mayumi",
+      "kind": "name",
+      "name": "Mayumi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "michiko",
+      "kind": "name",
+      "name": "Michiko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "midori",
+      "kind": "name",
+      "name": "Midori",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mika",
+      "kind": "name",
+      "name": "Mika",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "misaki",
+      "kind": "name",
+      "name": "Misaki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mitsuko",
+      "kind": "name",
+      "name": "Mitsuko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "miyuki",
+      "kind": "name",
+      "name": "Miyuki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "momoko",
+      "kind": "name",
+      "name": "Momoko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nanami",
+      "kind": "name",
+      "name": "Nanami",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "naoko",
+      "kind": "name",
+      "name": "Naoko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "natsumi",
+      "kind": "name",
+      "name": "Natsumi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "noriko",
+      "kind": "name",
+      "name": "Noriko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "rin",
+      "kind": "name",
+      "name": "Rin",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sachiko",
+      "kind": "name",
+      "name": "Sachiko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "saki",
+      "kind": "name",
+      "name": "Saki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "satsuki",
+      "kind": "name",
+      "name": "Satsuki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "setsuko",
+      "kind": "name",
+      "name": "Setsuko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "shizuka",
+      "kind": "name",
+      "name": "Shizuka",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sumire",
+      "kind": "name",
+      "name": "Sumire",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "suzu",
+      "kind": "name",
+      "name": "Suzu",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "takako",
+      "kind": "name",
+      "name": "Takako",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tamaki",
+      "kind": "name",
+      "name": "Tamaki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tomoko",
+      "kind": "name",
+      "name": "Tomoko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tsubaki",
+      "kind": "name",
+      "name": "Tsubaki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ume",
+      "kind": "name",
+      "name": "Ume",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yoko",
+      "kind": "name",
+      "name": "Yoko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yoshiko",
+      "kind": "name",
+      "name": "Yoshiko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yui",
+      "kind": "name",
+      "name": "Yui",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yukiko",
+      "kind": "name",
+      "name": "Yukiko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yumi",
+      "kind": "name",
+      "name": "Yumi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yuri",
+      "kind": "name",
+      "name": "Yuri",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ayumi",
+      "kind": "name",
+      "name": "Ayumi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kasumi",
+      "kind": "name",
+      "name": "Kasumi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nozomi",
+      "kind": "name",
+      "name": "Nozomi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "haru",
+      "kind": "name",
+      "name": "Haru",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "chie",
+      "kind": "name",
+      "name": "Chie",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "reiko",
+      "kind": "name",
+      "name": "Reiko",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "haruto",
+      "kind": "name",
+      "name": "Haruto",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hiroshi",
+      "kind": "name",
+      "name": "Hiroshi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kenji",
+      "kind": "name",
+      "name": "Kenji",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "takeshi",
+      "kind": "name",
+      "name": "Takeshi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "akira",
+      "kind": "name",
+      "name": "Akira",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "daichi",
+      "kind": "name",
+      "name": "Daichi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "daisuke",
+      "kind": "name",
+      "name": "Daisuke",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "eiji",
+      "kind": "name",
+      "name": "Eiji",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "goro",
+      "kind": "name",
+      "name": "Goro",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hajime",
+      "kind": "name",
+      "name": "Hajime",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hideo",
+      "kind": "name",
+      "name": "Hideo",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "isamu",
+      "kind": "name",
+      "name": "Isamu",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "jiro",
+      "kind": "name",
+      "name": "Jiro",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "junichi",
+      "kind": "name",
+      "name": "Junichi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kaito",
+      "kind": "name",
+      "name": "Kaito",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "katsuo",
+      "kind": "name",
+      "name": "Katsuo",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kazuo",
+      "kind": "name",
+      "name": "Kazuo",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kenta",
+      "kind": "name",
+      "name": "Kenta",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kiyoshi",
+      "kind": "name",
+      "name": "Kiyoshi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "koji",
+      "kind": "name",
+      "name": "Koji",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "makoto",
+      "kind": "name",
+      "name": "Makoto",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "masaru",
+      "kind": "name",
+      "name": "Masaru",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "minoru",
+      "kind": "name",
+      "name": "Minoru",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "naoki",
+      "kind": "name",
+      "name": "Naoki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "noboru",
+      "kind": "name",
+      "name": "Noboru",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "osamu",
+      "kind": "name",
+      "name": "Osamu",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ryota",
+      "kind": "name",
+      "name": "Ryota",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ryuji",
+      "kind": "name",
+      "name": "Ryuji",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "saburo",
+      "kind": "name",
+      "name": "Saburo",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "seiji",
+      "kind": "name",
+      "name": "Seiji",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "shigeru",
+      "kind": "name",
+      "name": "Shigeru",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "shiro",
+      "kind": "name",
+      "name": "Shiro",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "shoji",
+      "kind": "name",
+      "name": "Shoji",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sora",
+      "kind": "name",
+      "name": "Sora",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "susumu",
+      "kind": "name",
+      "name": "Susumu",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tadashi",
+      "kind": "name",
+      "name": "Tadashi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "takashi",
+      "kind": "name",
+      "name": "Takashi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "taro",
+      "kind": "name",
+      "name": "Taro",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tetsuya",
+      "kind": "name",
+      "name": "Tetsuya",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "toru",
+      "kind": "name",
+      "name": "Toru",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tsubasa",
+      "kind": "name",
+      "name": "Tsubasa",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yasuo",
+      "kind": "name",
+      "name": "Yasuo",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yoshio",
+      "kind": "name",
+      "name": "Yoshio",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yuji",
+      "kind": "name",
+      "name": "Yuji",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yuto",
+      "kind": "name",
+      "name": "Yuto",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yusuke",
+      "kind": "name",
+      "name": "Yusuke",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hayato",
+      "kind": "name",
+      "name": "Hayato",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ren",
+      "kind": "name",
+      "name": "Ren",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "haruki",
+      "kind": "name",
+      "name": "Haruki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hiroki",
+      "kind": "name",
+      "name": "Hiroki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "itsuki",
+      "kind": "name",
+      "name": "Itsuki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "masato",
+      "kind": "name",
+      "name": "Masato",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "mitsuo",
+      "kind": "name",
+      "name": "Mitsuo",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "nobu",
+      "kind": "name",
+      "name": "Nobu",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rikiya",
+      "kind": "name",
+      "name": "Rikiya",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sho",
+      "kind": "name",
+      "name": "Sho",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "takumi",
+      "kind": "name",
+      "name": "Takumi",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tomoya",
+      "kind": "name",
+      "name": "Tomoya",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yamato",
+      "kind": "name",
+      "name": "Yamato",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kazuki",
+      "kind": "name",
+      "name": "Kazuki",
+      "culture": "japanese",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sato",
+      "kind": "name",
+      "name": "Sato",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "suzuki",
+      "kind": "name",
+      "name": "Suzuki",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "takahashi",
+      "kind": "name",
+      "name": "Takahashi",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "tanaka",
+      "kind": "name",
+      "name": "Tanaka",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "watanabe",
+      "kind": "name",
+      "name": "Watanabe",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "ito",
+      "kind": "name",
+      "name": "Ito",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "yamamoto",
+      "kind": "name",
+      "name": "Yamamoto",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "nakamura",
+      "kind": "name",
+      "name": "Nakamura",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "kobayashi",
+      "kind": "name",
+      "name": "Kobayashi",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "kato",
+      "kind": "name",
+      "name": "Kato",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "yoshida",
+      "kind": "name",
+      "name": "Yoshida",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "yamada",
+      "kind": "name",
+      "name": "Yamada",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "sasaki",
+      "kind": "name",
+      "name": "Sasaki",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "yamaguchi",
+      "kind": "name",
+      "name": "Yamaguchi",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "matsumoto",
+      "kind": "name",
+      "name": "Matsumoto",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "inoue",
+      "kind": "name",
+      "name": "Inoue",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "kimura",
+      "kind": "name",
+      "name": "Kimura",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "hayashi",
+      "kind": "name",
+      "name": "Hayashi",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "shimizu",
+      "kind": "name",
+      "name": "Shimizu",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "yamazaki",
+      "kind": "name",
+      "name": "Yamazaki",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "mori",
+      "kind": "name",
+      "name": "Mori",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "abe",
+      "kind": "name",
+      "name": "Abe",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "ikeda",
+      "kind": "name",
+      "name": "Ikeda",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "hashimoto",
+      "kind": "name",
+      "name": "Hashimoto",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "ishikawa",
+      "kind": "name",
+      "name": "Ishikawa",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "ogawa",
+      "kind": "name",
+      "name": "Ogawa",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "okada",
+      "kind": "name",
+      "name": "Okada",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "hasegawa",
+      "kind": "name",
+      "name": "Hasegawa",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "fujita",
+      "kind": "name",
+      "name": "Fujita",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "maeda",
+      "kind": "name",
+      "name": "Maeda",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "goto",
+      "kind": "name",
+      "name": "Goto",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "aoki",
+      "kind": "name",
+      "name": "Aoki",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "kondo",
+      "kind": "name",
+      "name": "Kondo",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "murakami",
+      "kind": "name",
+      "name": "Murakami",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "endo",
+      "kind": "name",
+      "name": "Endo",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "saito",
+      "kind": "name",
+      "name": "Saito",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "sakamoto",
+      "kind": "name",
+      "name": "Sakamoto",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "fukuda",
+      "kind": "name",
+      "name": "Fukuda",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "nishimura",
+      "kind": "name",
+      "name": "Nishimura",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "fujii",
+      "kind": "name",
+      "name": "Fujii",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "ota",
+      "kind": "name",
+      "name": "Ota",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "miura",
+      "kind": "name",
+      "name": "Miura",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "okamoto",
+      "kind": "name",
+      "name": "Okamoto",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "matsuda",
+      "kind": "name",
+      "name": "Matsuda",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "nakagawa",
+      "kind": "name",
+      "name": "Nakagawa",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "harada",
+      "kind": "name",
+      "name": "Harada",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "ono",
+      "kind": "name",
+      "name": "Ono",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "takeda",
+      "kind": "name",
+      "name": "Takeda",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "kikuchi",
+      "kind": "name",
+      "name": "Kikuchi",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "kuroda",
+      "kind": "name",
+      "name": "Kuroda",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "fujimoto",
+      "kind": "name",
+      "name": "Fujimoto",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "arai",
+      "kind": "name",
+      "name": "Arai",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "tachibana",
+      "kind": "name",
+      "name": "Tachibana",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "hoshino",
+      "kind": "name",
+      "name": "Hoshino",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "kishimoto",
+      "kind": "name",
+      "name": "Kishimoto",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "morita",
+      "kind": "name",
+      "name": "Morita",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "ueda",
+      "kind": "name",
+      "name": "Ueda",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "hirano",
+      "kind": "name",
+      "name": "Hirano",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "konishi",
+      "kind": "name",
+      "name": "Konishi",
+      "culture": "japanese",
+      "part": "family"
+    },
+    {
+      "id": "sugiyama",
+      "kind": "name",
+      "name": "Sugiyama",
+      "culture": "japanese",
+      "part": "family"
+    }
+  ]
+}
