@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "tagsVersion": 1,
+  "packs": [
+    {
+      "id": "molfar/items-general",
+      "file": "packs/molfar/items-general.json",
+      "name": "Items (general)",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Distinctive relics, tools, gadgets, curios and keepsakes with a story hook.",
+      "version": 1,
+      "count": 180,
+      "kinds": {
+        "item": 180
+      },
+      "bytes": 40665,
+      "hash": "cf570cfbdeceb3e0"
+    },
+    {
+      "id": "molfar/names-english",
+      "file": "packs/molfar/names-english.json",
+      "name": "English names",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Everyday and old-fashioned English given names and family names for stories from the Middle Ages to today.",
+      "version": 1,
+      "count": 180,
+      "kinds": {
+        "name": 180
+      },
+      "bytes": 26517,
+      "hash": "2313ce5f66680b74"
+    },
+    {
+      "id": "molfar/names-invented",
+      "file": "packs/molfar/names-invented.json",
+      "name": "Invented names",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Made-up fantasy names that sound like no real culture, for worlds of your own.",
+      "version": 1,
+      "count": 180,
+      "kinds": {
+        "name": 180
+      },
+      "bytes": 27299,
+      "hash": "83e893aace04c1cc"
+    },
+    {
+      "id": "molfar/names-japanese",
+      "file": "packs/molfar/names-japanese.json",
+      "name": "Japanese names",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Japanese given names and family names in romaji, given name first.",
+      "version": 1,
+      "count": 180,
+      "kinds": {
+        "name": 180
+      },
+      "bytes": 26483,
+      "hash": "25ed3238103ed77f"
+    },
+    {
+      "id": "molfar/names-norse",
+      "file": "packs/molfar/names-norse.json",
+      "name": "Old Norse names",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Historical Old Norse given names, with family names in the patronymic and byname style of the Viking Age.",
+      "version": 1,
+      "count": 182,
+      "kinds": {
+        "name": 182
+      },
+      "bytes": 26706,
+      "hash": "002219ebcd46bb8d"
+    },
+    {
+      "id": "molfar/names-scottish-irish",
+      "file": "packs/molfar/names-scottish-irish.json",
+      "name": "Scottish and Irish names",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Scottish Gaelic and Irish given names and clan and family names.",
+      "version": 1,
+      "count": 181,
+      "kinds": {
+        "name": 181
+      },
+      "bytes": 27860,
+      "hash": "9777a3921063d281"
+    },
+    {
+      "id": "molfar/names-slavic",
+      "file": "packs/molfar/names-slavic.json",
+      "name": "Old Slavic names",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Older and mythic-sounding Slavic names, rooted in the early medieval Slavic world rather than modern Ukrainian or Russian usage.",
+      "version": 1,
+      "count": 186,
+      "kinds": {
+        "name": 186
+      },
+      "bytes": 43187,
+      "hash": "f240a64d220caf95"
+    },
+    {
+      "id": "molfar/names-spanish",
+      "file": "packs/molfar/names-spanish.json",
+      "name": "Spanish names",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Spanish given names and family names for stories set in Spain and the Spanish-speaking world.",
+      "version": 1,
+      "count": 185,
+      "kinds": {
+        "name": 185
+      },
+      "bytes": 27300,
+      "hash": "2e1389d6be728564"
+    },
+    {
+      "id": "molfar/names-ukrainian",
+      "file": "packs/molfar/names-ukrainian.json",
+      "name": "Ukrainian names",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Common Ukrainian given names and family names for modern and historical stories.",
+      "version": 1,
+      "count": 184,
+      "kinds": {
+        "name": 184
+      },
+      "bytes": 42393,
+      "hash": "ff54d3c110265a4c"
+    },
+    {
+      "id": "molfar/organizations-general",
+      "file": "packs/molfar/organizations-general.json",
+      "name": "Organizations (general)",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Guilds, orders, companies, gangs, agencies, cults and clans for stories across many genres.",
+      "version": 1,
+      "count": 240,
+      "kinds": {
+        "organization": 240
+      },
+      "bytes": 63226,
+      "hash": "223e7e9bf35d03ef"
+    },
+    {
+      "id": "molfar/places-general",
+      "file": "packs/molfar/places-general.json",
+      "name": "Places (general)",
+      "author": "Molfar",
+      "license": "CC0-1.0",
+      "description": "Generic places for stories across fantasy, science fiction, modern, historical and horror settings.",
+      "version": 1,
+      "count": 240,
+      "kinds": {
+        "place": 240
+      },
+      "bytes": 63249,
+      "hash": "d7857ef91e1c1ac8"
+    }
+  ]
+}

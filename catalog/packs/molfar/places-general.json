@@ -1,0 +1,2181 @@
+{
+  "format": 1,
+  "id": "molfar/places-general",
+  "name": "Places (general)",
+  "author": "Molfar",
+  "license": "CC0-1.0",
+  "description": "Generic places for stories across fantasy, science fiction, modern, historical and horror settings.",
+  "version": 1,
+  "entries": [
+    {
+      "id": "lantern-stair",
+      "kind": "place",
+      "name": "Lantern Stair",
+      "desc": "A spiral staircase cut into a sea cliff, lit by thousands of glass lanterns tended by hermits. Each lantern holds a traveler's promise to come back.",
+      "tags": [
+        "fantasy"
+      ],
+      "aliases": {
+        "uk": [
+          "Ліхтарні сходи"
+        ]
+      }
+    },
+    {
+      "id": "hollow-of-small-bells",
+      "kind": "place",
+      "name": "Hollow of Small Bells",
+      "desc": "A forest glen where bells hang from every branch and ring only when someone nearby is lying. Locals learn to speak in whispers.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "saltmarrow-ferry",
+      "kind": "place",
+      "name": "Saltmarrow Ferry",
+      "desc": "A ferry poled across a river of brine by a patient giant tortoise. The fare is one memory of the sea.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "tallow-spire",
+      "kind": "place",
+      "name": "Tallow Spire",
+      "desc": "A tower built from melted candle wax over centuries and still warm to the touch. Its walls repeat the last words spoken near them.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "gloamwick-market",
+      "kind": "place",
+      "name": "Gloamwick Market",
+      "desc": "A market held only at dusk beneath nets of living glowworms, where stalls trade in borrowed shadows and bottled weather.",
+      "tags": [
+        "fantasy"
+      ],
+      "aliases": {
+        "uk": [
+          "Базар Присмеркової Ґноти"
+        ]
+      }
+    },
+    {
+      "id": "the-stilted-court",
+      "kind": "place",
+      "name": "The Stilted Court",
+      "desc": "A royal court on tall wooden stilts above a flooding plain. Its nobles swear never to touch the ground.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "pennywhistle-gorge",
+      "kind": "place",
+      "name": "Pennywhistle Gorge",
+      "desc": "A narrow canyon where wind plays the rock like a flute. Travelers navigate by the tune and the tune changes daily.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "orchard-of-seven-winters",
+      "kind": "place",
+      "name": "Orchard of Seven Winters",
+      "desc": "An orchard where each tree bears fruit of a different frost. A bite brings back one winter you once lived through.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "brindlecomb",
+      "kind": "place",
+      "name": "Brindlecomb",
+      "desc": "A village of beekeepers who use honey as coin and trained bees as couriers. Strangers are paid in stings first.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "kettle-hill-observatory",
+      "kind": "place",
+      "name": "Kettle Hill Observatory",
+      "desc": "A copper-domed observatory that tracks stars no one else can see. Its keeper trades star charts for hot soup.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "underglass-gardens",
+      "kind": "place",
+      "name": "Underglass Gardens",
+      "desc": "Terraced gardens grown beneath a lake of clear ice, lit by pale sun and tended by divers in waxed coats.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-sleeping-colossus-quarter",
+      "kind": "place",
+      "name": "The Sleeping Colossus Quarter",
+      "desc": "A district built along the back of a sleeping giant. Tenants plan rent around its slow breathing.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "whistlestop-cairn",
+      "kind": "place",
+      "name": "Whistlestop Cairn",
+      "desc": "A crossroads marked by a tall pile of stones, each left by a traveler who made a wish. Some stones hum at night.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "marrowmere",
+      "kind": "place",
+      "name": "Marrowmere",
+      "desc": "A milky lake said to be fed by the bones of an ancient beast. Fishers pull up carved ivory instead of fish.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "tidewrights-yard",
+      "kind": "place",
+      "name": "Tidewright's Yard",
+      "desc": "A shipyard that builds vessels meant to sail rivers in the sky. Its shipwrights never say who ordered them.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "cinderfen",
+      "kind": "place",
+      "name": "Cinderfen",
+      "desc": "A smoldering peat bog where warm mist rises year round. Wild fire-sprites nest in its hollow logs.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "vellum-reach",
+      "kind": "place",
+      "name": "Vellum Reach",
+      "desc": "A scholars' island where books grow like fruit on pale trees. Unripe volumes are forbidden to read.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "hobnail-bridge",
+      "kind": "place",
+      "name": "Hobnail Bridge",
+      "desc": "A narrow stone bridge guarded by a courteous troll who collects tolls in riddles and sends no one away hungry.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quillfeather-roost",
+      "kind": "place",
+      "name": "Quillfeather Roost",
+      "desc": "A tall cliff-top dovecote where messenger birds from every land come to rest. Its keeper reads all the letters.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "ambergate",
+      "kind": "place",
+      "name": "Ambergate",
+      "desc": "A city gate sealed long ago in a block of amber. The guards inside still stand watch, faintly moving.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-inn-at-three-roads",
+      "kind": "place",
+      "name": "The Inn at Three Roads",
+      "desc": "An inn where each of three doors opens onto a different road. Guests sometimes leave by the wrong one.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "thistledown-moor",
+      "kind": "place",
+      "name": "Thistledown Moor",
+      "desc": "A windy upland of drifting seed and low stone huts. Folk here sell weather forecasts read from fluff.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "mirrorpool-cloister",
+      "kind": "place",
+      "name": "Mirrorpool Cloister",
+      "desc": "A silent cloister around a pool that shows not faces but the choices a person nearly made.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "drowsy-mile",
+      "kind": "place",
+      "name": "Drowsy Mile",
+      "desc": "A stretch of road where travelers grow sleepy and must be walked through by awake guides for a small fee.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "copperleaf-terraces",
+      "kind": "place",
+      "name": "Copperleaf Terraces",
+      "desc": "Hillside terraces where trees with copper foliage chime softly. Their leaves are minted into the local coin.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "greywether-fair",
+      "kind": "place",
+      "name": "Greywether Fair",
+      "desc": "A traveling fair held on the back of a vast flock of sheep that wanders the downs. Stalls are moved by shepherds.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "needle-isle",
+      "kind": "place",
+      "name": "Needle Isle",
+      "desc": "A thin island with one tall spire, home to tailors who stitch maps into cloth and sell them as cloaks.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "cairn-of-lost-names",
+      "kind": "place",
+      "name": "Cairn of Lost Names",
+      "desc": "A field of flat stones, each carved with a name nobody remembers. Visitors may take one if they leave their own.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "foxglove-ford",
+      "kind": "place",
+      "name": "Foxglove Ford",
+      "desc": "A shallow river crossing ringed with purple blossoms. Those who wade it speak truthfully until they reach the far bank.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "the-weavers-descent",
+      "kind": "place",
+      "name": "The Weaver's Descent",
+      "desc": "A mine where thread, not ore, is drawn from the rock in glinting strands. Miners spin as they climb.",
+      "tags": [
+        "fantasy"
+      ]
+    },
+    {
+      "id": "gallowmere",
+      "kind": "place",
+      "name": "Gallowmere",
+      "desc": "A drowned village where the church spire still pokes from the black water. Fishermen swear the bell tolls for the dead below.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-thorn-reliquary",
+      "kind": "place",
+      "name": "The Thorn Reliquary",
+      "desc": "A cathedral grown entirely from briars, its saints' bones woven into the walls. Every thorn bleeds if cut.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "cold-hearth-keep",
+      "kind": "place",
+      "name": "Cold Hearth Keep",
+      "desc": "A fortress whose fires never warm anyone. Its lords sit in furs and speak in clouds of breath.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "ashen-ossuary",
+      "kind": "place",
+      "name": "Ashen Ossuary",
+      "desc": "A catacomb whose bones have been sorted by trade and rank, as though the dead still held office.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "widowmoor",
+      "kind": "place",
+      "name": "Widowmoor",
+      "desc": "A sodden heath crossed by a single raised road. Every stranger found on it is said to belong to somebody who waits.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-hanging-orchard",
+      "kind": "place",
+      "name": "The Hanging Orchard",
+      "desc": "A grove where fruit trees bear nooses in place of branches. The fruit is eaten by the bold and the desperate.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "mourners-quay",
+      "kind": "place",
+      "name": "Mourner's Quay",
+      "desc": "A stone dock where the dead are set afloat in black skiffs and paid mourners wail for hire.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "sootbell-abbey",
+      "kind": "place",
+      "name": "Sootbell Abbey",
+      "desc": "A ruined abbey whose bell tolls under its own power and whose monks vanished mid-prayer. Candles still burn.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-rotting-court",
+      "kind": "place",
+      "name": "The Rotting Court",
+      "desc": "A king's hall whose banquet table is never cleared. Courtiers eat spoiled feasts and call it tradition.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "carrion-hill",
+      "kind": "place",
+      "name": "Carrion Hill",
+      "desc": "A bare rise where large black birds gather in orderly rows. Local judges read the birds before sentencing.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "hollowgrave",
+      "kind": "place",
+      "name": "Hollowgrave",
+      "desc": "A cemetery with open graves on every plot, waiting. Gravediggers refuse to say who they are dug for.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "bleak-anvil",
+      "kind": "place",
+      "name": "Bleak Anvil",
+      "desc": "A smithy-town where iron is forged from the tears of captives. Its blades never rust and never forgive.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-gaunt-bridge",
+      "kind": "place",
+      "name": "The Gaunt Bridge",
+      "desc": "A bridge of fused ribs spanning a bottomless gorge. Travelers who cross it count their ribs for days after.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "vesper-lazaret",
+      "kind": "place",
+      "name": "Vesper Lazaret",
+      "desc": "A hospital for the cursed, run by nuns in veils. The wards fill silently and are never emptied.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "sallow-gate",
+      "kind": "place",
+      "name": "Sallow Gate",
+      "desc": "The sickly yellow gate of a plague city, locked from within. A hand-painted sign asks visitors to leave bread.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-choir-of-stones",
+      "kind": "place",
+      "name": "The Choir of Stones",
+      "desc": "A circle of standing stones that sing in grief when someone is about to die.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "wormwood-deep",
+      "kind": "place",
+      "name": "Wormwood Deep",
+      "desc": "A tidal cave where bitter herbs grow on drowned things. Hags harvest them for potions that make victims forget.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "blighted-furrow",
+      "kind": "place",
+      "name": "Blighted Furrow",
+      "desc": "A field that swallowed its last harvest and sprouted teeth. Farmers still plant it by decree.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "marrow-market",
+      "kind": "place",
+      "name": "Marrow Market",
+      "desc": "A butcher's square where odd cuts are sold from covered carts. Buyers ask no questions and sellers offer none.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "dirge-landing",
+      "kind": "place",
+      "name": "Dirge Landing",
+      "desc": "A harbor where only funeral ships dock. The sea outside it is never calm.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-silent-archive",
+      "kind": "place",
+      "name": "The Silent Archive",
+      "desc": "A vault of sealed confessions, each stamped with a wax seal that is warm to the touch.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "hunger-hall",
+      "kind": "place",
+      "name": "Hunger Hall",
+      "desc": "A lord's banquet hall where plates are always set and never filled. The ghosts there bite.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "the-pale-chapel",
+      "kind": "place",
+      "name": "The Pale Chapel",
+      "desc": "A white chapel under a sky that never changes color. Those who pray inside forget what they asked for.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "gravewrought-mine",
+      "kind": "place",
+      "name": "Gravewrought Mine",
+      "desc": "A mine where the ore is bone-pale and cold. Miners hear their own voices speaking from deeper galleries.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "haunted-tithe-barn",
+      "kind": "place",
+      "name": "Haunted Tithe Barn",
+      "desc": "A great barn where the harvest tithe is paid in years of life, collected by clerks without faces.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "briar-court",
+      "kind": "place",
+      "name": "Briar Court",
+      "desc": "A walled garden where roses grow over the sleepers who tended them. Pruning is forbidden.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "umber-fen",
+      "kind": "place",
+      "name": "Umber Fen",
+      "desc": "A brown marsh of drifting lights that lead travelers into the mud. Some lights are friendly. Most are not.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "crooks-rest",
+      "kind": "place",
+      "name": "Crook's Rest",
+      "desc": "A gallows hill where every post bears a lantern for the hanged. After midnight the lanterns swing together.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "scarlet-maw",
+      "kind": "place",
+      "name": "Scarlet Maw",
+      "desc": "A crater in the mountains that opens like a mouth in the thaw. Pilgrims toss in their sins and sometimes hear thanks.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "hollow-saints-rest",
+      "kind": "place",
+      "name": "Hollow Saint's Rest",
+      "desc": "A shrine to a saint whose statue is hollow and filled with whispers. Pilgrims press their ear to its cracks.",
+      "tags": [
+        "dark_fantasy"
+      ]
+    },
+    {
+      "id": "kepler-ring-habitat",
+      "kind": "place",
+      "name": "Kepler Ring Habitat",
+      "desc": "A rotating orbital ring whose residents farm on the inner surface under artificial dusk. Weather is voted on monthly.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "cold-dock-nine",
+      "kind": "place",
+      "name": "Cold Dock Nine",
+      "desc": "A freight dock on a frozen moon where ships wait weeks for ice to be cut. Gossip is the main currency.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "lattice-station",
+      "kind": "place",
+      "name": "Lattice Station",
+      "desc": "A research station built as an open scaffold around a drifting singularity. Staff pay in time dilation.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-long-garden",
+      "kind": "place",
+      "name": "The Long Garden",
+      "desc": "A hydroponic spine running the length of a generation ship, tended by caretakers who never meet anyone from the far end.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "halcyon-basin",
+      "kind": "place",
+      "name": "Halcyon Basin",
+      "desc": "A terraformed crater with real rain and a dome that mimics seasons. Tourists book years ahead.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "quiet-relay",
+      "kind": "place",
+      "name": "Quiet Relay",
+      "desc": "A communications platform at the edge of a system where signals arrive older than they should. Its operators keep a diary of echoes.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "redshift-bazaar",
+      "kind": "place",
+      "name": "Redshift Bazaar",
+      "desc": "A market that drifts between stars on a retired hauler. Prices change with the ship's speed.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "orchard-world-prime",
+      "kind": "place",
+      "name": "Orchard World Prime",
+      "desc": "A planet turned into a single enormous orchard, picked by drones and ferried by tall cargo balloons.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "pale-observatory",
+      "kind": "place",
+      "name": "Pale Observatory",
+      "desc": "A deep-space telescope station staffed by monks of data who log every flicker and rarely speak aloud.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "tin-cathedral",
+      "kind": "place",
+      "name": "Tin Cathedral",
+      "desc": "A reused ship hull converted into a chapel for those who pray to the engines. Its choir is a bank of idling turbines.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "meridian-gantry",
+      "kind": "place",
+      "name": "Meridian Gantry",
+      "desc": "A launch tower on a tidally locked world, standing on the thin ring of habitable twilight.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-ballast-vault",
+      "kind": "place",
+      "name": "The Ballast Vault",
+      "desc": "A hollow asteroid where lost cargo of dead ships is stored. Salvagers bid by lantern light.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "sable-reach",
+      "kind": "place",
+      "name": "Sable Reach",
+      "desc": "A dark nebula outpost with no windows facing out, where residents trust only instruments.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "thistle-station",
+      "kind": "place",
+      "name": "Thistle Station",
+      "desc": "A mining platform shaped like a spiked ball that spins to keep dust off its drills.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "obol-clearing",
+      "kind": "place",
+      "name": "Obol Clearing",
+      "desc": "A neutral docking zone where rival fleets trade under a truce enforced by an old automated referee.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "evenfall-array",
+      "kind": "place",
+      "name": "Evenfall Array",
+      "desc": "A field of tall solar masts on a desert world that bow in unison when the sun sets.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-cradle-archive",
+      "kind": "place",
+      "name": "The Cradle Archive",
+      "desc": "A vault holding frozen embryos and seed stock for a hundred worlds. Its overseer is a patient, tired machine.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "ice-chorus",
+      "kind": "place",
+      "name": "Ice Chorus",
+      "desc": "A drifting comet colony whose frozen halls sing when heated by passing sunlight.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "vagrants-elevator",
+      "kind": "place",
+      "name": "Vagrant's Elevator",
+      "desc": "A space elevator whose cabins are rented by the hour. Passengers argue over the view.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "brass-meridian",
+      "kind": "place",
+      "name": "Brass Meridian",
+      "desc": "A retro-styled starport that deliberately uses mechanical instruments and clerks with stamps.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "gantry-eleven",
+      "kind": "place",
+      "name": "Gantry Eleven",
+      "desc": "An abandoned shipyard where half-built hulls hang in the dark like unfinished fish.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "stillwater-deep",
+      "kind": "place",
+      "name": "Stillwater Deep",
+      "desc": "An ocean world habitat whose glass domes sit on stilts above a rolling sea of heavy water.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "the-sieve",
+      "kind": "place",
+      "name": "The Sieve",
+      "desc": "A customs checkpoint that sifts every arriving ship through nested scanners. Smugglers say it blinks.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "hollow-moon-spa",
+      "kind": "place",
+      "name": "Hollow Moon Spa",
+      "desc": "A resort carved inside a small moon, offering low gravity soaks to the wealthy and weary.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "marrow-station",
+      "kind": "place",
+      "name": "Marrow Station",
+      "desc": "A waste-processing platform whose crews salvage useful junk from the discarded. The smell is legendary.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "wren-platform",
+      "kind": "place",
+      "name": "Wren Platform",
+      "desc": "A tiny listening post run by two technicians who speak to whales through drifting buoys.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "seed-vault-sigma",
+      "kind": "place",
+      "name": "Seed Vault Sigma",
+      "desc": "A bunker orbiting a dead planet, stocked with life samples and a hesitant caretaker program.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "longshot-depot",
+      "kind": "place",
+      "name": "Longshot Depot",
+      "desc": "A fuel stop on a route so long that crews age between visits. Its barkeep remembers everyone.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "parallax-court",
+      "kind": "place",
+      "name": "Parallax Court",
+      "desc": "A floating tribunal where cases from far colonies are tried with a seven-minute delay between questions.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "glasswright-orbital",
+      "kind": "place",
+      "name": "Glasswright Orbital",
+      "desc": "A factory ring that spins fine lenses and crystals for the nearest dozen worlds.",
+      "tags": [
+        "science_fiction"
+      ]
+    },
+    {
+      "id": "late-night-laundromat",
+      "kind": "place",
+      "name": "Late Night Laundromat",
+      "desc": "A fluorescent laundromat open twenty-four hours where regulars trade stories over spinning drums. Its owner never seems to sleep.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "parking-level-six",
+      "kind": "place",
+      "name": "Parking Level Six",
+      "desc": "The top deck of an empty garage, used by skateboarders and nervous couples. The lights flicker in a pattern.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "nine-lives-pet-shop",
+      "kind": "place",
+      "name": "Nine Lives Pet Shop",
+      "desc": "A cramped pet shop whose owner talks to the animals. Customers leave with companions rather than purchases.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "alder-street-diner",
+      "kind": "place",
+      "name": "Alder Street Diner",
+      "desc": "A railcar diner with cracked red booths and bottomless coffee. The waitress has heard every confession.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "rooftop-allotment",
+      "kind": "place",
+      "name": "Rooftop Allotment",
+      "desc": "A community garden on a flat roof above a shopping arcade. Tenants guard their tomatoes with suspicion.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "terminal-c-chapel",
+      "kind": "place",
+      "name": "Terminal C Chapel",
+      "desc": "A tiny interfaith prayer room tucked in an airport. Delayed travelers wander in and linger.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "corner-copy-shop",
+      "kind": "place",
+      "name": "Corner Copy Shop",
+      "desc": "A print shop with a broken scanner and an owner who files everyone's lost items.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "pedestrian-overpass",
+      "kind": "place",
+      "name": "Pedestrian Overpass",
+      "desc": "A graffiti-covered footbridge above a six-lane road, where people stop to watch evening traffic.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-basement-arcade",
+      "kind": "place",
+      "name": "The Basement Arcade",
+      "desc": "A damp arcade of old cabinets run by a former champion. High scores are guarded like family secrets.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "wet-market-row",
+      "kind": "place",
+      "name": "Wet Market Row",
+      "desc": "An open-air market of fish, spice and live poultry that wakes at four every morning.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "harbor-view-laundry-steps",
+      "kind": "place",
+      "name": "Harbor View Laundry Steps",
+      "desc": "Concrete steps beside the port where dockworkers' families hang washing. Gulls take the best seats.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "greyfield-reservoir",
+      "kind": "place",
+      "name": "Greyfield Reservoir",
+      "desc": "A fenced reservoir with a jogging path. Joggers say the surface sometimes shows a different sky.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "evening-ferry-landing",
+      "kind": "place",
+      "name": "Evening Ferry Landing",
+      "desc": "A small wooden landing where commuters wait for the last boat. Strangers share umbrellas.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "seventh-floor-records-office",
+      "kind": "place",
+      "name": "Seventh Floor Records Office",
+      "desc": "A municipal office with endless forms and one friendly clerk who knows where everything is filed.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-quiet-car",
+      "kind": "place",
+      "name": "The Quiet Car",
+      "desc": "A train compartment where talking is forbidden and everyone has secrets. Regulars sit in the same seats.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "greenhouse-cafe",
+      "kind": "place",
+      "name": "Greenhouse Cafe",
+      "desc": "A cafe inside a derelict glass conservatory. Plants grow through the chairs and the menu changes with the harvest.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "underpass-gallery",
+      "kind": "place",
+      "name": "Underpass Gallery",
+      "desc": "A tunnel under a rail line where local painters hang work on the walls overnight and take it down by dawn.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "old-pool-hall",
+      "kind": "place",
+      "name": "Old Pool Hall",
+      "desc": "A hall with sticky floors and a ceiling fan that turns once a minute. Regulars still keep chalk in their pockets.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "radio-tower-hill",
+      "kind": "place",
+      "name": "Radio Tower Hill",
+      "desc": "A hill with an abandoned broadcast tower where teenagers go to talk and look at the city.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "marigold-block",
+      "kind": "place",
+      "name": "Marigold Block",
+      "desc": "An apartment complex with a shared courtyard and a long-standing feud over the clothesline.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-lost-property-depot",
+      "kind": "place",
+      "name": "The Lost Property Depot",
+      "desc": "A warehouse of items left on buses and trains. Staff keep rare treasures and unclaimed letters in a drawer.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "night-bus-terminus",
+      "kind": "place",
+      "name": "Night Bus Terminus",
+      "desc": "An empty bus station lit by one vending machine. Late arrivals share its warmth and the driver's stories.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "suburban-cul-de-sac",
+      "kind": "place",
+      "name": "Suburban Cul-de-sac",
+      "desc": "A circular street of identical houses where every porch light is on a timer, and the neighbors keep close watch.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "fourth-street-barbershop",
+      "kind": "place",
+      "name": "Fourth Street Barbershop",
+      "desc": "A two-chair shop where news is traded faster than haircuts. The owner insists on cash.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "seaside-arcade-pier",
+      "kind": "place",
+      "name": "Seaside Arcade Pier",
+      "desc": "A sagging pier of lights and sticky floors, closed in winter, haunted in summer by teenage crushes.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "hospital-garden",
+      "kind": "place",
+      "name": "Hospital Garden",
+      "desc": "A courtyard behind a clinic where patients and visitors sit among planter boxes and sometimes tell the truth.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "corporate-atrium",
+      "kind": "place",
+      "name": "Corporate Atrium",
+      "desc": "A glass lobby with a fountain and an overworked receptionist who knows every executive's real habits.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "rain-check-bar",
+      "kind": "place",
+      "name": "Rain Check Bar",
+      "desc": "A narrow bar open only during storms. Its regulars arrive soaked and unusually honest.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "the-short-stay-hotel",
+      "kind": "place",
+      "name": "The Short Stay Hotel",
+      "desc": "A budget hotel with thin walls and a night manager who keeps a list of strange guests.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "overnight-library",
+      "kind": "place",
+      "name": "Overnight Library",
+      "desc": "A branch library kept open all night by a stubborn librarian. Students and insomniacs share its tables.",
+      "tags": [
+        "modern"
+      ]
+    },
+    {
+      "id": "neon-alley-9",
+      "kind": "place",
+      "name": "Neon Alley 9",
+      "desc": "A narrow lane of glowing signs and noodle stalls above a drain. Every sign sells something illegal in code.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "rust-canal-hub",
+      "kind": "place",
+      "name": "Rust Canal Hub",
+      "desc": "A flooded intersection where drone barges trade scrap and chips. The water runs oily and warm.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-wire-garden",
+      "kind": "place",
+      "name": "The Wire Garden",
+      "desc": "A rooftop of tangled cables and potted bonsai, tended by a hacker who prunes both.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "chrome-row-clinic",
+      "kind": "place",
+      "name": "Chrome Row Clinic",
+      "desc": "A back-room clinic that installs cheap implants. Its sign says sterile, its smell says otherwise.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "lowtide-arcade",
+      "kind": "place",
+      "name": "Lowtide Arcade",
+      "desc": "A basement arcade where players bet their reflexes and sometimes their implants.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "static-district",
+      "kind": "place",
+      "name": "Static District",
+      "desc": "A neighborhood with no signal because of a jammer an angry landlord installed. It has become a refuge.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "gutter-exchange",
+      "kind": "place",
+      "name": "Gutter Exchange",
+      "desc": "An underground market that trades in leaked data and stolen memories, run from a shuttered subway car.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "hazard-row-noodles",
+      "kind": "place",
+      "name": "Hazard Row Noodles",
+      "desc": "A street kitchen under a flickering awning, serving soup with extra voltage. Customers eat standing up.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-sump",
+      "kind": "place",
+      "name": "The Sump",
+      "desc": "A sewer-level slum of repurposed server racks, where hackers sleep in cold cabinets and trade scraps.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "glass-needle-tower",
+      "kind": "place",
+      "name": "Glass Needle Tower",
+      "desc": "A corporate tower with mirrored windows and sub-floors the maps do not list. Drone swarms circle at night.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "burnout-lane",
+      "kind": "place",
+      "name": "Burnout Lane",
+      "desc": "A dead-end street of closed bars where ex-runners drink alone and recall the old jobs.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "halogen-hotel",
+      "kind": "place",
+      "name": "Halogen Hotel",
+      "desc": "A capsule hotel stacked fourteen stories high, rented by the hour. Rooms are tracked by ceiling cameras.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "servo-yard",
+      "kind": "place",
+      "name": "Servo Yard",
+      "desc": "A scrapyard of discarded androids and exoskeletons. Parts are sorted by size, not sorrow.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "pachinko-spire",
+      "kind": "place",
+      "name": "Pachinko Spire",
+      "desc": "A vertical casino stacked above a shopping mall, dazzling in colors that hurt to look at.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "overpass-shrine",
+      "kind": "place",
+      "name": "Overpass Shrine",
+      "desc": "A small shrine tucked under a highway, offerings of cheap chips and battery packs left for lost data-ghosts.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "datashrine-seven",
+      "kind": "place",
+      "name": "Datashrine Seven",
+      "desc": "A server farm turned temple where believers upload prayers to a patient system.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "smog-level-mall",
+      "kind": "place",
+      "name": "Smog Level Mall",
+      "desc": "A mall on the permanently hazy ground floor, selling air filters, replacement eyes and cheap luck.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "backdoor-ramen",
+      "kind": "place",
+      "name": "Backdoor Ramen",
+      "desc": "A ramen bar behind a locked door with a rotating password. Fixers, thieves and cops all eat there.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "tangle-market",
+      "kind": "place",
+      "name": "Tangle Market",
+      "desc": "A street market under tangled power lines, where vendors tap electricity and each other.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "ghost-line-station",
+      "kind": "place",
+      "name": "Ghost Line Station",
+      "desc": "An abandoned maglev station where signal-ghosts of commuters repeat their routes on cracked screens.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "amber-alley-clinic",
+      "kind": "place",
+      "name": "Amber Alley Clinic",
+      "desc": "A clinic for virtual addiction, tucked beside a bar. Patients check in under assumed names.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "lag-town",
+      "kind": "place",
+      "name": "Lag Town",
+      "desc": "A district served by obsolete networks, always a few seconds behind everyone else. It has its own slang.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-fixers-roof",
+      "kind": "place",
+      "name": "The Fixer's Roof",
+      "desc": "A rooftop shack with a satellite dish and a bar made of mismatched crates. Jobs are posted by ribbon.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "brownout-block",
+      "kind": "place",
+      "name": "Brownout Block",
+      "desc": "A tenement where the power cuts out at a set hour. Residents bribe the grid to keep the lights on.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "mirror-level",
+      "kind": "place",
+      "name": "Mirror Level",
+      "desc": "A floor of a megatower papered with advertisements that react to onlookers' moods.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "kilowatt-chapel",
+      "kind": "place",
+      "name": "Kilowatt Chapel",
+      "desc": "A chapel in a transformer station where technicians pray before shifts. Candles are forbidden, so they use LEDs.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "pawn-and-patch",
+      "kind": "place",
+      "name": "Pawn & Patch",
+      "desc": "A shop offering loans against organs and firmware. It always has a queue of regulars.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "neon-mortuary",
+      "kind": "place",
+      "name": "Neon Mortuary",
+      "desc": "A glowing morgue that scans and uploads the dead. Relatives pay by the megabyte.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "ferrous-bay",
+      "kind": "place",
+      "name": "Ferrous Bay",
+      "desc": "A harbor of automated cranes that never sleep. A single human supervisor keeps a mug and a prayer.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "the-under-level-garden",
+      "kind": "place",
+      "name": "The Under-Level Garden",
+      "desc": "A hidden greenhouse beneath a power plant, lit by grow lamps and guarded by a retired courier.",
+      "tags": [
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": "rust-harbor",
+      "kind": "place",
+      "name": "Rust Harbor",
+      "desc": "A shipyard of rotting hulls turned into a trading post. Traders barter fuel and clean water at fixed ranks.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-dry-reservoir",
+      "kind": "place",
+      "name": "The Dry Reservoir",
+      "desc": "A dried-out reservoir whose floor has become a market. Stalls are set where the old waterline once ran.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "cinder-orchard",
+      "kind": "place",
+      "name": "Cinder Orchard",
+      "desc": "A burnt orchard where ash-black trees still bear sour fruit. Wanderers camp there for the shade.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "chime-ridge",
+      "kind": "place",
+      "name": "Chime Ridge",
+      "desc": "A ridge strung with wind chimes made of cans and cutlery. Raiders know to avoid it.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "last-fuel-pump",
+      "kind": "place",
+      "name": "Last Fuel Pump",
+      "desc": "A single working gas station run by a stubborn attendant who refuses to open for raiders.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "bunker-eleven",
+      "kind": "place",
+      "name": "Bunker Eleven",
+      "desc": "A cramped underground shelter run by a council who keep the door shut and the ledgers tidy.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-greenhouse-mile",
+      "kind": "place",
+      "name": "The Greenhouse Mile",
+      "desc": "A mile of connected greenhouses, patched with plastic and glue, feeding a thriving settlement.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "scrapwright-fair",
+      "kind": "place",
+      "name": "Scrapwright Fair",
+      "desc": "A seasonal market of tinkers and mechanics trading salvaged machines. Prices are set by bartering contests.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "glasslands",
+      "kind": "place",
+      "name": "Glasslands",
+      "desc": "A plain fused to glass by an old blast. Its surface cuts boots but sparkles under sunset.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "sandcrawler-depot",
+      "kind": "place",
+      "name": "Sandcrawler Depot",
+      "desc": "A caravan stop built inside a stranded pipeline carrier. Drivers pay in water and gossip.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "mirror-dam",
+      "kind": "place",
+      "name": "Mirror Dam",
+      "desc": "A cracked dam whose spillway still holds a reflective lake. Scavengers say the fish glow.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "tin-roof-town",
+      "kind": "place",
+      "name": "Tin Roof Town",
+      "desc": "A settlement of metal sheets and shared walls, lit at night by oil lamps and quarrels.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-lantern-road",
+      "kind": "place",
+      "name": "The Lantern Road",
+      "desc": "A highway where survivors place lit lamps to guide travelers at night. Breaking one earns exile.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "hollow-mall",
+      "kind": "place",
+      "name": "Hollow Mall",
+      "desc": "A collapsed shopping center full of looted shops and families who sleep in dressing rooms.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "brine-flats",
+      "kind": "place",
+      "name": "Brine Flats",
+      "desc": "A salt desert of dry lake beds. Salt-cutters sell blocks to anyone with a mule.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "pump-house-rest",
+      "kind": "place",
+      "name": "Pump House Rest",
+      "desc": "A well-guarded pump house where caravans pay a cup per head. Its water tastes of copper.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "ember-silo",
+      "kind": "place",
+      "name": "Ember Silo",
+      "desc": "A grain silo turned into a defended farm, with ladders hidden and a dog on every platform.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-windmill-line",
+      "kind": "place",
+      "name": "The Windmill Line",
+      "desc": "A row of old turbines that still turn, each claimed by a family who trade power for protection.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "overpass-bazaar",
+      "kind": "place",
+      "name": "Overpass Bazaar",
+      "desc": "A market in the shade of a collapsed highway. Merchants pay a lookout for every cloud of dust.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "dustwater-station",
+      "kind": "place",
+      "name": "Dustwater Station",
+      "desc": "A rail stop where the last working train arrives once a month. Locals have a feast every time.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "seedkeepers-yard",
+      "kind": "place",
+      "name": "Seedkeeper's Yard",
+      "desc": "A fenced garden where heirloom seeds are traded under armed guard and dim lamps.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "rubble-harbor",
+      "kind": "place",
+      "name": "Rubble Harbor",
+      "desc": "A port in a drowned city where boats dock at the tops of buildings.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-last-school",
+      "kind": "place",
+      "name": "The Last School",
+      "desc": "A school in a freight car where a retired teacher keeps a chalkboard and fourteen students.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "gauge-hill",
+      "kind": "place",
+      "name": "Gauge Hill",
+      "desc": "A hilltop with an old weather station whose keeper sells forecasts and warnings.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "cairn-camp",
+      "kind": "place",
+      "name": "Cairn Camp",
+      "desc": "A rest stop of stacked stones and tarps, where wanderers leave messages for those behind.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "ruin-library",
+      "kind": "place",
+      "name": "Ruin Library",
+      "desc": "A half-burnt library whose librarian guards what is left and barters knowledge for food.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "the-long-quarantine",
+      "kind": "place",
+      "name": "The Long Quarantine",
+      "desc": "A fenced district kept in isolation for generations, now a tight and odd community.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "gravel-mouth",
+      "kind": "place",
+      "name": "Gravel Mouth",
+      "desc": "A quarry pit turned into a fortress, with ladders that vanish at night.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "shipwreck-row",
+      "kind": "place",
+      "name": "Shipwreck Row",
+      "desc": "A line of beached cargo ships turned into homes, linked by rope bridges and loud rumor.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "moth-light-camp",
+      "kind": "place",
+      "name": "Moth Light Camp",
+      "desc": "A caravan camp lit by hanging lamps that draw clouds of moths. Travelers say it feels like a feast.",
+      "tags": [
+        "post_apocalyptic"
+      ]
+    },
+    {
+      "id": "cobblers-row",
+      "kind": "place",
+      "name": "Cobbler's Row",
+      "desc": "A narrow lane of leather workers, where apprentices shout at passersby and the smell of tanned hide hangs thick.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-wool-staple-hall",
+      "kind": "place",
+      "name": "The Wool Staple Hall",
+      "desc": "A merchants' hall where wool is weighed and sealed under watchful eyes of guild officials.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "millers-bridge",
+      "kind": "place",
+      "name": "Millers' Bridge",
+      "desc": "A covered timber bridge with shops along both sides. Fire drills are strictly enforced.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "tollhouse-at-the-ford",
+      "kind": "place",
+      "name": "Tollhouse at the Ford",
+      "desc": "A small stone tollhouse where a clerk records every cart and keeps a ledger of travelers' complaints.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "brewers-guildhall",
+      "kind": "place",
+      "name": "Brewers' Guildhall",
+      "desc": "A hall with long tables, a heavy beam ceiling and a tradition of settling disputes over ale.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-drovers-inn",
+      "kind": "place",
+      "name": "The Drovers' Inn",
+      "desc": "An inn on a cattle road with a muddy yard and shared beds, famous for its pea soup and its fiddlers.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "salt-pans",
+      "kind": "place",
+      "name": "Salt Pans",
+      "desc": "Shallow evaporation ponds along a coast, worked by families who sell their yield by cartload.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "frostfair-common",
+      "kind": "place",
+      "name": "Frostfair Common",
+      "desc": "A common where a frozen river hosts a winter fair, with stalls set directly on the ice.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "lamplighters-lane",
+      "kind": "place",
+      "name": "Lamplighter's Lane",
+      "desc": "A street where a guild of lamplighters trims wicks each dusk. Their ladders lean on every post.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-scriveners-yard",
+      "kind": "place",
+      "name": "The Scriveners' Yard",
+      "desc": "A courtyard of public letter writers who draft contracts and love notes for a few coins.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "hillfort-stockade",
+      "kind": "place",
+      "name": "Hillfort Stockade",
+      "desc": "A timber palisade on a hilltop, home to a small clan and a great many dogs.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "dyers-quay",
+      "kind": "place",
+      "name": "Dyers' Quay",
+      "desc": "A riverside row where cloth dyers rinse bright cloth, staining the water in changing colors.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "granary-square",
+      "kind": "place",
+      "name": "Granary Square",
+      "desc": "A square dominated by a stone granary, the site of grain markets and public announcements.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-court-leet",
+      "kind": "place",
+      "name": "The Court Leet",
+      "desc": "A rural court meeting under an oak where villagers argue over boundaries and stray pigs.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "pilgrims-hospice",
+      "kind": "place",
+      "name": "Pilgrims' Hospice",
+      "desc": "A hostel on a pilgrim road, run by monks, offering a bed and a bowl for a prayer.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-ropewalk",
+      "kind": "place",
+      "name": "The Ropewalk",
+      "desc": "A very long shed where rope makers walk backwards spinning hemp into cable.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "caravanserai-of-the-plain",
+      "kind": "place",
+      "name": "Caravanserai of the Plain",
+      "desc": "A walled inn for desert travelers, with a central well and stalls for camels.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "harbourmasters-office",
+      "kind": "place",
+      "name": "Harbourmaster's Office",
+      "desc": "A harbor building with a high window and a ledger of every ship, kept by a sharp-eyed official.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "lockkeepers-cottage",
+      "kind": "place",
+      "name": "Lockkeeper's Cottage",
+      "desc": "A small house by a canal lock, where the keeper watches barges and trades in local rumor.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "pewterers-hall",
+      "kind": "place",
+      "name": "Pewterers' Hall",
+      "desc": "A craft hall where pewter is cast and tested. Its marks were considered binding in disputes.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "warning-knoll",
+      "kind": "place",
+      "name": "Warning Knoll",
+      "desc": "A hill with a stack of wood ready for the alarm. Watchmen draw lots for the lonely night shift.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-hiring-fair",
+      "kind": "place",
+      "name": "The Hiring Fair",
+      "desc": "A square where servants and laborers stand in rows holding tokens of their trades, hoping for a master.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "quarantine-island",
+      "kind": "place",
+      "name": "Quarantine Island",
+      "desc": "A small island where arriving ships wait out forty days before landing. Its chapel has no bell.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "powder-mill",
+      "kind": "place",
+      "name": "Powder Mill",
+      "desc": "A stone mill by a stream, where gunpowder is mixed in cautious batches and visitors surrender their boots.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "bellfounders-yard",
+      "kind": "place",
+      "name": "Bellfounders' Yard",
+      "desc": "A yard where bronze bells are cast, and each new bell is named by the village that orders it.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "pigeon-post-station",
+      "kind": "place",
+      "name": "Pigeon Post Station",
+      "desc": "A tower of nesting boxes where pigeons carry messages for merchants and spies alike.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "almshouse-court",
+      "kind": "place",
+      "name": "Almshouse Court",
+      "desc": "A court of tiny cottages for retired workers, with a gate-keeper who counts the visitors.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "cartographers-loft",
+      "kind": "place",
+      "name": "Cartographers' Loft",
+      "desc": "An attic where mapmakers copy charts by candlelight, drawing in empty regions with sea monsters.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "garrison-fort-at-the-pass",
+      "kind": "place",
+      "name": "Garrison Fort at the Pass",
+      "desc": "A stone fort commanding a mountain pass, drafty, poorly supplied and fiercely loyal.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "the-candle-fair",
+      "kind": "place",
+      "name": "The Candle Fair",
+      "desc": "A winter fair where tallow and wax are sold by weight, and children are given small stubs to light the dark.",
+      "tags": [
+        "historical"
+      ]
+    },
+    {
+      "id": "hollow-pines-lodge",
+      "kind": "place",
+      "name": "Hollow Pines Lodge",
+      "desc": "A remote lodge where guests are checked in but never recorded leaving. The wallpaper is slightly different each morning.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-third-stair",
+      "kind": "place",
+      "name": "The Third Stair",
+      "desc": "A basement staircase that has one more step every time you walk down.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "wickfield-farmhouse",
+      "kind": "place",
+      "name": "Wickfield Farmhouse",
+      "desc": "A farm with a locked cellar and a family that dines at a table set for one extra.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "dead-channel-studio",
+      "kind": "place",
+      "name": "Dead Channel Studio",
+      "desc": "A closed television studio whose set lights still warm up at night, and whose audience is invisible.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "murmur-lane",
+      "kind": "place",
+      "name": "Murmur Lane",
+      "desc": "A quiet street where every window shows a faint figure watching. Mailboxes contain unsigned letters.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "sister-agnes-orphanage",
+      "kind": "place",
+      "name": "Sister Agnes Orphanage",
+      "desc": "A shuttered orphanage with a playroom of cold toys. Children's laughter drifts down the stairs.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "nowhere-motel",
+      "kind": "place",
+      "name": "Nowhere Motel",
+      "desc": "A roadside motel with no road behind it. The vacancy sign flickers in a pattern.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-stairwell-between-floors",
+      "kind": "place",
+      "name": "The Stairwell Between Floors",
+      "desc": "A fire stair where doors open onto floors that do not exist in the building plan.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "whisper-marsh",
+      "kind": "place",
+      "name": "Whisper Marsh",
+      "desc": "A fog-bound fen where voices of the missing call from the reeds, perfectly mimicking loved ones.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "lamplit-asylum",
+      "kind": "place",
+      "name": "Lamplit Asylum",
+      "desc": "A decommissioned asylum with the lamps still burning. Staff files describe patients who were never admitted.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "candlewick-funeral-home",
+      "kind": "place",
+      "name": "Candlewick Funeral Home",
+      "desc": "A parlor where the dead are laid out for visitors who never come. The embalmer smiles too widely.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-last-carriage",
+      "kind": "place",
+      "name": "The Last Carriage",
+      "desc": "The final car of a night train where passengers sit in silence. Those who fall asleep wake at an unknown station.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "cellar-of-birthdays",
+      "kind": "place",
+      "name": "Cellar of Birthdays",
+      "desc": "A basement room full of dusty cakes with candles for every year of a stranger's life.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "greywater-reservoir",
+      "kind": "place",
+      "name": "Greywater Reservoir",
+      "desc": "A drained reservoir whose bottom reveals an entire village. Something still tends its wells.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-photographers-studio",
+      "kind": "place",
+      "name": "The Photographer's Studio",
+      "desc": "A studio where portraits come back with one extra figure in the background.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "ravel-street-theater",
+      "kind": "place",
+      "name": "Ravel Street Theater",
+      "desc": "A theater whose velvet curtain rises on its own. The play is always the audience's last evening.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "thistle-well",
+      "kind": "place",
+      "name": "Thistle Well",
+      "desc": "A deep well that echoes with answers before the question is spoken. Children are forbidden to lean over it.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-parish-of-quiet",
+      "kind": "place",
+      "name": "The Parish of Quiet",
+      "desc": "A chapel village where the residents never speak after dusk and their eyes follow strangers.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "birchwood-sanatorium",
+      "kind": "place",
+      "name": "Birchwood Sanatorium",
+      "desc": "A mountain sanatorium that treats a cough with long rests and unplanned disappearances.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "pennyfarthing-carnival",
+      "kind": "place",
+      "name": "Pennyfarthing Carnival",
+      "desc": "An out-of-season carnival where carousels turn alone and the ticket seller never looks up.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "nightshift-hospital-wing",
+      "kind": "place",
+      "name": "Nightshift Hospital Wing",
+      "desc": "A closed ward where the intercom still calls for doctors who retired decades ago.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "barrow-field",
+      "kind": "place",
+      "name": "Barrow Field",
+      "desc": "A barrow field where grass grows in the shapes of faces. Farmers plough around them.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "lullaby-manor",
+      "kind": "place",
+      "name": "Lullaby Manor",
+      "desc": "A decaying mansion where a music box plays by itself each midnight. The nursery is always warm.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "elm-hollow-schoolhouse",
+      "kind": "place",
+      "name": "Elm Hollow Schoolhouse",
+      "desc": "A one-room school where the roll call includes names that nobody recognizes.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-meat-locker",
+      "kind": "place",
+      "name": "The Meat Locker",
+      "desc": "A walk-in freezer at a closed butcher's that hums with an odd tune. Its door has no inside handle.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "cinder-road-tunnel",
+      "kind": "place",
+      "name": "Cinder Road Tunnel",
+      "desc": "A railway tunnel that is longer on the way out. Drivers who stop their engines hear knocking.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "gravel-pit-lake",
+      "kind": "place",
+      "name": "Gravel Pit Lake",
+      "desc": "A flooded quarry where swimmers feel hands around their ankles. Rescue divers refuse to go deeper.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "the-waiting-room",
+      "kind": "place",
+      "name": "The Waiting Room",
+      "desc": "A clinic with one chair too many and a receptionist who calls numbers nobody holds.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "larder-of-the-old-hall",
+      "kind": "place",
+      "name": "Larder of the Old Hall",
+      "desc": "A cold pantry in a derelict hall, stocked with preserves labeled in a child's hand with names of the missing.",
+      "tags": [
+        "horror"
+      ]
+    },
+    {
+      "id": "bellweather-fairground",
+      "kind": "place",
+      "name": "Bellweather Fairground",
+      "desc": "A fairground where the fortune teller's booth has a sign reading closed. Someone still answers.",
+      "tags": [
+        "horror"
+      ]
+    }
+  ]
+}

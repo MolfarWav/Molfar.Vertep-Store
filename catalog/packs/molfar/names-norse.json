@@ -1,0 +1,1406 @@
+{
+  "format": 1,
+  "id": "molfar/names-norse",
+  "name": "Old Norse names",
+  "author": "Molfar",
+  "license": "CC0-1.0",
+  "description": "Historical Old Norse given names, with family names in the patronymic and byname style of the Viking Age.",
+  "version": 1,
+  "entries": [
+    {
+      "id": "astrid",
+      "kind": "name",
+      "name": "Astrid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ingrid",
+      "kind": "name",
+      "name": "Ingrid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sigrid",
+      "kind": "name",
+      "name": "Sigrid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "freydis",
+      "kind": "name",
+      "name": "Freydis",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "gudrun",
+      "kind": "name",
+      "name": "Gudrun",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "helga",
+      "kind": "name",
+      "name": "Helga",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "thora",
+      "kind": "name",
+      "name": "Thora",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ragnhild",
+      "kind": "name",
+      "name": "Ragnhild",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "solveig",
+      "kind": "name",
+      "name": "Solveig",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sigrun",
+      "kind": "name",
+      "name": "Sigrun",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "gunnhild",
+      "kind": "name",
+      "name": "Gunnhild",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "hild",
+      "kind": "name",
+      "name": "Hild",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "thorhild",
+      "kind": "name",
+      "name": "Thorhild",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ragna",
+      "kind": "name",
+      "name": "Ragna",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ranveig",
+      "kind": "name",
+      "name": "Ranveig",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "unn",
+      "kind": "name",
+      "name": "Unn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vigdis",
+      "kind": "name",
+      "name": "Vigdis",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "alfhild",
+      "kind": "name",
+      "name": "Alfhild",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "arnora",
+      "kind": "name",
+      "name": "Arnora",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "asa",
+      "kind": "name",
+      "name": "Asa",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "bergljot",
+      "kind": "name",
+      "name": "Bergljot",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dagny",
+      "kind": "name",
+      "name": "Dagny",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "estrid",
+      "kind": "name",
+      "name": "Estrid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "geirrid",
+      "kind": "name",
+      "name": "Geirrid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "gyda",
+      "kind": "name",
+      "name": "Gyda",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "halldis",
+      "kind": "name",
+      "name": "Halldis",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "herdis",
+      "kind": "name",
+      "name": "Herdis",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ingibjorg",
+      "kind": "name",
+      "name": "Ingibjorg",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "jorunn",
+      "kind": "name",
+      "name": "Jorunn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "katla",
+      "kind": "name",
+      "name": "Katla",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ketilrid",
+      "kind": "name",
+      "name": "Ketilrid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "liv",
+      "kind": "name",
+      "name": "Liv",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ljot",
+      "kind": "name",
+      "name": "Ljot",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "olof",
+      "kind": "name",
+      "name": "Olof",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ragnfrid",
+      "kind": "name",
+      "name": "Ragnfrid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "steinunn",
+      "kind": "name",
+      "name": "Steinunn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "thordis",
+      "kind": "name",
+      "name": "Thordis",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "thorgerd",
+      "kind": "name",
+      "name": "Thorgerd",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "thorunn",
+      "kind": "name",
+      "name": "Thorunn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "thurid",
+      "kind": "name",
+      "name": "Thurid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tora",
+      "kind": "name",
+      "name": "Tora",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "valgerd",
+      "kind": "name",
+      "name": "Valgerd",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vilborg",
+      "kind": "name",
+      "name": "Vilborg",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "inga",
+      "kind": "name",
+      "name": "Inga",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "eydis",
+      "kind": "name",
+      "name": "Eydis",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "eyvor",
+      "kind": "name",
+      "name": "Eyvor",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "hrefna",
+      "kind": "name",
+      "name": "Hrefna",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "jofrid",
+      "kind": "name",
+      "name": "Jofrid",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "osk",
+      "kind": "name",
+      "name": "Osk",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "saeunn",
+      "kind": "name",
+      "name": "Saeunn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sunniva",
+      "kind": "name",
+      "name": "Sunniva",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "thyri",
+      "kind": "name",
+      "name": "Thyri",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yngvild",
+      "kind": "name",
+      "name": "Yngvild",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "aldis",
+      "kind": "name",
+      "name": "Aldis",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "arngerd",
+      "kind": "name",
+      "name": "Arngerd",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "bera",
+      "kind": "name",
+      "name": "Bera",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "borghild",
+      "kind": "name",
+      "name": "Borghild",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "gunnvor",
+      "kind": "name",
+      "name": "Gunnvor",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ragnveig",
+      "kind": "name",
+      "name": "Ragnveig",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sigga",
+      "kind": "name",
+      "name": "Sigga",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "thorbjorg",
+      "kind": "name",
+      "name": "Thorbjorg",
+      "culture": "norse",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ragnar",
+      "kind": "name",
+      "name": "Ragnar",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bjorn",
+      "kind": "name",
+      "name": "Bjorn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "erik",
+      "kind": "name",
+      "name": "Erik",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "olaf",
+      "kind": "name",
+      "name": "Olaf",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "harald",
+      "kind": "name",
+      "name": "Harald",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sven",
+      "kind": "name",
+      "name": "Sven",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ulf",
+      "kind": "name",
+      "name": "Ulf",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "leif",
+      "kind": "name",
+      "name": "Leif",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "thorstein",
+      "kind": "name",
+      "name": "Thorstein",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "thorkell",
+      "kind": "name",
+      "name": "Thorkell",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "thorfinn",
+      "kind": "name",
+      "name": "Thorfinn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "torgeir",
+      "kind": "name",
+      "name": "Torgeir",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ketil",
+      "kind": "name",
+      "name": "Ketil",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "eyvind",
+      "kind": "name",
+      "name": "Eyvind",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "halfdan",
+      "kind": "name",
+      "name": "Halfdan",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hakon",
+      "kind": "name",
+      "name": "Hakon",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hrolf",
+      "kind": "name",
+      "name": "Hrolf",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ivar",
+      "kind": "name",
+      "name": "Ivar",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "knut",
+      "kind": "name",
+      "name": "Knut",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "magnus",
+      "kind": "name",
+      "name": "Magnus",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "orm",
+      "kind": "name",
+      "name": "Orm",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ottar",
+      "kind": "name",
+      "name": "Ottar",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rolf",
+      "kind": "name",
+      "name": "Rolf",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "skuli",
+      "kind": "name",
+      "name": "Skuli",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "snorri",
+      "kind": "name",
+      "name": "Snorri",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "steinar",
+      "kind": "name",
+      "name": "Steinar",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sturla",
+      "kind": "name",
+      "name": "Sturla",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "svein",
+      "kind": "name",
+      "name": "Svein",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "thorvald",
+      "kind": "name",
+      "name": "Thorvald",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "toki",
+      "kind": "name",
+      "name": "Toki",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "trygve",
+      "kind": "name",
+      "name": "Trygve",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ulfar",
+      "kind": "name",
+      "name": "Ulfar",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vali",
+      "kind": "name",
+      "name": "Vali",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "arnulf",
+      "kind": "name",
+      "name": "Arnulf",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "asbjorn",
+      "kind": "name",
+      "name": "Asbjorn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "atli",
+      "kind": "name",
+      "name": "Atli",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bard",
+      "kind": "name",
+      "name": "Bard",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "birger",
+      "kind": "name",
+      "name": "Birger",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bjarni",
+      "kind": "name",
+      "name": "Bjarni",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "brand",
+      "kind": "name",
+      "name": "Brand",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dag",
+      "kind": "name",
+      "name": "Dag",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "einar",
+      "kind": "name",
+      "name": "Einar",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "eilif",
+      "kind": "name",
+      "name": "Eilif",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "finn",
+      "kind": "name",
+      "name": "Finn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "geir",
+      "kind": "name",
+      "name": "Geir",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "grim",
+      "kind": "name",
+      "name": "Grim",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gudmund",
+      "kind": "name",
+      "name": "Gudmund",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gunnlaug",
+      "kind": "name",
+      "name": "Gunnlaug",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hallbjorn",
+      "kind": "name",
+      "name": "Hallbjorn",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "halvard",
+      "kind": "name",
+      "name": "Halvard",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hauk",
+      "kind": "name",
+      "name": "Hauk",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "helge",
+      "kind": "name",
+      "name": "Helge",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "herjolf",
+      "kind": "name",
+      "name": "Herjolf",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "hjalmar",
+      "kind": "name",
+      "name": "Hjalmar",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ingolf",
+      "kind": "name",
+      "name": "Ingolf",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kolbein",
+      "kind": "name",
+      "name": "Kolbein",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kol",
+      "kind": "name",
+      "name": "Kol",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "kari",
+      "kind": "name",
+      "name": "Kari",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "odd",
+      "kind": "name",
+      "name": "Odd",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ragnvald",
+      "kind": "name",
+      "name": "Ragnvald",
+      "culture": "norse",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ragnarsson",
+      "kind": "name",
+      "name": "Ragnarsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "bjornsson",
+      "kind": "name",
+      "name": "Bjornsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "eriksson",
+      "kind": "name",
+      "name": "Eriksson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "olafsson",
+      "kind": "name",
+      "name": "Olafsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "haraldsson",
+      "kind": "name",
+      "name": "Haraldsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "svensson",
+      "kind": "name",
+      "name": "Svensson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "ulfsson",
+      "kind": "name",
+      "name": "Ulfsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "leifsson",
+      "kind": "name",
+      "name": "Leifsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "thorsteinsson",
+      "kind": "name",
+      "name": "Thorsteinsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "thorkelsson",
+      "kind": "name",
+      "name": "Thorkelsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "ketilsson",
+      "kind": "name",
+      "name": "Ketilsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "eyvindsson",
+      "kind": "name",
+      "name": "Eyvindsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "halfdansson",
+      "kind": "name",
+      "name": "Halfdansson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "hakonarson",
+      "kind": "name",
+      "name": "Hakonarson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "hrolfsson",
+      "kind": "name",
+      "name": "Hrolfsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "ivarsson",
+      "kind": "name",
+      "name": "Ivarsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "knutsson",
+      "kind": "name",
+      "name": "Knutsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "magnusson",
+      "kind": "name",
+      "name": "Magnusson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "ormsson",
+      "kind": "name",
+      "name": "Ormsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "ottarsson",
+      "kind": "name",
+      "name": "Ottarsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "skulason",
+      "kind": "name",
+      "name": "Skulason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "snorrason",
+      "kind": "name",
+      "name": "Snorrason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "steinarsson",
+      "kind": "name",
+      "name": "Steinarsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "sturluson",
+      "kind": "name",
+      "name": "Sturluson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "sveinsson",
+      "kind": "name",
+      "name": "Sveinsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "thorvaldsson",
+      "kind": "name",
+      "name": "Thorvaldsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "tokison",
+      "kind": "name",
+      "name": "Tokison",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "arnulfsson",
+      "kind": "name",
+      "name": "Arnulfsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "asbjornsson",
+      "kind": "name",
+      "name": "Asbjornsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "atlason",
+      "kind": "name",
+      "name": "Atlason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "bardarson",
+      "kind": "name",
+      "name": "Bardarson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "bjarnason",
+      "kind": "name",
+      "name": "Bjarnason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "brandsson",
+      "kind": "name",
+      "name": "Brandsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "einarsson",
+      "kind": "name",
+      "name": "Einarsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "finnsson",
+      "kind": "name",
+      "name": "Finnsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "geirsson",
+      "kind": "name",
+      "name": "Geirsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "grimsson",
+      "kind": "name",
+      "name": "Grimsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "gudmundarson",
+      "kind": "name",
+      "name": "Gudmundarson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "hauksson",
+      "kind": "name",
+      "name": "Hauksson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "helgason",
+      "kind": "name",
+      "name": "Helgason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "hjalmarsson",
+      "kind": "name",
+      "name": "Hjalmarsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "ingolfsson",
+      "kind": "name",
+      "name": "Ingolfsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "kolbeinsson",
+      "kind": "name",
+      "name": "Kolbeinsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "oddsson",
+      "kind": "name",
+      "name": "Oddsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "thorolfsson",
+      "kind": "name",
+      "name": "Thorolfsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "thorirsson",
+      "kind": "name",
+      "name": "Thorirsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "thorgrimsson",
+      "kind": "name",
+      "name": "Thorgrimsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "karason",
+      "kind": "name",
+      "name": "Karason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "valason",
+      "kind": "name",
+      "name": "Valason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "dagsson",
+      "kind": "name",
+      "name": "Dagsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "eilifsson",
+      "kind": "name",
+      "name": "Eilifsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "hallbjornsson",
+      "kind": "name",
+      "name": "Hallbjornsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "herjolfsson",
+      "kind": "name",
+      "name": "Herjolfsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "ulfarsson",
+      "kind": "name",
+      "name": "Ulfarsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "sturlason",
+      "kind": "name",
+      "name": "Sturlason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "steinsson",
+      "kind": "name",
+      "name": "Steinsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "thorfinnsson",
+      "kind": "name",
+      "name": "Thorfinnsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "trygvason",
+      "kind": "name",
+      "name": "Trygvason",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "torgeirsson",
+      "kind": "name",
+      "name": "Torgeirsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "ragnvaldsson",
+      "kind": "name",
+      "name": "Ragnvaldsson",
+      "culture": "norse",
+      "part": "family"
+    },
+    {
+      "id": "kolsson",
+      "kind": "name",
+      "name": "Kolsson",
+      "culture": "norse",
+      "part": "family"
+    }
+  ]
+}

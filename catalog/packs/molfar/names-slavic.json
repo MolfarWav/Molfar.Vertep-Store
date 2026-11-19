@@ -1,0 +1,2369 @@
+{
+  "format": 1,
+  "id": "molfar/names-slavic",
+  "name": "Old Slavic names",
+  "author": "Molfar",
+  "license": "CC0-1.0",
+  "description": "Older and mythic-sounding Slavic names, rooted in the early medieval Slavic world rather than modern Ukrainian or Russian usage.",
+  "version": 1,
+  "entries": [
+    {
+      "id": "lyubomira",
+      "kind": "name",
+      "name": "Любомира",
+      "aliases": {
+        "en": [
+          "Lyubomira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "miroslava",
+      "kind": "name",
+      "name": "Мирослава",
+      "aliases": {
+        "en": [
+          "Miroslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vereslava",
+      "kind": "name",
+      "name": "Вереслава",
+      "aliases": {
+        "en": [
+          "Vereslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zabava",
+      "kind": "name",
+      "name": "Забава",
+      "aliases": {
+        "en": [
+          "Zabava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zoryana",
+      "kind": "name",
+      "name": "Зоряна",
+      "aliases": {
+        "en": [
+          "Zoryana"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ladomira",
+      "kind": "name",
+      "name": "Ладомира",
+      "aliases": {
+        "en": [
+          "Ladomira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "milana",
+      "kind": "name",
+      "name": "Милана",
+      "aliases": {
+        "en": [
+          "Milana"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "miloslava",
+      "kind": "name",
+      "name": "Милослава",
+      "aliases": {
+        "en": [
+          "Miloslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nega",
+      "kind": "name",
+      "name": "Нега",
+      "aliases": {
+        "en": [
+          "Nega"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ozhena",
+      "kind": "name",
+      "name": "Ожена",
+      "aliases": {
+        "en": [
+          "Ozhena"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "radmila",
+      "kind": "name",
+      "name": "Радмила",
+      "aliases": {
+        "en": [
+          "Radmila"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "radomira",
+      "kind": "name",
+      "name": "Радомира",
+      "aliases": {
+        "en": [
+          "Radomira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "svitozara",
+      "kind": "name",
+      "name": "Світозара",
+      "aliases": {
+        "en": [
+          "Svitozara"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "svyatoslava",
+      "kind": "name",
+      "name": "Святослава",
+      "aliases": {
+        "en": [
+          "Svyatoslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "sudislava",
+      "kind": "name",
+      "name": "Судислава",
+      "aliases": {
+        "en": [
+          "Sudislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tomislava",
+      "kind": "name",
+      "name": "Томислава",
+      "aliases": {
+        "en": [
+          "Tomislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "velimira",
+      "kind": "name",
+      "name": "Велимира",
+      "aliases": {
+        "en": [
+          "Velimira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "visheslava",
+      "kind": "name",
+      "name": "Вишеслава",
+      "aliases": {
+        "en": [
+          "Visheslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vitomira",
+      "kind": "name",
+      "name": "Витомира",
+      "aliases": {
+        "en": [
+          "Vitomira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "bozhena",
+      "kind": "name",
+      "name": "Божена",
+      "aliases": {
+        "en": [
+          "Bozhena"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "boguslava",
+      "kind": "name",
+      "name": "Богуслава",
+      "aliases": {
+        "en": [
+          "Boguslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "bratislava",
+      "kind": "name",
+      "name": "Братислава",
+      "aliases": {
+        "en": [
+          "Bratislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "budimira",
+      "kind": "name",
+      "name": "Будимира",
+      "aliases": {
+        "en": [
+          "Budimira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vedana",
+      "kind": "name",
+      "name": "Ведана",
+      "aliases": {
+        "en": [
+          "Vedana"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "veleslava",
+      "kind": "name",
+      "name": "Велеслава",
+      "aliases": {
+        "en": [
+          "Veleslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "veselina",
+      "kind": "name",
+      "name": "Веселина",
+      "aliases": {
+        "en": [
+          "Veselina"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "vlasta",
+      "kind": "name",
+      "name": "Власта",
+      "aliases": {
+        "en": [
+          "Vlasta"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "gorislava",
+      "kind": "name",
+      "name": "Горислава",
+      "aliases": {
+        "en": [
+          "Gorislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "gradimira",
+      "kind": "name",
+      "name": "Градимира",
+      "aliases": {
+        "en": [
+          "Gradimira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dalibora",
+      "kind": "name",
+      "name": "Далибора",
+      "aliases": {
+        "en": [
+          "Dalibora"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dobromila",
+      "kind": "name",
+      "name": "Добромила",
+      "aliases": {
+        "en": [
+          "Dobromila"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dobroslava",
+      "kind": "name",
+      "name": "Доброслава",
+      "aliases": {
+        "en": [
+          "Dobroslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "dragomira",
+      "kind": "name",
+      "name": "Драгомира",
+      "aliases": {
+        "en": [
+          "Dragomira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zhdana",
+      "kind": "name",
+      "name": "Ждана",
+      "aliases": {
+        "en": [
+          "Zhdana"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zhivana",
+      "kind": "name",
+      "name": "Живана",
+      "aliases": {
+        "en": [
+          "Zhivana"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zlatomira",
+      "kind": "name",
+      "name": "Златомира",
+      "aliases": {
+        "en": [
+          "Zlatomira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zoreslava",
+      "kind": "name",
+      "name": "Зореслава",
+      "aliases": {
+        "en": [
+          "Zoreslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "kupava",
+      "kind": "name",
+      "name": "Купава",
+      "aliases": {
+        "en": [
+          "Kupava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lyubava",
+      "kind": "name",
+      "name": "Любава",
+      "aliases": {
+        "en": [
+          "Lyubava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mirolyuba",
+      "kind": "name",
+      "name": "Миролюба",
+      "aliases": {
+        "en": [
+          "Mirolyuba"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nada",
+      "kind": "name",
+      "name": "Нада",
+      "aliases": {
+        "en": [
+          "Nada"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "nevena",
+      "kind": "name",
+      "name": "Невена",
+      "aliases": {
+        "en": [
+          "Nevena"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "ognyana",
+      "kind": "name",
+      "name": "Огняна",
+      "aliases": {
+        "en": [
+          "Ognyana"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "pervoslava",
+      "kind": "name",
+      "name": "Первослава",
+      "aliases": {
+        "en": [
+          "Pervoslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "predslava",
+      "kind": "name",
+      "name": "Предслава",
+      "aliases": {
+        "en": [
+          "Predslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "prebislava",
+      "kind": "name",
+      "name": "Пребислава",
+      "aliases": {
+        "en": [
+          "Prebislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "rostislava",
+      "kind": "name",
+      "name": "Ростислава",
+      "aliases": {
+        "en": [
+          "Rostislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yaromira",
+      "kind": "name",
+      "name": "Яромира",
+      "aliases": {
+        "en": [
+          "Yaromira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "yaroslava",
+      "kind": "name",
+      "name": "Ярослава",
+      "aliases": {
+        "en": [
+          "Yaroslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "stanimira",
+      "kind": "name",
+      "name": "Станимира",
+      "aliases": {
+        "en": [
+          "Stanimira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "stoyana",
+      "kind": "name",
+      "name": "Стояна",
+      "aliases": {
+        "en": [
+          "Stoyana"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "tikhomira",
+      "kind": "name",
+      "name": "Тихомира",
+      "aliases": {
+        "en": [
+          "Tikhomira"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "uslada",
+      "kind": "name",
+      "name": "Услада",
+      "aliases": {
+        "en": [
+          "Uslada"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "khotislava",
+      "kind": "name",
+      "name": "Хотислава",
+      "aliases": {
+        "en": [
+          "Khotislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "cheslava",
+      "kind": "name",
+      "name": "Чеслава",
+      "aliases": {
+        "en": [
+          "Cheslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "berislava",
+      "kind": "name",
+      "name": "Берислава",
+      "aliases": {
+        "en": [
+          "Berislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "bronislava",
+      "kind": "name",
+      "name": "Бронислава",
+      "aliases": {
+        "en": [
+          "Bronislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "zhelislava",
+      "kind": "name",
+      "name": "Желислава",
+      "aliases": {
+        "en": [
+          "Zhelislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "lyuboslava",
+      "kind": "name",
+      "name": "Любослава",
+      "aliases": {
+        "en": [
+          "Lyuboslava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "mechislava",
+      "kind": "name",
+      "name": "Мечислава",
+      "aliases": {
+        "en": [
+          "Mechislava"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "odolena",
+      "kind": "name",
+      "name": "Одолена",
+      "aliases": {
+        "en": [
+          "Odolena"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "f"
+    },
+    {
+      "id": "miroslav",
+      "kind": "name",
+      "name": "Мирослав",
+      "aliases": {
+        "en": [
+          "Miroslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "svyatoslav",
+      "kind": "name",
+      "name": "Святослав",
+      "aliases": {
+        "en": [
+          "Svyatoslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yaroslav",
+      "kind": "name",
+      "name": "Ярослав",
+      "aliases": {
+        "en": [
+          "Yaroslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "volodimir",
+      "kind": "name",
+      "name": "Володимир",
+      "aliases": {
+        "en": [
+          "Volodimir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vsevolod",
+      "kind": "name",
+      "name": "Всеволод",
+      "aliases": {
+        "en": [
+          "Vsevolod"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vyacheslav",
+      "kind": "name",
+      "name": "Вячеслав",
+      "aliases": {
+        "en": [
+          "Vyacheslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "borislav",
+      "kind": "name",
+      "name": "Борислав",
+      "aliases": {
+        "en": [
+          "Borislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bratislav",
+      "kind": "name",
+      "name": "Братислав",
+      "aliases": {
+        "en": [
+          "Bratislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "budimir",
+      "kind": "name",
+      "name": "Будимир",
+      "aliases": {
+        "en": [
+          "Budimir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "velimir",
+      "kind": "name",
+      "name": "Велимир",
+      "aliases": {
+        "en": [
+          "Velimir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "veleslav",
+      "kind": "name",
+      "name": "Велеслав",
+      "aliases": {
+        "en": [
+          "Veleslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "visheslav",
+      "kind": "name",
+      "name": "Вишеслав",
+      "aliases": {
+        "en": [
+          "Visheslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vitomir",
+      "kind": "name",
+      "name": "Вітомир",
+      "aliases": {
+        "en": [
+          "Vitomir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gorislav",
+      "kind": "name",
+      "name": "Горислав",
+      "aliases": {
+        "en": [
+          "Gorislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "gradimir",
+      "kind": "name",
+      "name": "Градимир",
+      "aliases": {
+        "en": [
+          "Gradimir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dalibor",
+      "kind": "name",
+      "name": "Далибор",
+      "aliases": {
+        "en": [
+          "Dalibor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dobromir",
+      "kind": "name",
+      "name": "Добромир",
+      "aliases": {
+        "en": [
+          "Dobromir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dobroslav",
+      "kind": "name",
+      "name": "Доброслав",
+      "aliases": {
+        "en": [
+          "Dobroslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "dragomir",
+      "kind": "name",
+      "name": "Драгомир",
+      "aliases": {
+        "en": [
+          "Dragomir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "zhdan",
+      "kind": "name",
+      "name": "Ждан",
+      "aliases": {
+        "en": [
+          "Zhdan"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "zhivko",
+      "kind": "name",
+      "name": "Живко",
+      "aliases": {
+        "en": [
+          "Zhivko"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "zlatomir",
+      "kind": "name",
+      "name": "Златомир",
+      "aliases": {
+        "en": [
+          "Zlatomir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "radomir",
+      "kind": "name",
+      "name": "Радомир",
+      "aliases": {
+        "en": [
+          "Radomir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ratibor",
+      "kind": "name",
+      "name": "Ратибор",
+      "aliases": {
+        "en": [
+          "Ratibor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "radim",
+      "kind": "name",
+      "name": "Радим",
+      "aliases": {
+        "en": [
+          "Radim"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rostislav",
+      "kind": "name",
+      "name": "Ростислав",
+      "aliases": {
+        "en": [
+          "Rostislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "svitozar",
+      "kind": "name",
+      "name": "Світозар",
+      "aliases": {
+        "en": [
+          "Svitozar"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "sudislav",
+      "kind": "name",
+      "name": "Судислав",
+      "aliases": {
+        "en": [
+          "Sudislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "stanimir",
+      "kind": "name",
+      "name": "Станимир",
+      "aliases": {
+        "en": [
+          "Stanimir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "stoyan",
+      "kind": "name",
+      "name": "Стоян",
+      "aliases": {
+        "en": [
+          "Stoyan"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tikhomir",
+      "kind": "name",
+      "name": "Тихомир",
+      "aliases": {
+        "en": [
+          "Tikhomir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "tomislav",
+      "kind": "name",
+      "name": "Томислав",
+      "aliases": {
+        "en": [
+          "Tomislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "khotimir",
+      "kind": "name",
+      "name": "Хотимир",
+      "aliases": {
+        "en": [
+          "Khotimir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "cheslav",
+      "kind": "name",
+      "name": "Чеслав",
+      "aliases": {
+        "en": [
+          "Cheslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yaromir",
+      "kind": "name",
+      "name": "Яромир",
+      "aliases": {
+        "en": [
+          "Yaromir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lyubomir",
+      "kind": "name",
+      "name": "Любомир",
+      "aliases": {
+        "en": [
+          "Lyubomir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lyudomir",
+      "kind": "name",
+      "name": "Людомир",
+      "aliases": {
+        "en": [
+          "Lyudomir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bronislav",
+      "kind": "name",
+      "name": "Бронислав",
+      "aliases": {
+        "en": [
+          "Bronislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "zbislav",
+      "kind": "name",
+      "name": "Збислав",
+      "aliases": {
+        "en": [
+          "Zbislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "mechislav",
+      "kind": "name",
+      "name": "Мечислав",
+      "aliases": {
+        "en": [
+          "Mechislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "milovan",
+      "kind": "name",
+      "name": "Милован",
+      "aliases": {
+        "en": [
+          "Milovan"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "milorad",
+      "kind": "name",
+      "name": "Милорад",
+      "aliases": {
+        "en": [
+          "Milorad"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "pervoslav",
+      "kind": "name",
+      "name": "Первослав",
+      "aliases": {
+        "en": [
+          "Pervoslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "predslav",
+      "kind": "name",
+      "name": "Предслав",
+      "aliases": {
+        "en": [
+          "Predslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "prebislav",
+      "kind": "name",
+      "name": "Пребислав",
+      "aliases": {
+        "en": [
+          "Prebislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rogvolod",
+      "kind": "name",
+      "name": "Рогволод",
+      "aliases": {
+        "en": [
+          "Rogvolod"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "rodoslav",
+      "kind": "name",
+      "name": "Родослав",
+      "aliases": {
+        "en": [
+          "Rodoslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "beloyan",
+      "kind": "name",
+      "name": "Белоян",
+      "aliases": {
+        "en": [
+          "Beloyan"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "boyan",
+      "kind": "name",
+      "name": "Боян",
+      "aliases": {
+        "en": [
+          "Boyan"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "vadim",
+      "kind": "name",
+      "name": "Вадим",
+      "aliases": {
+        "en": [
+          "Vadim"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "volibor",
+      "kind": "name",
+      "name": "Волибор",
+      "aliases": {
+        "en": [
+          "Volibor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "godislav",
+      "kind": "name",
+      "name": "Годислав",
+      "aliases": {
+        "en": [
+          "Godislav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "domazhir",
+      "kind": "name",
+      "name": "Домажир",
+      "aliases": {
+        "en": [
+          "Domazhir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lyutobor",
+      "kind": "name",
+      "name": "Лютобор",
+      "aliases": {
+        "en": [
+          "Lyutobor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "lyubim",
+      "kind": "name",
+      "name": "Любим",
+      "aliases": {
+        "en": [
+          "Lyubim"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "nechay",
+      "kind": "name",
+      "name": "Нечай",
+      "aliases": {
+        "en": [
+          "Nechay"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "nevzor",
+      "kind": "name",
+      "name": "Невзор",
+      "aliases": {
+        "en": [
+          "Nevzor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "ogneslav",
+      "kind": "name",
+      "name": "Огнеслав",
+      "aliases": {
+        "en": [
+          "Ogneslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "odolen",
+      "kind": "name",
+      "name": "Одолен",
+      "aliases": {
+        "en": [
+          "Odolen"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "stribor",
+      "kind": "name",
+      "name": "Стрибор",
+      "aliases": {
+        "en": [
+          "Stribor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "khodimir",
+      "kind": "name",
+      "name": "Ходимир",
+      "aliases": {
+        "en": [
+          "Khodimir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "yarovit",
+      "kind": "name",
+      "name": "Яровит",
+      "aliases": {
+        "en": [
+          "Yarovit"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "radogost",
+      "kind": "name",
+      "name": "Радогост",
+      "aliases": {
+        "en": [
+          "Radogost"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "berimir",
+      "kind": "name",
+      "name": "Беримир",
+      "aliases": {
+        "en": [
+          "Berimir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "bereslav",
+      "kind": "name",
+      "name": "Береслав",
+      "aliases": {
+        "en": [
+          "Bereslav"
+        ]
+      },
+      "culture": "slavic",
+      "part": "given",
+      "gender": "m"
+    },
+    {
+      "id": "beloyarich",
+      "kind": "name",
+      "name": "Белоярич",
+      "aliases": {
+        "en": [
+          "Beloyarich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "vranich",
+      "kind": "name",
+      "name": "Вранич",
+      "aliases": {
+        "en": [
+          "Vranich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "volkhovich",
+      "kind": "name",
+      "name": "Волхович",
+      "aliases": {
+        "en": [
+          "Volkhovich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "voronich",
+      "kind": "name",
+      "name": "Воронич",
+      "aliases": {
+        "en": [
+          "Voronich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "gornostay",
+      "kind": "name",
+      "name": "Горностай",
+      "aliases": {
+        "en": [
+          "Gornostay"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "sokolich",
+      "kind": "name",
+      "name": "Соколич",
+      "aliases": {
+        "en": [
+          "Sokolich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "orlich",
+      "kind": "name",
+      "name": "Орлич",
+      "aliases": {
+        "en": [
+          "Orlich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "medvedich",
+      "kind": "name",
+      "name": "Медведич",
+      "aliases": {
+        "en": [
+          "Medvedich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "zubrich",
+      "kind": "name",
+      "name": "Зубрич",
+      "aliases": {
+        "en": [
+          "Zubrich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "yastrubich",
+      "kind": "name",
+      "name": "Яструбич",
+      "aliases": {
+        "en": [
+          "Yastrubich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "lebedich",
+      "kind": "name",
+      "name": "Лебедич",
+      "aliases": {
+        "en": [
+          "Lebedich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "lyubomirich",
+      "kind": "name",
+      "name": "Любомирич",
+      "aliases": {
+        "en": [
+          "Lyubomirich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "radomirich",
+      "kind": "name",
+      "name": "Радомирич",
+      "aliases": {
+        "en": [
+          "Radomirich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "velemirich",
+      "kind": "name",
+      "name": "Велемирич",
+      "aliases": {
+        "en": [
+          "Velemirich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "ognivich",
+      "kind": "name",
+      "name": "Огнівич",
+      "aliases": {
+        "en": [
+          "Ognivich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "svitlovich",
+      "kind": "name",
+      "name": "Світлович",
+      "aliases": {
+        "en": [
+          "Svitlovich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "chornogor",
+      "kind": "name",
+      "name": "Чорногор",
+      "aliases": {
+        "en": [
+          "Chornogor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "bilogor",
+      "kind": "name",
+      "name": "Білогор",
+      "aliases": {
+        "en": [
+          "Bilogor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "grozin",
+      "kind": "name",
+      "name": "Грозин",
+      "aliases": {
+        "en": [
+          "Grozin"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "gromov",
+      "kind": "name",
+      "name": "Громов",
+      "aliases": {
+        "en": [
+          "Gromov"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "lisich",
+      "kind": "name",
+      "name": "Лісич",
+      "aliases": {
+        "en": [
+          "Lisich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "borovich",
+      "kind": "name",
+      "name": "Борович",
+      "aliases": {
+        "en": [
+          "Borovich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "dubich",
+      "kind": "name",
+      "name": "Дубич",
+      "aliases": {
+        "en": [
+          "Dubich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "kremin",
+      "kind": "name",
+      "name": "Кремінь",
+      "aliases": {
+        "en": [
+          "Kremin"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "kaminich",
+      "kind": "name",
+      "name": "Камінич",
+      "aliases": {
+        "en": [
+          "Kaminich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "zarechniy",
+      "kind": "name",
+      "name": "Заречний",
+      "aliases": {
+        "en": [
+          "Zarechniy"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "zagorskiy",
+      "kind": "name",
+      "name": "Загорський",
+      "aliases": {
+        "en": [
+          "Zagorskiy"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "zalisniy",
+      "kind": "name",
+      "name": "Залісний",
+      "aliases": {
+        "en": [
+          "Zalisniy"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "lyutich",
+      "kind": "name",
+      "name": "Лютич",
+      "aliases": {
+        "en": [
+          "Lyutich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "boreslavich",
+      "kind": "name",
+      "name": "Бореславич",
+      "aliases": {
+        "en": [
+          "Boreslavich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "radimich",
+      "kind": "name",
+      "name": "Радимич",
+      "aliases": {
+        "en": [
+          "Radimich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "miroslavich",
+      "kind": "name",
+      "name": "Мирославич",
+      "aliases": {
+        "en": [
+          "Miroslavich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "svyatoslavich",
+      "kind": "name",
+      "name": "Святославич",
+      "aliases": {
+        "en": [
+          "Svyatoslavich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "yaroslavich",
+      "kind": "name",
+      "name": "Ярославич",
+      "aliases": {
+        "en": [
+          "Yaroslavich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "dobrin",
+      "kind": "name",
+      "name": "Добрин",
+      "aliases": {
+        "en": [
+          "Dobrin"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "dobrinich",
+      "kind": "name",
+      "name": "Добринич",
+      "aliases": {
+        "en": [
+          "Dobrinich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "nechayev",
+      "kind": "name",
+      "name": "Нечаєв",
+      "aliases": {
+        "en": [
+          "Nechayev"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "zhupan",
+      "kind": "name",
+      "name": "Жупан",
+      "aliases": {
+        "en": [
+          "Zhupan"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "khorvat",
+      "kind": "name",
+      "name": "Хорват",
+      "aliases": {
+        "en": [
+          "Khorvat"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "yasnovidov",
+      "kind": "name",
+      "name": "Ясновидов",
+      "aliases": {
+        "en": [
+          "Yasnovidov"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "vyatich",
+      "kind": "name",
+      "name": "Вятич",
+      "aliases": {
+        "en": [
+          "Vyatich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "drevlyanich",
+      "kind": "name",
+      "name": "Древлянич",
+      "aliases": {
+        "en": [
+          "Drevlyanich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "polyanich",
+      "kind": "name",
+      "name": "Полянич",
+      "aliases": {
+        "en": [
+          "Polyanich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "ulichich",
+      "kind": "name",
+      "name": "Уличич",
+      "aliases": {
+        "en": [
+          "Ulichich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "dulibich",
+      "kind": "name",
+      "name": "Дулібич",
+      "aliases": {
+        "en": [
+          "Dulibich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "tivirich",
+      "kind": "name",
+      "name": "Тивирич",
+      "aliases": {
+        "en": [
+          "Tivirich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "luzhanin",
+      "kind": "name",
+      "name": "Лужанин",
+      "aliases": {
+        "en": [
+          "Luzhanin"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "moravanin",
+      "kind": "name",
+      "name": "Мораванин",
+      "aliases": {
+        "en": [
+          "Moravanin"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "buzhanin",
+      "kind": "name",
+      "name": "Бужанин",
+      "aliases": {
+        "en": [
+          "Buzhanin"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "vislenin",
+      "kind": "name",
+      "name": "Висленин",
+      "aliases": {
+        "en": [
+          "Vislenin"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "obodrich",
+      "kind": "name",
+      "name": "Ободрич",
+      "aliases": {
+        "en": [
+          "Obodrich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "lyutomir",
+      "kind": "name",
+      "name": "Лютомир",
+      "aliases": {
+        "en": [
+          "Lyutomir"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "svitanov",
+      "kind": "name",
+      "name": "Світанов",
+      "aliases": {
+        "en": [
+          "Svitanov"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "zorevich",
+      "kind": "name",
+      "name": "Зоревич",
+      "aliases": {
+        "en": [
+          "Zorevich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "ladich",
+      "kind": "name",
+      "name": "Ладич",
+      "aliases": {
+        "en": [
+          "Ladich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "ratich",
+      "kind": "name",
+      "name": "Ратич",
+      "aliases": {
+        "en": [
+          "Ratich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "gostomisl",
+      "kind": "name",
+      "name": "Гостомисл",
+      "aliases": {
+        "en": [
+          "Gostomisl"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "krutogor",
+      "kind": "name",
+      "name": "Крутогор",
+      "aliases": {
+        "en": [
+          "Krutogor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "yasnogor",
+      "kind": "name",
+      "name": "Ясногор",
+      "aliases": {
+        "en": [
+          "Yasnogor"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    },
+    {
+      "id": "charovich",
+      "kind": "name",
+      "name": "Чарович",
+      "aliases": {
+        "en": [
+          "Charovich"
+        ]
+      },
+      "culture": "slavic",
+      "part": "family"
+    }
+  ]
+}
